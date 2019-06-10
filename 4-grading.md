@@ -192,7 +192,7 @@ I will designate a number of possible projects for you to complete that will dra
 All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
 **Libatique - Creative Project - Poem.pdf  
-Libatique - Creative Project - Eidolon.pdf**
+Libatique - Creative Project - Eidolon.pdf**  
 etc.
 
 The guidelines for submission of all media-based creative projects is listed under the appropriate heading.
