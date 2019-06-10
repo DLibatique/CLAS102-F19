@@ -292,7 +292,5 @@ All reading assignments listed below should be completed by the date on which th
         <tr> <!--exam period-->
           <td colspan="4"><strong>EXAM PERIOD</strong></td>
         </tr>
-
     </tbody>
-
 </table>
