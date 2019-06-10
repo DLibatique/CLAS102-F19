@@ -5,13 +5,13 @@ title: Grading
 
 <a name="top"></a>
 <a href="#gc" class="underline">Grading Contract</a> \| <a href="#ap" class="underline">Absence Policy</a> \|  
-Guidelines: <a href="#responses" class="underline">Responses</a> \| <a href="#quizzes" class="underline">Quizzes</a> \| <a href="#finex" class="underline">Final Exam</a> \|<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#finess" class="underline">Final Essay</a> \| <a href="#cp" class="underline">Creative Projects</a>
+Guidelines: <a href="#quizzes" class="underline">Quizzes</a> \| <a href="#responses" class="underline">Responses</a> \| <a href="#final" class="underline">Final Exam or Essay</a> \|    
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#finex" class="underline">Final Exam</a> \| <a href="#finess" class="underline">Final Essay</a> \| <a href="#cp" class="underline">Creative Projects</a>
 
 <hr>
 # <a name="gc">Grading Contract</a>
 
-Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis. Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, *you* will be in control of your semester grade — *you* decide the grade that you want and commit as much time or energy towards that grade as you desire.
+Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the final exam/essay, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time or energy towards that grade as you desire.
 
 The following is a rubric for semester-end grades in the course.
 
@@ -23,6 +23,7 @@ The following is a rubric for semester-end grades in the course.
             <th><strong>A-</strong></th>
             <th><strong>B-</strong></th>
             <th><strong>C-</strong></th>
+            <th><strong>D</strong></th>
             <th><strong>D-</strong></th>
         </tr>
         <tr>
@@ -31,7 +32,17 @@ The following is a rubric for semester-end grades in the course.
             <td>&le; 2</td>
             <td>&le; 4</td>
             <td>&le; 6</td>
+            <td>&le; 7</td>
             <td>&le; 8</td>
+        </tr>
+        <tr>
+            <td class="row-start"><strong>Quizzes</strong></td>
+            <td>10</td>
+            <td>8</td>
+            <td>6</td>
+            <td>4</td>
+            <td>2</td>
+            <td>0</td>
         </tr>
         <tr>
             <td class="row-start"><strong>Responses</strong></td>
@@ -40,22 +51,7 @@ The following is a rubric for semester-end grades in the course.
             <td>10</td>
             <td>8</td>
             <td>6</td>
-        </tr>
-        <tr>
-            <td class="row-start"><strong>Quizzes</strong></td>
             <td>4</td>
-            <td>4</td>
-            <td>4</td>
-            <td>4</td>
-            <td>4</td>
-        </tr>
-        <tr>
-            <td class="row-start"><strong>Final Essay or Exam</strong></td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
         </tr>
         <tr>
             <td class="row-start"><strong>Creative Projects</strong></td>
@@ -64,26 +60,40 @@ The following is a rubric for semester-end grades in the course.
             <td>2</td>
             <td>1</td>
             <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td class="row-start"><strong>Final Exam/Essay*</strong></td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
         </tr>
     </tbody>
 </table>
 
-To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 10 responses to secondary readings, 2 creative projects, 4 quizzes, and a final essay or exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
+To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 6 quizzes; 10 responses to secondary readings; 2 creative projects; and two essays OR two exams OR one essay and one exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
 
-Once you have reached a certain grade level, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria for the responses or creative projects in the next grade range. For instance, a student in the B- range would move to a B by completing two more responses OR an additional creative project and would earn a B+ by doing both of those things. Then, at the end of the semester, if the student has completed the requirements for a B+ and accrued no more than 2 unexcused absences, the grade goes up to an A-. If, however, the student has accrued 3 or 4 unexcused absences, the grade remains at B+.
+Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student wants to improve that B+ to an A-, then they can complete two more responses, and then if the final unexcused absence tally at the end of the semester works out, then the student earns an A-!
 
-It is possible to make up unsatisfactory assignments. At the beginning of the semester, each student will be allotted three tokens. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory essay, exam, or creative project. No late assignments will be accepted without a documented reason.
+\* The essay/exam requirement is the only element of the grading contract that I will grade subjectively, and its grade will contribute to a movement up or down in semester grade; see the specific guidelines below under “Final Essay or Exam Guidelines.”
+
+It is possible to make up unsatisfactory assignments. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. No late assignments will be accepted without a documented reason.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="ap">Absence Policy</a>
-You must attend each meeting of the course to attain a good grade. I will be explaining many terms and concepts in class in ways that are not readily available through any other course materials, and your participation in the class’ discussion of the course’s readings and ideas is vital to building a strong classroom and your own foundation of knowledge.
+**You must attend each meeting of the course to attain a good grade.** I will be explaining many terms and concepts in class in ways that are not readily available through any other course materials, and your participation in the class’ discussion of the course’s readings and ideas is vital to building a strong classroom and your own foundation of knowledge.
 
-Attendance will be taken via a sign-in sheet at every class meeting. The sign-in sheet is the only way to verify that you were in attendance at class that day.
+**Attendance will be taken via a sign-in sheet at every class meeting. The sign-in sheet is the** ***only*** **way to verify that you were in attendance at class that day.**
 
-If you must miss a class meeting for any reason, please inform me as soon as you know of the absence **via e-mail before the class meeting begins**, and we will correspond accordingly. If you notify me before class begins, the absence is considered **excused**. The reasons for an excused absence can range from illness to family emergency to mental health or anything else; you do not need to specify it to me. All I ask is that you notify me via e-mail before the class begins.
+**If you must miss a class meeting for any reason, please inform me as soon as you know of the absence via e-mail** ***before*** **the class meeting begins**, and we will correspond accordingly. If you notify me before class begins, the absence is considered **excused**. The reasons for an excused absence can range from illness to family emergency to mental health or anything else; you do not need to specify it to me. All I ask is that you notify me via e-mail before the class begins.
 
-Any absence without a notifying e-mail can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/node/1381/#EAP).
+**You may take up to four (4) excused absences for the semester**. If you need to be absent for any classes beyond four excused absences, I ask that you provide a reason in your e-mail notifying me about the absence, and I will decide on a case-by-case basis whether I will excuse it or not.
+
+Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy here.
 
 Any absence about which I do not receive an e-mail from you or which is not excused by a note from your Class Dean will be considered **unexcused**.
 
@@ -91,22 +101,38 @@ The semester grading contract takes into account only **unexcused** absences, th
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
+# <a name="quizzes">Quiz Guidelines</a>
+
+There will be **twelve (12) quizzes** administered in class throughout the semester every Friday (except for September 6). Each quiz will take up the first **5 minutes** of the class period in which it’s administered. The format for each quiz can be any combination of the following formats: multiple choice, fill-in answers, or matching (e.g., authors to names of works, events and dates, etc.). **All quiz-able material will be drawn from the underlined terms on the slideshows**.
+
+I purposefully write the slideshow terms without much detail, and the definitions and explanations that I will provide in class cannot be found through Google searches or the like. It behooves you to take good notes, study constantly, and contact me with any questions about terms as they arise. Make sure to have a buddy in class from whom you can get notes if you are absent on a given day.
+
+If you are absent on a quiz day, I will allow you to take a make-up **ONLY** if the absence is excused. If the absence is unexcused, you will receive a 0 for that quiz.
+
+A satisfactory quiz grade will be **7 out of 10 points**. Once you complete **ten (10)** satisfactory quizzes (the requirement for a semester grade of A), you are exempt from taking any remaining quizzes.
+
+<a href="#top" class="underline">Back to top.</a>
+<hr>
 # <a name="responses">Response Guidelines</a>
 
-This requirement asks you to respond to secondary articles, chapters, or podcasts that treat ancient gender and sexuality. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles, chapters, or podcasts that deal with a topic in which you are interested. So, you may choose to write four responses to the four articles and podcasts listed in Week 3, or you may opt to write no responses for that week and focus instead on general interest articles — it’s up to you!
+This requirement asks you to respond to secondary articles, chapters, or podcasts that treat themes of Roman literature and society. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles, chapters, or podcasts that deal with a topic in which you are interested. So, you may choose to write ________ — it’s up to you!
 
-There is no particular due date for any given response; if you feel so inclined, you may, for example, read 14 articles and write 14 responses in the first week of the course and then not have to write any for the remainder. Do keep in mind, though, that the opposite is not true: all responses must be received by **6pm on May 6** (the final day of class), and you may submit **no more than six (6) responses in the space between April 30 and May 6**. So, it behooves you to keep up a regular response submission pattern — if you aim for one response per week, you’ll get to 12-13 responses, with only 1 or 2 more needed for A credit.
+For **each full month** of the semester (September, October, and November), you may submit **up to four (4) responses and no more**. For **December up to 5pm on Friday, December 11** (the last day of class), you may submit **up to two (2) responses and no more**. If you keep to this schedule, you are on track for the full **fourteen (14) responses** needed for a semester grade of A.
+
+I highly encourage you to plan out your response writing at the beginning of the semester; if you fall short of a month’s quota of responses, you will not be allowed to submit more than four in the following months to make up for it. The responses for a given month do not need to respond to articles assigned to classes within that month; for example, you can submit a response to --, assigned for September --, in October. The main point to keep in mind is that you can submit a maximum of four responses per full month and two in December.
 
 Your response should be written in one of three formats: **3-2-1**, **argument analysis**, or **personal reflection**. All three formats should be **1-2pp. double-spaced**. If you go beyond 2 pp., that’s fine too; 1-2pp. is just a general guideline. **The response will be graded “satisfactory” if it answers each prompt or question under the appropriate heading below.**
 
-All responses on textual articles or chapters should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE]**. For example: **Libatique - Response - Herz 2015.pdf**.
+All responses on textual articles or chapters should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE OF PUBLICATION]**. For example: **Libatique - Response - Zuckerberg 2015.pdf**.
 
 All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [WEEK OF ASSIGNMENT]**. For example: **Libatique - Response - Podcast - Week 4.pdf**.
 
+Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or podcast to which you are responding**.
+
 <span class="underline"><strong>3-2-1</strong></span>  
-Write down **three (3)** things that you learned.  
-Write down **two (2)** things that you found interesting and want to learn more about.  
-Write down **one (1)** thing that was unclear or one question that you still have about the material.  
+- Write down **three (3)** things that you learned.  
+- Write down **two (2)** things that you found interesting and want to learn more about.  
+- Write down **one (1)** thing that was unclear or one question that you still have about the material.  
 A 3-2-1 does not need to be written in paragraph form; you can use bullet points or numbered lists.  
 
 <span class="underline"><strong>Argument Analysis</strong></span>  
@@ -116,37 +142,43 @@ Answer the following questions:
 - Do you agree or disagree? Or, put differently, does the author make their case persuasively?
 
 <span class="underline"><strong>Personal Reflection</strong></span>  
-If the article speaks to you on a personal level (in terms of gender, sexual orientation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life?
+If the article speaks to you on a personal level (in terms of gender, sexual orientation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
-# <a name="quizzes">Quiz Guidelines</a>
+# <a name="final">Final Exam or Essay</a>
 
-There will be **six (6)** quizzes administered in class throughout the semester at the end of the class period to which it’s assigned. Each quiz will be graded out of 10 points; **a satisfactory grade will be a 7/10 or higher**. The format of the quizzes will vary, from multiple choice to fill in the blank to matching. All quiz-able material will be drawn from the underlined terms on the slideshows. Once you complete **four (4)** satisfactory quizzes, you are exempt from taking any remaining quizzes. If you do not complete four satisfactory quizzes within the six administered in class, we will correspond privately about further quiz opportunities.
+As a final requirement for the course, **you will choose whether to complete an exam or an essay**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing essays.
+
+In class on **Friday, November 22**, I will circulate a sign-up sheet where you will write down your preference for either an exam or essay. The date and time of the final exam and the due date and time for the final essay will be dictated by the registrar; I will update once that information is published.
+
+The essay/exam, due to its singular nature and timing at the end of the semester, is the only element of the grading contract that I will grade subjectively. As a result, the grade ranges for each will impact movement for your semester grade as follows:
+
+The final exam will be graded out of **100 points**.
+- A grade of **80 or higher** improves your semester grade by one stop (e.g., from a - to a letter, from a letter to a +, from a + to the - in the next range, etc.).
+- A grade of **70-79** keeps your grade wherever it is.
+- A grade of **69 or lower** decreases your semester grade by one stop (e.g., from a - to a + in the previous range, from a + to a letter, from a letter to a -, etc.).
+
+Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
+
+The final essay will be graded on a **letter basis**.
+- A grade of **B- or higher** improves your semester grade by one stop.
+- A grade of **C- to C+** keeps your grade wherever it is.
+- A grade of **D+ or lower** decreases your semester grade by one stop.
+
+This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 36 or higher on a final exam or a grade of B or higher on a final essay can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="finex">Final Exam Guidelines</a>
 
-Anyone who did not opt in to writing a final essay by W 4/10 will by default be taking a final exam on **Friday May 10 at 8am**. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, matching, and one or two essay questions. Material for the multiple choice, fill-in-the-blanks, and matching may be drawn from any of the underlined terms on the slideshows. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**.
+The final exam format will be like an extended quiz (with multiple choice, fill in the blank, and matching questions) with additional short answer questions. The short answers may ask you to compare two passages that we’ve read during the semester, to describe social conditions or institutions in Rome, etc. The final exam will be cumulative, and it should take about 1.5 hours.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="finess">Final Essay Guidelines</a>
 
-You must have opted in to writing a final essay by W 4/10. The final essay will be **5-6pp. double-spaced** and encourage you either to make and substantiate an argument about gender and sexuality in the ancient world or to reflect personally on what you've learned this semester. To be clear, 5-6 pages is not a lot of space; the challenge of this essay is making a persuasive argument using proper primary and scholarly secondary evidence in a small amount of space. Sample prompts include:
-
-- Can we equate the ancient *kinaidos* / *cinaedus* with the modern notion of a gay man? Why or why not?
-- Can we equate the ancient *tribas* with the modern notion of a lesbian woman? Why or why not?
-- Did Greek women or Roman women possess more social power in their respective cultures?
-
-You will be required to draw on at least two primary sources and two secondary sources to write your essay.
-
-The final essay will be due on **Friday, May 10, by 5pm**.
-
-Detailed guidelines can be found [here](https://dlibatique.github.io/images/essaydetails.pdf).
-
-Example citations can be found [here](https://dlibatique.github.io/images/examplecitations.pdf).
+For the final essay, I will provide six (6) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained here: --
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -154,22 +186,23 @@ Example citations can be found [here](https://dlibatique.github.io/images/exampl
 
 [Creative Project Prompts]({{ site.baseurl }}5-creative/)
 
-I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to looking for ancient gender and sexuality in modern media like movies or music. If you would like to complete a creative project that isn’t listed in the possibilities [here]({{ site.baseurl }}5-creative/), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
+I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to making a pitch to creating a playlist. If you would like to complete a creative project that isn’t listed in the possibilities here, you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
 
-All text-based creative projects should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
+All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
-**Libatique - Creative Project - Poem.pdf**  
-**Libatique - Creative Project - Sappho.pdf**  
+**Libatique - Creative Project - Poem.pdf
+Libatique - Creative Project - Eidolon.pdf**
 etc.
 
 The guidelines for submission of all media-based creative projects is listed under the appropriate heading.
 
-All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period), and you may submit **no more than two (2) creative projects between April 11 and May 9**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+All creative projects must be submitted to me by **5pm on Monday, December 16** (the last day of the study period). There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
-- Submit Creative Project #1: 2/25
-- Submit Creative Project #2: 3/20
-- Submit Creative Project #3: 4/15
-- Submit Creative Project #4: 5/9
+
+Submit Creative Project #1: 9/27
+Submit Creative Project #2: 10/25
+Submit Creative Project #3: 11/22
+Submit Creative Project #4: 12/16
 
 <a href="#top" class="underline">Back to top.</a>
