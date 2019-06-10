@@ -22,10 +22,10 @@ All reading assignments listed below should be completed by the date on which th
     <tbody>
 
         <tr> <!--Week 1 start-->
-            <td rowspan=2>1</td>
+            <td rowspan="2">1</td>
             <td><strong>W 9/4</strong></td>
             <td>Come to class!</td>
-            <td rowspan=2><strong>Introduction: Women and Men in Roman Literature and Society</strong></td>
+            <td rowspan="2"><strong>Introduction: Women and Men in Roman Literature and Society</strong></td>
         </tr>
         <tr>
             <td><strong>F 9/6</strong></td>
@@ -38,10 +38,10 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 2 start-->
-            <td rowspan=3>2</td>
+            <td rowspan="3">2</td>
             <td><strong>M 9/9</strong></td>
             <td>Plautus <a href="https://drive.google.com/open?id=1rU6nqT5Us7cQ-gDqS-dQf86k3PnCwFDZ"><em>Casina</em> 1-514</a></td>
-            <td rowspan=2><strong>The Origins of Roman Literature and Plautus' <em>Casina</em></strong></td>
+            <td rowspan="2"><strong>The Origins of Roman Literature and Plautus' <em>Casina</em></strong></td>
         </tr>
         <tr>
             <td><strong>W 9/11</strong></td>
