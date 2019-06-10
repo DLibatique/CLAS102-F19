@@ -201,9 +201,9 @@ All creative projects must be submitted to me by **5pm on Monday, December 16** 
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
-Submit Creative Project #1: 9/27
-Submit Creative Project #2: 10/25
-Submit Creative Project #3: 11/22
-Submit Creative Project #4: 12/16
+Submit Creative Project #1: 9/27  
+Submit Creative Project #2: 10/25  
+Submit Creative Project #3: 11/22  
+Submit Creative Project #4: 12/16  
 
 <a href="#top" class="underline">Back to top.</a>
