@@ -9,7 +9,7 @@ All reading assignments listed below should be completed by the date on which th
 
 “Hackett” means our primary textbook (Francese and Smith, eds., *Ancient Rome: An Anthology of Sources*, Hackett 2014). Other physical texts will be referenced by the author’s last name. Some reading assignments will be found online – a link will be provided.
 
-<table style="table-layout:auto;">
+<table>
     <thead>
         <tr>
             <th>Week</th>
