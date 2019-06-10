@@ -50,11 +50,11 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>F 9/13</strong></td>
             <td>Cicero <em>In Defense of Archias</em> (Hackett, pp. 34-43)<br><br><strong>QUIZ 1</strong></td>
-            <td rowspan=2><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></td>
+            <td rowspan="2"><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></td>
         </tr>
 
         <tr> <!--Week 3 start-->
-            <td rowspan=3>3</td>
+            <td rowspan="3">3</td>
             <td><strong>M 9/16</strong></td>
             <td>Cicero <em>Letters</em> 5-8, 10, 12-14, 16, 18 (Hackett, pp. 43-44, 53-57, 59-65, 67-69)</td>
         </tr>
@@ -76,7 +76,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 4 start-->
-            <td rowspan=3>4</td>
+            <td rowspan="3">4</td>
             <td><strong>M 9/23</strong></td>
             <td>
               <ul>
@@ -104,7 +104,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 5 start-->
-            <td rowspan=3>5</td>
+            <td rowspan="3">5</td>
             <td><strong>M 9/30</strong></td>
             <td>Livy 1.8-19, 21 (Hackett, pp. 150-161)</td>
             <td><strong>Livy 2: From Romulus to Numa</strong></td>
@@ -121,7 +121,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 6 start-->
-            <td rowspan=3>6</td>
+            <td rowspan="3">6</td>
             <td><strong>M 10/7</strong></td>
             <td>Vergil <em>Aeneid</em> Books 1-4 (Ruden)</td>
             <td><strong><em>Aeneid</em> 1: The Exile and the Queen</strong></td>
@@ -138,11 +138,11 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--fall break-->
-          <td colspan=4><strong>FALL BREAK</strong></td>
+          <td colspan="4"><strong>FALL BREAK</strong></td>
         </tr>
 
         <tr> <!--Week 7 start-->
-            <td rowspan=3>7</td>
+            <td rowspan="3">7</td>
             <td><strong>M 10/21</strong></td>
             <td>
               <ul>
@@ -170,7 +170,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 8 start-->
-            <td rowspan=3>8</td>
+            <td rowspan="3">8</td>
             <td><strong>M 10/28</strong></td>
             <td>Ovid <em>Metamorphoses</em> Books 6-10 (Humphries/Reed)</td>
             <td><strong>Ovid 2: From Divine Punishments to Human Horrors</td>
@@ -187,7 +187,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 9 start-->
-            <td rowspan=3>9</td>
+            <td rowspan="3">9</td>
             <td><strong>M 11/4</strong></td>
             <td>
               <ul>
@@ -200,7 +200,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>W 11/6</strong></td>
             <td>Lucan <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaImaster.php"><em>Pharsalia</em> Book 1</a><br><br><strong>Guest lecturer: Prof. Tim Joseph</strong></td>
-            <td rowspan=2><strong>Lucan’s <em>Pharsalia</em>: A Republican Retrospective</strong></td>
+            <td rowspan="2"><strong>Lucan’s <em>Pharsalia</em>: A Republican Retrospective</strong></td>
         </tr>
         <tr>
             <td><strong>F 11/8</strong></td>
@@ -208,7 +208,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 10 start-->
-            <td rowspan=3>10</td>
+            <td rowspan="3">10</td>
             <td><strong>M 11/11</strong></td>
             <td>Seneca <em>Thyestes</em> [SCAN NEEDED]</td>
             <td><strong>Seneca and (the Loss of) Roman Tragedy</td>
@@ -216,7 +216,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>W 11/13</strong></td>
             <td>Tacitus <a href="https://sourcebooks.fordham.edu/ancient/tacitus-agricola.asp"><em>Agricola</em> 1-9, 18-46</a></td>
-            <td rowspan=2><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
+            <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
         </tr>
         <tr>
             <td><strong>F 11/15</strong></td>
@@ -224,10 +224,10 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 11 start-->
-            <td rowspan=3>11</td>
+            <td rowspan="3">11</td>
             <td><strong>M 11/18</strong></td>
             <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
-            <td rowspan=2><strong>Imperial Epistolography: Pliny the Younger</td>
+            <td rowspan="2"><strong>Imperial Epistolography: Pliny the Younger</td>
         </tr>
         <tr>
             <td><strong>W 11/20</strong></td>
@@ -249,11 +249,11 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Thanksgiving break-->
-          <td colspan=4><strong>THANKSGIVING BREAK</strong></td>
+          <td colspan="4"><strong>THANKSGIVING BREAK</strong></td>
         </tr>
 
         <tr> <!--Week 12.2 start-->
-            <td rowspan=3>12.2</td>
+            <td rowspan="3">12.2</td>
             <td><strong>M 12/2</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 1-4 (Ruden)</td>
             <td><strong>Apuleius 1:</td>
@@ -270,7 +270,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--Week 13 start-->
-            <td rowspan=3>13</td>
+            <td rowspan="3">13</td>
             <td><strong>M 12/9</strong></td>
             <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
             <td><strong>Perpetua: A Christian Martyr</td>
@@ -278,7 +278,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>W 12/11</strong></td>
             <td>TBD</td>
-            <td rowspan=2><strong>In Conclusion and Next Steps</strong></td>
+            <td rowspan="2"><strong>In Conclusion and Next Steps</strong></td>
         </tr>
         <tr>
             <td><strong>F 12/13</strong></td>
@@ -286,11 +286,11 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
 
         <tr> <!--study period-->
-          <td colspan=4><strong>STUDY PERIOD</strong></td>
+          <td colspan="4"><strong>STUDY PERIOD</strong></td>
         </tr>
 
         <tr> <!--exam period-->
-          <td colspan=4><strong>EXAM PERIOD</strong></td>
+          <td colspan="4"><strong>EXAM PERIOD</strong></td>
         </tr>
 
     </tbody>
