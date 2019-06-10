@@ -5,261 +5,294 @@ title: Schedule
 
 <a name="top"></a>
 
-The readings listed under each week should be completed by the Monday class meeting of that week. We will spread the discussion over both class meetings, but all readings will be needed to make sense of the week's topic.
-
-\* indicates a reading that may be used for a response.
-<hr>
-## Navigation
-[Week 1 (W 1/23)](#01) \| [Week 2 (M 1/28, W 1/30)](#02) \| [Week 3 (M 2/4, W 2/6)](#03) \| [Week 4 (M 2/11, W 2/13)](#04) \| [Week 5 (M 2/18, W 2/20)](#05) \| [Week 6 (M 2/25, W 2/27)](#06) \| [Week 7 (M 3/11, W 3/13)](#07) \| [Week 8 (M 3/18, W 3/20)](#08) \| [Week 9 (M 3/25, W 3/27)](#09) \| [Week 10 (M 4/1, W 4/3)](#10) \| [Week 11 (M 4/8, W 4/10)](#11) \| [Week 12 (M 4/15, W 4/17)](#12) \| [Week 13 (M 4/29, W 5/1)](#13) \| [Week 14 (M 5/6)](#14)
-
-<hr>
-
-## <a name="01">Week 1 (W 1/23) - Introduction</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1s9zAVoML6h07TwXnapk2fndzjL5NnD_8K5nmWnLxoKc/edit?usp=sharing).
-
-<p class="list">Read <a href="https://drive.google.com/file/d/15midUtvMqkaagLbVXOpfYr8HDud49Xgf/view?usp=sharing">Ormand pp. 1-20</a> (2nd ed: pp. 1-24).</p>
-<ul></ul>
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="02">Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1KH5oTiErjA6dBk7D9ijYJK8mSH5i-95Dg8d4OkHcBIo/edit?usp=sharing).
-
-<p class="list">Assignments:</p>
-- [Ormand 21-45](https://drive.google.com/file/d/15rZykQDi0Ke2HBxQz9j-vQeEuWttI_6P/view?usp=sharing) (2nd ed: 25-54).
-- \* Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
-- \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
-- [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
-- [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
-- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
-
-> **W 1/30**: Class visit from Ms. Jennifer Whelan, MLIS, on strategies for reading the different types of material with which we'll be dealing in this course.
-
-<p class="list">Optional:</p>
-- \* Listen to the [In Our Time podcast on Sappho](https://www.bbc.co.uk/sounds/play/b05pqsk4).
-- \* Listen to the [Ancient Greece Declassified podcast on Sappho](http://greecepodcast.com/episode4.html).
-
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-
-## <a name="03">Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1dSzjLMmJgQPif0FNWBfe2p06PDX2h3qKDcpS4j7N-Js/edit?usp=sharing).
-
-<p class="list">Assignments:</p>
-- [Ormand 46-59](https://drive.google.com/file/d/15sbMxY3eqCOfCAubuN_BAT1Qh-9iFuSq/view?usp=sharing) (2nd ed: 55-72).
-- \* Robson, James. 2013. “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing)” In *Sex and Sexuality in Classical Athens*, 36-66. Edinburgh.
-    - optional [FYI if interested]: [Literary & iconographic sources for Robson](https://drive.google.com/file/d/1ymQXDMczwxHhgUBjNUrLhYPjqFrTzCpw/view?usp=sharing).
-- \* Shapiro, Julia. 2015. "[Pederasty and the Popular Audience.](https://drive.google.com/file/d/15sgIsgtFqWaFWU2f9oui_JfE891a8W_S/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 177-207. Columbus.
-- \* Listen to the [History of Ancient Greece podcast on marriage and domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html) (scroll to the middle of the page for the appropriate play button).
-
-Quiz #1 on W 2/6.
-
-<p class="list">Optional:</p>
-- \* Beck, Bill. 2018. “[The Measure of a Man: Minor Classical Phalluses, Major Modern Fragility.](https://eidolon.pub/the-measure-of-a-man-a3ae1af0dcb2)” *Eidolon*.
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="04">Week 4 (M 2/11, W 2/13) - Sexuality in Greek Comedy</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1eIDrpjC3SR2YwhCiQhWP-uo4uHcjqfRsgRH6sFKsPgo/edit?usp=sharing).
-
-***Lysistrata*** **Passage**: link [here](https://drive.google.com/file/d/10U3E5dUWwJvynZYHiCpO-HjDOJSPvcHf/view?usp=sharing).
-
-<p class="list">Assignments:</p>
-- Ormand 60-74 (2nd ed: 73-91).
-- \* Listen to **0:00 to 3:30, then 20:43 to the end** of the [History of Ancient Greece podcast on Old Comedy and Aristophanes](http://www.thehistoryofancientgreece.com/2017/09/054-old-comedy-and-aristophanes.html) (scroll to the middle of the page for the appropriate play button).
-- \* Foley, Helene. 2014. “[Performing Gender in Greek Old and New Comedy.](https://drive.google.com/file/d/1aIPTXImQ0Cfyq45F-4wyJmcuARB_c8V_/view?usp=sharing)” In *The Cambridge Companion to Greek Comedy*, edited by Martin Revermann, 259-274. Cambridge.
-- \* Murray, Kourtney. 2018. “[Spinning Out of Hades: A Journey from the Thesmophoria to Spin Class.](https://eidolon.pub/spinning-out-of-hades-6c5891f0412a)” *Eidolon*.
-
-<p class="list">Optional:</p>
-- \* Listen to the [In Our Time podcast on Comedy in Ancient Greek Theatre](https://www.bbc.co.uk/sounds/play/p003c1d3).
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="05">Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1j3WM3fHVLvT1fKncdfcy_l__oq4UE0DgCUBuamR5gkg/edit?usp=sharing).
-
-**Gorgias'** ***Helen*** **translation**: link [here](http://zetesis.org/wp1/wp-content/uploads/2014/11/Gorgias.Helen_.pdf).
-
-<p class="list">Assignments:</p>
-- Ormand 75-90 (2nd ed: 92-110).
-- \* Cantarella, Eva. 2005. "[Gender, Sexuality, and Law.](https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing)" In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
-- \* Herz, Zachary. 2015. “[Law v. History: the story of the Supreme Court’s misguided, forty-year fixation on ancient gay history.](https://eidolon.pub/law-v-history-2ccfc296ca80)” *Eidolon*.
-- \* Spatharas, Dimos. 2016. "[Sex, Politics, and Disgust in Aechines' *Against Timarchus*.](https://drive.google.com/file/d/17-_zs3_UeJRSHHW2q884t1-moi-ga7el/view?usp=sharing)" In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-139. Oxford.
-
-Quiz #2 on 2/20.
-
-<p class="list">Optional:</p>
-- \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="06">Week 6 (M 2/25, W 2/27) - Philosophical Sex</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1E6zEalXhuYeE7km9BJl65XP7iXMy4FkziithaODqtJI/edit?usp=sharing).
-
-<p class="list">Assignments:</p>
-- Ormand 91-106 (2nd ed: 111-129).
-- \* Listen to the [Ancient Greece Declassified podcast on Platonic Love](http://greecepodcast.com/episode17.html).
-- \* [Aristophanes' Speech in Plato's *Symposium* (between the red brackets)](https://drive.google.com/file/d/17qW8y5YK1t5sttuMvgPPgBYdK6K48lMJ/view?usp=sharing) -- Benardete, Seth (trans.). 2001. *Plato's* Symposium, 18-22. Chicago.
-- \* Watch ["The Origin of Love"](https://www.youtube.com/watch?v=_zU3U7E1Odc) from *Hedwig and the Angry Inch* (2001).
-- \* Carnes, Jeffrey S. 1998. "[This Myth Which Is Not One: Construction of Discourse in Plato's *Symposium*.](https://drive.google.com/file/d/18lnm_ZKN7o8aDTi5hewi_BwmNNUGAwp7/view?usp=sharing)" In *Rethinking Sexuality: Foucault and Classical Antiquity*, edited by David H.J. Larmour, Paul Allen Miller, and Charles Platter, 104-121. Princeton.
-
-<p class="list">Optional:</p>
-- \* Davidson, James. 2007. "[Noonday Phaedrus. Cephalus at Dawn.](https://drive.google.com/file/d/177ZzqfVR5eqM4G1b9eVSjRZSrbPw2bvH/view?usp=sharing)" In *The Greeks & Greek Love: A Radical Reappraisal of Homosexuality in Ancient Greece*, 201-220. London.
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="07">Week 7 (M 3/11, W 3/13) - Love and Sex in Hellenistic Poetry</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1INy0L042W2iidVud6DKAb7CXj-rFUJca6BmaaFkdj8w/edit?usp=sharing).
-
-<p class="list">Assignments:</p>
-- Ormand 107-127 (2nd ed: 156-181).
-- \* Murray, Jackie and Jonathan M. Rowland. 2007. "[Gendered Voices in Hellenistic Epigram.](https://drive.google.com/file/d/175fDzT2B8cQt6VQ3MfNTC_2DS_Vo6BF8/view?usp=sharing)" In *Brill's Companion to Hellenistic Epigram*, edited by Peter Bing and Jon Bruss, 211-232. Leiden.
-- \* Pomeroy, Sarah. 1995. "[Hellenistic Women.](https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing)" In *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York.
-- \* Fountoulakis, Andreas. 2013. "[Male Bodies, Male Gazes: Exploring Erôs in the Twelfth Book of the *Greek Anthology*](https://drive.google.com/file/d/18uh3YzkKkRu4ilbiBveGFJM-9vwJ611I/view?usp=sharing)." In *Erôs in Ancient Greece*, edited by Ed Sanders, Chiara Thumiger, Christopher Carey, and Nick Lowe, 293-312. Oxford.
-
-Quiz #3 on W 3/13.
-
-<p class="list">Optional:</p>
-TBD
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="08">Week 8 (M 3/18, W 3/20) - Rome and Roman Sex</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1Z_cJbWSa1S4EnfAXS9M9aa70FYqP3xLyOajnQ64x14M/edit?usp=sharing).
-
-<p class="list">Assignments:</p>
-- Ormand 128-145 (2nd ed: 182-201).
-- \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
-- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
-- \* Oktaba, Nikolas. 2017. "[Dick Pics, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
-
-<p class="list">Optional:</p>
-- \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="09">Week 9 (M 3/25, W 3/27) - Roman Comic Sex</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1g0HQ3tMjFgLxj-F2mrz7YADgzk-t6EUePhBmgdkulsY/edit?usp=sharing).
-
-<p class="list">Assignments:</p>
-- Ormand 146-163 (2nd ed: 202-223).
-- \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
-- \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
-- \* Packman, Z.M. 1993. "[Call It Rape: A Motif in Roman Comedy and its Suppression in English-Speaking Publications.](https://drive.google.com/file/d/18qhvrGHxix7Hny89SRMnRPN36iZjImgj/view?usp=sharing)" *Helios* 20: 42-55. **CW**: rape.
-
-Quiz #4 on W 3/27.
-
-<p class="list">Optional:</p>
-- \* [Plautus' *Casina*](https://drive.google.com/file/d/1llLRZDCfjAZDu8k3NKYE_Cz5cRi8wA8M/view?usp=sharing) (Christenson, David, tr. 2008. *Plautus: Four Plays.* Newburyport (MA).)
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="10">Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1nulURJuBi7ROvlVOtV_O2susInPYOSXFXe-ybVfxtuU/edit?usp=sharing).  
-**Panopto lecture for 4/3**: link [here](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5bc34ec-f38f-4147-a754-aa240001b444).
-
-<p class="list">Assignments:</p>
-- Ormand 164-182 (2nd ed: 225-246).
-- \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
-- \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
-- \* Parker, Holt. 1997. "[The Teratogenic Grid.](https://drive.google.com/file/d/16S95Dgc6N-XZ4g6bNUwh7g8gRqtWoo_N/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 47-65.
-- \* Scullin, Sarah. 2016. "[Making a Monster.](https://eidolon.pub/making-a-monster-3cd90135ef3f)" *Eidolon*. **CW**: pedophilia.
-
-<p class="list">Optional:</p>
-- \* Williams, Craig. 1999. "[The Concept of *Stuprum*.](https://drive.google.com/file/d/1xsF15s9r8Ekp2XX8IfXVd0VwLVXIQ1t1/view?usp=sharing)" In *Roman Homosexuality*, 96-124. New York and Oxford.
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="11">Week 11 (M 4/8, W 4/10) - Roman Poetry about Love and Sex: Catullus and the Elegists</a>
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1DXCz3ZSRHsLTj2kH8BfktSfSQmUE-7L0W2AFT2-_f5o/edit?usp=sharing)
-
-<p class="list">Assignments:</p>
-- Ormand 183-208 (2nd ed: 247-278).
-- \* Manwell, Elizabeth. 2007. "[Gender and Masculinity.](https://drive.google.com/file/d/18X1Ew89AFFLCfO0yA_NJ7AtUAJWbV5SS/view?usp=sharing)" In *A Companion to Catullus*, edited by Marilyn B. Skinner, 111-128. Malden (MA) and Oxford.
-- \* Lee, Tori. 2017. "[To Me, You Are Creepy: Excluded Lovers from Rome to Rom-Com.](https://eidolon.pub/to-me-you-are-creepy-3646cbadc8a3)" *Eidolon*.
-- \* Kamil, Mariam. 2019. "[L“I Shall — \#\$\% You And \*\@\$\# You”.](https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33)" *Eidolon*.
-
-Quiz #5 on W 4/10.
-
-<p class="list">Optional:</p>
-- \* Listen to the [Reading Latin Poetry podcast on Catullus 16](http://www.readinglatinpoetry.com/podcast/2015/6/12/episode-17-sexual-and-literary-violence-catullus-16).
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="12">Week 12 (M 4/15, W 4/17) - Ovid: Proto-Feminist or Extreme Misogynist?</a>
-
-**General CW**: rape.  
-
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1R9e3QywbPuBBL4uEGUtfkBBBUcBxhcmdlxWUyTWLp5s/edit?usp=sharing).  
-**Panopto lecture for 4/17**: link [here](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b46434c9-eab8-4641-bd15-aa320132363d).
-
-**Ovid** ***Metamoporphoses*** **selections**: link [here](https://drive.google.com/file/d/18dfu8BIVYTYY6YAnCxxRngRSLJpjQQhC/view?usp=sharing)  
-**Ovid's Philomela episode**: link [here](https://drive.google.com/file/d/18huYVjRHPl2VbGLWXpx4161gVHnJ_Z4R/view?usp=sharing).
-
-<p class="list">Assignments:</p>
-- [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
-- \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
-- \* James, Sharon L. 2016. "[Rape and Repetition in Ovid's *Metamorphoses*: Myth, History, Structure, Rome.](https://drive.google.com/file/d/18IT6u4Hg8N3nM0yTMh9uGpHM59nHxBh0/view?usp=sharing)" In *Repeat Performances*, edited by Laurel Fulkerson, 154-175. Madison (Wisc.).
-- \* McCarter, Stephanie. 2018. "[Rape, Lost in Translation.](https://electricliterature.com/rape-lost-in-translation-7d069ce39d12)" *Electric Literature*. **CW**: rape.
-
-<p class="list">Optional:</p>
-- Ormand 209-219 (2nd ed: 279-292)
-- \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="13">Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry</a>
-
-<p class="list">Assignments:</p>
-- Ormand 237-261 (2nd ed: 344-374).
-- \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
-- [Juvenal *Satires* 2](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires2.php).
-- \* Nappa, Christopher. 2018. "[The Dangers of Debasement: Manhood and Class.](https://drive.google.com/file/d/18o8sbXtYmkRj2OXIdnHCAlrN8LGOIaQQ/view?usp=sharing)" In *Making Men Ridiculous: Juvenal and the Anxieties of the Individual*, 93-126. Ann Arbor.
-
-Quiz #6 on W 5/1.
-
-<p class="list">Optional:</p>
-
-<a href="#top" class="underline">Back to top.</a>
-
-<hr>
-
-## <a name="14">Week 14 (M 5/6) - Conclusion</a>
-
-<p class="list">Assignments:</p>
-- Ormand 262-268 (2nd ed: 375-382).
-- \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
-
-<a href="#top" class="underline">Back to top.</a>
+All reading assignments listed below should be completed by the date on which they’re listed. So, for example, you should come to class on Monday, 9/9, having read lines 1-514 of Plautus’ *Casina*.
+
+“Hackett” means our primary textbook (Francese and Smith, eds., *Ancient Rome: An Anthology of Sources*, Hackett 2014). Other physical texts will be referenced by the author’s last name. Some reading assignments will be found online – a link will be provided.
+
+<table>
+    <thead>
+        <tr>
+            <th>Week</th>
+            <th>Date</th>
+            <th>Assignments</th>
+            <th>Module</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        <tr> <!--Week 1 start-->
+            <td rowspan=2>1</td>
+            <td><strong>W 9/4</strong></td>
+            <td>Come to class!</td>
+            <td rowspan=2><strong>Introduction: Women and Men in Roman Literature and Society</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 9/6</strong></td>
+            <td>
+              <ul>
+                <li>Read the syllabus and grading contract front to back.</li>
+                <li>Martin 2012, pp. 20-40, "Roman Values, The Family, and Religion"</li>
+              </ul>
+            </td>
+        </tr>
+
+        <tr> <!--Week 2 start-->
+            <td rowspan=3>2</td>
+            <td><strong>M 9/9</strong></td>
+            <td>Plautus <a href="https://drive.google.com/open?id=1rU6nqT5Us7cQ-gDqS-dQf86k3PnCwFDZ"><em>Casina</em> 1-514</a></td>
+            <td rowspan=2><strong>The Origins of Roman Literature and Plautus' <em>Casina</em></strong></td>
+        </tr>
+        <tr>
+            <td><strong>W 9/11</strong></td>
+            <td>Plautus <a href="https://drive.google.com/open?id=1rU6nqT5Us7cQ-gDqS-dQf86k3PnCwFDZ"><em>Casina</em> 515-1018</a></td>
+        </tr>
+        <tr>
+            <td><strong>F 9/13</strong></td>
+            <td>Cicero <em>In Defense of Archias</em> (Hackett, pp. 34-43)<br><br><strong>QUIZ 1</strong></td>
+            <td rowspan=2><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></td>
+        </tr>
+
+        <tr> <!--Week 3 start-->
+            <td rowspan=3>3</td>
+            <td><strong>M 9/16</strong></td>
+            <td>Cicero <em>Letters</em> 5-8, 10, 12-14, 16, 18 (Hackett, pp. 43-44, 53-57, 59-65, 67-69)</td>
+        </tr>
+        <tr>
+            <td><strong>W 9/18</strong></td>
+            <td>Cicero <a href="http://ibnotes.tripod.com/Subjects/Latin/catiline1.pdf"><em>In Catilinam</em> 1</a></td>
+            <td><strong>The Catilinarian Conspiracy: Cicero’s <em>In Catilinam</em> 1 and the <em>Senatus Consultum Ultimum</em></strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 9/20</strong></td>
+            <td>
+              <ul>
+                <li>Catullus (all in Hackett, pp. 23-33)</li>
+                <li>Sulpicia (all in Hackett, pp. 431-433)</li>
+              </ul>
+              <br><strong>QUIZ 2</strong>
+            </td>
+            <td><strong>Elegiac and Nugatory Poetry 1: <em>novum libellum</em> and the Female Perspective</strong></td>
+        </tr>
+
+        <tr> <!--Week 4 start-->
+            <td rowspan=3>4</td>
+            <td><strong>M 9/23</strong></td>
+            <td>
+              <ul>
+                <li>Propertius <a href="https://www.poetryintranslation.com/PITBR/Latin/PropertiusBkOne.php">Book 1 (all poems)</a></li>
+                <li>Tibullus <a href="https://www.poetryintranslation.com/PITBR/Latin/Tibullus.php#anchor_Toc532635307">1.1</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/Tibullus.php#anchor_Toc532635308">1.2</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/Tibullus.php#anchor_Toc532635316">1.10</a></li>
+                <li>Ovid <em>Amores</em> <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535256">1.1</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535260">1.5</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535261">1.6</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535264">1.9</a></li>
+              </ul>
+            </td>
+            <td><strong>Elegiac and Nugatory Poetry 2: Latin Love Elegy and the <em>Puella</em> as <em>Domina</em></strong></td>
+        </tr>
+        <tr>
+            <td><strong>W 9/25</strong></td>
+            <td>
+              <ul>
+                <li>Horace (<em>Odes</em> in Hackett, pp. 106, 115-126)</li>
+                <li>Martial (all in Hackett, pp. 201-219)</li>
+              </ul>
+            </td>
+            <td><strong>Elegiac and Nugatory Poetry 3: Republican Odes and Imperial Epigrams</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 9/27</strong></td>
+            <td>Livy preface, 1.1-7 (Hackett, pp. 143-150)<br><br><strong>QUIZ 3</strong></td>
+            <td><strong>Livy 1: The Aims of Livian Historiography and the Foundation of Rome</strong></td>
+        </tr>
+
+        <tr> <!--Week 5 start-->
+            <td rowspan=3>5</td>
+            <td><strong>M 9/30</strong></td>
+            <td>Livy 1.8-19, 21 (Hackett, pp. 150-161)</td>
+            <td><strong>Livy 2: From Romulus to Numa</strong></td>
+        </tr>
+        <tr>
+            <td><strong>W 10/2</strong></td>
+            <td>Livy 1.34-35, 39-41, 46-49, 55-60 (Hackett, pp. 162-163, 165-167, 171-174, 178-183)</td>
+            <td><strong>Livy 3: The Tarquins, Lucretia, and the End of the Monarchy</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 10/4</strong></td>
+            <td>Augustus, <em>The Accomplishments of the Deified Augustus</em> (Hackett, pp. 14-22)<br><br><strong>QUIZ 4</strong></td>
+            <td><strong>Augustus: <em>pater patriae</em></strong></td>
+        </tr>
+
+        <tr> <!--Week 6 start-->
+            <td rowspan=3>6</td>
+            <td><strong>M 10/7</strong></td>
+            <td>Vergil <em>Aeneid</em> Books 1-4 (Ruden)</td>
+            <td><strong><em>Aeneid</em> 1: The Exile and the Queen</strong></td>
+        </tr>
+        <tr>
+            <td><strong>W 10/9</strong></td>
+            <td>Vergil <em>Aeneid</em> Books 5-8 (Ruden)</td>
+            <td><strong><em>Aeneid</em> 2: From Carthage to Italy</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 10/11</strong></td>
+            <td>Vergil <em>Aeneid</em> Books 9-12 (Ruden)<br><br><strong>QUIZ 5</strong></td>
+            <td><strong><em>Aeneid</em> 2: A Roman <em>Iliad</em></strong></td>
+        </tr>
+
+        <tr> <!--fall break-->
+          <td colspan=4><strong>FALL BREAK</strong></td>
+        </tr>
+
+        <tr> <!--Week 7 start-->
+            <td rowspan=3>7</td>
+            <td><strong>M 10/21</strong></td>
+            <td>
+              <ul>
+                <li><a href="https://www.poetryintranslation.com/PITBR/Latin/Catullus.php#anchor_Toc531846789">Catullus 64</a></li>
+                <li>Vergil, <em>Eclogues</em> 1 and 4 (Hackett, pp. 445-450)</li>
+              </ul>
+            </td>
+            <td><strong>Non-Epic Hexameter 1: Catullan Epyllion and Vergilian Bucolics</strong></td>
+        </tr>
+        <tr>
+            <td><strong>W 10/23</strong></td>
+            <td>
+              <ul>
+                <li>Horace <a href="https://www.poetryintranslation.com/PITBR/Latin/HoraceSatiresBkISatIV.php"><em>Satires</em> 1.4</a></li>
+                <li>Horace <em>Satires</em> 1.6, 1.9 (Hackett, pp. 106-107, 110-115)</li>
+                <li>Juvenal <em>Satires</em> 1 (Hackett, pp. 127-133)</li>
+              </ul>
+            </td>
+            <td><strong>Non-Epic Hexameter 2: Satire from Lucilius to Juvenal</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 10/25</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 1-5 (Humphries/Reed)<br><br><strong>QUIZ 6</strong></td>
+            <td><strong>Ovid 1: <em>ab origine mundi</em></strong></td>
+        </tr>
+
+        <tr> <!--Week 8 start-->
+            <td rowspan=3>8</td>
+            <td><strong>M 10/28</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 6-10 (Humphries/Reed)</td>
+            <td><strong>Ovid 2: From Divine Punishments to Human Horrors</td>
+        </tr>
+        <tr>
+            <td><strong>W 10/30</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 11-15 (Humphries/Reed)</td>
+            <td><strong>Ovid 3: <em>ad mea tempora</em></strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 11/1</strong></td>
+            <td>Ovid, <em>The Art of Love</em> 1.1-176, 229-398, 437-642; <em>Fasti</em> 4.721-862; <em>Tristia</em> 4.10 (Hackett, pp. 227-245, 248-256)<br><br><strong>QUIZ 7</strong></td>
+            <td><strong>Ovid 4: From Amatory to Exilic Elegy</strong></td>
+        </tr>
+
+        <tr> <!--Week 9 start-->
+            <td rowspan=3>9</td>
+            <td><strong>M 11/4</strong></td>
+            <td>
+              <ul>
+                <li>Lucretius, <em>On the Nature of Things</em> (all in Hackett, pp. 184-200)</li>
+                <li>Seneca, <em>Philosophical Letters</em> (all in Hackett, pp. 394-418)</li>
+              </ul>
+            </td>
+            <td><strong>Roman Philosophy: Epicureanism, Stoicism, Cynicism</td>
+        </tr>
+        <tr>
+            <td><strong>W 11/6</strong></td>
+            <td>Lucan <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaImaster.php"><em>Pharsalia</em> Book 1</a></td>
+            <td rowspan=2><strong>Lucan’s <em>Pharsalia</em>: A Republican Retrospective</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 11/8</strong></td>
+            <td>TBD<br><br><strong>QUIZ 8</strong></td>
+        </tr>
+
+        <tr> <!--Week 10 start-->
+            <td rowspan=3>10</td>
+            <td><strong>M 11/11</strong></td>
+            <td>Seneca <em>Thyestes</em> [SCAN NEEDED]</td>
+            <td><strong>Seneca and (the Loss of) Roman Tragedy</td>
+        </tr>
+        <tr>
+            <td><strong>W 11/13</strong></td>
+            <td>Tacitus <a href="https://sourcebooks.fordham.edu/ancient/tacitus-agricola.asp"><em>Agricola</em> 1-9, 18-46</a></td>
+            <td rowspan=2><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 11/15</strong></td>
+            <td>Tacitus <em>Annals</em> <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/1A*.html">1.1</a> (prologue), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4C*.html">4.32-35</a> (digression and Cremutius Cordus), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">15.38-44</a> (the Great Fire and persecution of the Christians)<br><br><strong>QUIZ 9</strong></td>
+        </tr>
+
+        <tr> <!--Week 11 start-->
+            <td rowspan=3>11</td>
+            <td><strong>M 11/18</strong></td>
+            <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
+            <td rowspan=2><strong>Imperial Epistolography: Pliny the Younger</td>
+        </tr>
+        <tr>
+            <td><strong>W 11/20</strong></td>
+            <td>Pliny <em>Letters</em> 15-16, 27-34 (Hackett, pp. 317-321, 327-331)</td>
+        </tr>
+        <tr>
+            <td><strong>F 11/22</strong></td>
+            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a>
+              <br><br><strong>QUIZ 9</strong>
+              <br><br>Come to class having decided whether you want to take a final exam or write a final paper!</td>
+            <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
+        </tr>
+
+        <tr> <!--Week 12.1-->
+          <td>12.1</td>
+          <td><strong>M 11/25</strong></td>
+          <td>Inscriptions, all (Hackett, pp. 451-502)</td>
+          <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
+        </tr>
+
+        <tr> <!--Thanksgiving break-->
+          <td colspan=4><strong>THANKSGIVING BREAK</strong></td>
+        </tr>
+
+        <tr> <!--Week 12.2 start-->
+            <td rowspan=3>12.2</td>
+            <td><strong>M 12/2</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 1-4 (Ruden)</td>
+            <td><strong>Apuleius 1:</td>
+        </tr>
+        <tr>
+            <td><strong>W 12/4</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 5-8 (Ruden)</td>
+            <td><strong>Apuleius 2:</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 12/6</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 9-11 (Ruden)<br><br><strong>QUIZ 11</strong></td>
+            <td><strong>Apuleius 3:</strong></td>
+        </tr>
+
+        <tr> <!--Week 13 start-->
+            <td rowspan=3>13</td>
+            <td><strong>M 12/9</strong></td>
+            <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
+            <td><strong>Perpetua: A Christian Martyr</td>
+        </tr>
+        <tr>
+            <td><strong>W 12/11</strong></td>
+            <td>TBD</td>
+            <td rowspan=2><strong>In Conclusion and Next Steps</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 12/13</strong></td>
+            <td>TBD<br><br><strong>QUIZ 12</strong></td>
+        </tr>
+
+        <tr> <!--study period-->
+          <td colspan=4><strong>STUDY PERIOD</strong></td>
+        </tr>
+
+        <tr> <!--exam period-->
+          <td colspan=4><strong>EXAM PERIOD</strong></td>
+        </tr>
+
+    </tbody>
+
+</table>
