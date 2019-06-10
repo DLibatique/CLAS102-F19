@@ -8,13 +8,13 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Gender and Sexuality in the Ancient World
-tagline:          'Gender and Sexuality in the Ancient World'
-course_number:    'CLAS 199 01'
-semester:         'Spring 2019'
+title:            Women and Men in Roman Literature and Society
+tagline:          'Women and Men in Roman Literature and Society'
+course_number:    'CLAS 102 01'
+semester:         'Fall 2019'
 location:         'College of the Holy Cross'
-url:              https://dlibatique.github.io/CLAS199
-baseurl:          /CLAS199/
+url:              https://dlibatique.github.io/CLAS102-F19
+baseurl:          /CLAS102-F19/
 
 author:
   name:           'Daniel Libatique'
@@ -26,7 +26,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/dlibatique/CLAS199
+  repo:           https://github.com/dlibatique/CLAS102-F19
 
 pages:
     - resources
