@@ -199,7 +199,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>W 11/6</strong></td>
-            <td>Lucan <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaImaster.php"><em>Pharsalia</em> Book 1</a></td>
+            <td>Lucan <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaImaster.php"><em>Pharsalia</em> Book 1</a><br><br><strong>Guest lecturer: Prof. Tim Joseph</strong></td>
             <td rowspan=2><strong>Lucan’s <em>Pharsalia</em>: A Republican Retrospective</strong></td>
         </tr>
         <tr>
