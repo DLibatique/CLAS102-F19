@@ -195,7 +195,7 @@ All reading assignments listed below should be completed by the date on which th
                 <li>Seneca, <em>Philosophical Letters</em> (all in Hackett, pp. 394-418)</li>
               </ul>
             </td>
-            <td><strong>Roman Philosophy: Epicureanism, Stoicism, Cynicism</td>
+            <td><strong>Roman Philosophy: Epicureanism, Stoicism, Cynicism</strong></td>
         </tr>
         <tr>
             <td><strong>W 11/6</strong></td>
@@ -211,7 +211,7 @@ All reading assignments listed below should be completed by the date on which th
             <td rowspan="3">10</td>
             <td><strong>M 11/11</strong></td>
             <td>Seneca <em>Thyestes</em> [SCAN NEEDED]</td>
-            <td><strong>Seneca and (the Loss of) Roman Tragedy</td>
+            <td><strong>Seneca and (the Loss of) Roman Tragedy</strong></td>
         </tr>
         <tr>
             <td><strong>W 11/13</strong></td>
@@ -227,7 +227,7 @@ All reading assignments listed below should be completed by the date on which th
             <td rowspan="3">11</td>
             <td><strong>M 11/18</strong></td>
             <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
-            <td rowspan="2"><strong>Imperial Epistolography: Pliny the Younger</td>
+            <td rowspan="2"><strong>Imperial Epistolography: Pliny the Younger</strong></td>
         </tr>
         <tr>
             <td><strong>W 11/20</strong></td>
@@ -256,7 +256,7 @@ All reading assignments listed below should be completed by the date on which th
             <td rowspan="3">12.2</td>
             <td><strong>M 12/2</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 1-4 (Ruden)</td>
-            <td><strong>Apuleius 1:</td>
+            <td><strong>Apuleius 1:</strong></td>
         </tr>
         <tr>
             <td><strong>W 12/4</strong></td>
@@ -273,7 +273,7 @@ All reading assignments listed below should be completed by the date on which th
             <td rowspan="3">13</td>
             <td><strong>M 12/9</strong></td>
             <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
-            <td><strong>Perpetua: A Christian Martyr</td>
+            <td><strong>Perpetua: A Christian Martyr</strong></td>
         </tr>
         <tr>
             <td><strong>W 12/11</strong></td>
