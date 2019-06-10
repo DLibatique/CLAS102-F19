@@ -133,6 +133,7 @@ Every response should include in the header **the type of response** (3-2-1, arg
 - Write down **three (3)** things that you learned.  
 - Write down **two (2)** things that you found interesting and want to learn more about.  
 - Write down **one (1)** thing that was unclear or one question that you still have about the material.  
+
 A 3-2-1 does not need to be written in paragraph form; you can use bullet points or numbered lists.  
 
 <span class="underline"><strong>Argument Analysis</strong></span>  
@@ -190,7 +191,7 @@ I will designate a number of possible projects for you to complete that will dra
 
 All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
-**Libatique - Creative Project - Poem.pdf
+**Libatique - Creative Project - Poem.pdf  
 Libatique - Creative Project - Eidolon.pdf**
 etc.
 
