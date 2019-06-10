@@ -173,7 +173,7 @@ All reading assignments listed below should be completed by the date on which th
             <td rowspan="3">8</td>
             <td><strong>M 10/28</strong></td>
             <td>Ovid <em>Metamorphoses</em> Books 6-10 (Humphries/Reed)</td>
-            <td><strong>Ovid 2: From Divine Punishments to Human Horrors</td>
+            <td><strong>Ovid 2: From Divine Punishments to Human Horrors</strong></td>
         </tr>
         <tr>
             <td><strong>W 10/30</strong></td>
