@@ -4,14 +4,14 @@ title: Home
 ---
 
 ## Course Information
-**Meeting Time:** MW 3pm to 4:15pm  
-**Meeting Place:** Stein 205  
+**Meeting Time:** MWF 1pm to 1:50pm  
+**Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
-**Office:** Fenwick 410  
-**Office hours:** T 11am to 1pm, W 11am to 1pm, or by appointment  
+**Office:** Fenwick 426  
+**Office hours:** MW 3-5pm, or by appointment  
 **E-mail:** dlibatiq [at] holycross.edu  
 **Website:** [Click here.](https://dlibatique.github.io)
 
-This course surveys the iconographic and literary evidence for the construction of gender and sexuality in ancient Greece and Rome. The definitions of such concepts as love, masculinity, femininity, homoeroticism, courtship, and marriage, among others, have displayed both remarkable continuity in some aspects but also radical change in others from the ancient Greeks and Romans to modern times. This course aims to establish a baseline for ancient conceptions of gender and sexuality and invites students to compare and contrast these notions with those of contemporaneous societies and of the modern day.
+This course is an introduction to the literature of ancient Rome, from roughly the 3rd century B.C.E. to the 2nd century C.E., a span of about 500 years. We will read works of various genres of Roman literature in translation, including comedy, tragedy, historical prose, epic, elegiac and nugatory poetry, epistles, and epigraphy. The goal is to gain a basic understanding of the progression of Roman literature and how each work or genre relates to social conditions in Rome at the time, especially with regard to gender and interpersonal relationships.
 
-Use the navigation bar along the left (or above, on mobile devices) to see the course documents, schedule, bibliography, and other materials.
+Use the navigation bar along the left (or above, on mobile devices) to see the course documents, schedule, and other materials.
