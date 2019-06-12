@@ -143,7 +143,7 @@ Resources and Tips:
 
 ### <a name="spotify">Creative Project 7: Create a Spotify Playlist.</a>
 
-This creative project asks you to use the medium of modern music to elucidate the themes of ancient Roman literature and society.
+This creative project asks you to use the medium of modern music to elucidate the themes of ancient Roman literature and society. Take a look at...
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
