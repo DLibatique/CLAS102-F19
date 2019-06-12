@@ -129,6 +129,8 @@ All responses on podcasts should be submitted via the [upload portal]({{ site.ba
 
 Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or podcast to which you are responding**.
 
+The grading rubric for responses can be found [here](https://drive.google.com/open?id=1cOQTv7RUxsauLRvAaln7tabTeojwpgoh3k4w4mlVmTg).
+
 <span class="underline"><strong>3-2-1</strong></span>  
 - Write down **three (3)** things that you learned.  
 - Write down **two (2)** things that you found interesting and want to learn more about.  
