@@ -226,7 +226,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr> <!--Week 11 start-->
             <td rowspan="3">11</td>
             <td><strong>M 11/18</strong></td>
-            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a>
+            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a></td>
             <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
         </tr>
         <tr>
