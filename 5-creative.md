@@ -143,7 +143,18 @@ Resources and Tips:
 
 ### <a name="spotify">Creative Project 7: Create a Spotify Playlist.</a>
 
-This creative project asks you to use the medium of modern music to elucidate the themes of ancient Roman literature and society. Take a look at...
+This creative project asks you to use the medium of modern music to elucidate the themes that we're learning about this semester. **You are to choose an author, a literary work, or an event from ancient Roman literature and society and create a 4-6 song playlist of songs that capture the themes of that author, work, or event. Then, write a 2-sentence explanation for each song that expresses why you chose that song and how it relates to the author, work, or event.** For example, if I chose the Bona Dea scandal, in which Publius Clodius Pulcher is accused of dressing as a woman to infiltrate the rites and seduce Caesar's wife, I would begin the playlist with Aerosmith's "Dude Looks Like a Lady" and then choose 3-5 more songs that help explain other aspects of the scandal.
+
+The criteria for a grade of satisfactory are as follows:
+1. You must submit a document that clearly states the author, work, or event that you are basing a playlist on.
+2. The document must include the title and artist of each song on your playlist.
+3. Each title and artist must be accompanied by the 2-sentence (or so) explanation of why you chose that song and how it relates to the author, work, or event.
+4. (If you don't already have a Spotify account, go to [Spotify.com](https://spotify.com) and sign up for one -- it's free!)
+5. Create a playlist in Spotify and give it a witty title. In the description, include our course number (CLAS 102), name (Women and Men in Roman Literature and Society), and the author, work, or event that you're basing this playlist on.
+6. Add your 4-6 songs to the playlist.
+7. Get a link for the playlist by clicking on the circle with three dots next to the big green "Play" button towards the top of the playlist window > hovering over "Share" > clicking on "Copy Playlist Link."
+8. Paste the link into your document.
+9. Submit the file according to the submission guidelines [here]({{ site.baseurl }}4-grading#cp).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -166,6 +177,8 @@ The criteria for a grade of satisfactory are as follows:
 5. You must include at least two important quotes from the reading or podcast in your tweet thread.
     - These two quotes cannot take up more than 2 of your 8-12 tweets.
 6. Post the Twitter thread, get a link for the first tweet of the thread, and then e-mail me the link.
+
+The grading rubric for this creative project can be found [here](https://drive.google.com/open?id=1_TLwO37dbwyhsVLWgNL6oiKX1B9a4vkrDkT2cRg702Q).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
