@@ -232,7 +232,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>W 11/20</strong></td>
             <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
-            <td rowspan=2><strong>Imperial Epistolography: Pliny the Younger</strong></td>
+            <td rowspan="2"><strong>Imperial Epistolography: Pliny the Younger</strong></td>
         </tr>
         <tr>
             <td><strong>F 11/22</strong></td>
