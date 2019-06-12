@@ -71,10 +71,10 @@ The grading rubric for this creative project can be found [here](https://drive.g
 
 ### <a name="oa">Creative Project 4: Selfie and Object Analysis.</a>
 
-This creative project challenges you to **choose an object in the Roman room at the Worcester Art Museum and relate it to the themes of Roman literature and society that we are discussing in the course**. You get free admission to the WAM with your Holy Cross ID. If you would like to complete an object analysis for an ancient Greek or Roman artifact from another museum (e.g., the Museum of Fine Art in Boston or the Metropolitan Museum of Art in New York), that works too! Simply let me know that you’d like to visit one of those institutions, and I can help you locate an appropriate object.
+This creative project challenges you to **choose an object in the Roman room at the Worcester Art Museum and relate it to the themes of Roman literature and society that we are discussing in the course**. You get free admission to the WAM with your Holy Cross ID. If you would like to complete an object analysis for an ancient Roman artifact from another museum (e.g., the Museum of Fine Art in Boston or the Metropolitan Museum of Art in New York), that works too! Simply let me know that you’d like to visit one of those institutions, and I can help you locate an appropriate object.
 
 The criteria for a grade of satisfactory are as follows:
-1. Enter the WAM on Salisbury St. and come to face the magnificent Worcester Hunt mosaic; go to the Roman room, which is to the back left as you're facing the mosaic.
+1. Enter the WAM on Salisbury St. and come to face the magnificent Worcester Hunt mosaic; then, go to the Roman room, which is to the back left as you're facing the mosaic.
 2. Choose an object in that room and take a selfie with it.
 3. Answer the following questions:
     1. What is your object?
