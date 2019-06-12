@@ -226,19 +226,19 @@ All reading assignments listed below should be completed by the date on which th
         <tr> <!--Week 11 start-->
             <td rowspan="3">11</td>
             <td><strong>M 11/18</strong></td>
-            <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
-            <td rowspan="2"><strong>Imperial Epistolography: Pliny the Younger</strong></td>
+            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a>
+            <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
         </tr>
         <tr>
             <td><strong>W 11/20</strong></td>
-            <td>Pliny <em>Letters</em> 15-16, 27-34 (Hackett, pp. 317-321, 327-331)</td>
+            <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
+            <td rowspan=2><strong>Imperial Epistolography: Pliny the Younger</strong></td>
         </tr>
         <tr>
             <td><strong>F 11/22</strong></td>
-            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a>
+            <td>Pliny <em>Letters</em> 15-16, 27-34 (Hackett, pp. 317-321, 327-331)
               <br><br><strong>QUIZ 9</strong>
               <br><br>Come to class having decided whether you want to take a final exam or write a final paper!</td>
-            <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
         </tr>
 
         <tr> <!--Week 12.1-->
