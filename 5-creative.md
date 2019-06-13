@@ -171,7 +171,7 @@ The criteria for a grade of satisfactory are as follows:
     - It may also include your reactions to those arguments or points and how they relate to your understanding of gender and sexuality.
 2. Your first tweet must include:
     - the bibliographic entry for the source that you are livetweeting (copy and paste from the course schedule)
-    - the hashtag #AncGenSex
+    - the hashtag #CLAS102
 3. Your livetweets must be threaded together. For instructions on how to thread properly, click [here](https://help.twitter.com/en/using-twitter/create-a-thread).
 4. Your livetweet thread must be 8-12 tweets long.
 5. You must include at least two important quotes from the reading or podcast in your tweet thread.
