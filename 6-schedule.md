@@ -215,7 +215,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>W 11/13</strong></td>
-            <td>Tacitus <a href="https://sourcebooks.fordham.edu/ancient/tacitus-agricola.asp"><em>Agricola</em> 1-9, 18-46</a></td>
+            <td>Tacitus <a href="https://holycross.idm.oclc.org/login?auth=cas&url=http://www.loebclassics.com/view/tacitus-agricola/1914/pb_LCL035.27.xml?rskey=YfTA94&result=1"><em>Agricola</em> 1-9, 18-46</a></td>
             <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
         </tr>
         <tr>
