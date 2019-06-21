@@ -134,7 +134,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>F 10/11</strong></td>
             <td>Vergil <em>Aeneid</em> Books 9-12 (Ruden)<br><br><strong>QUIZ 5</strong></td>
-            <td><strong><em>Aeneid</em> 2: A Roman <em>Iliad</em></strong></td>
+            <td><strong><em>Aeneid</em> 3: A Roman <em>Iliad</em></strong></td>
         </tr>
 
         <tr> <!--fall break-->
