@@ -74,7 +74,7 @@ The following is a rubric for semester-end grades in the course.
     </tbody>
 </table>
 
-To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 6 quizzes; 10 responses to secondary readings; 2 creative projects; and two essays OR two exams OR one essay and one exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
+To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 6 quizzes; 10 responses to secondary readings; 2 creative projects; and a final essay or exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
 
 Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student wants to improve that B+ to an A-, then they can complete two more responses, and then if the final unexcused absence tally at the end of the semester works out, then the student earns an A-!
 
@@ -93,7 +93,7 @@ It is possible to make up unsatisfactory assignments. At the beginning of the se
 
 **You may take up to four (4) excused absences for the semester**. If you need to be absent for any classes beyond four excused absences, I ask that you provide a reason in your e-mail notifying me about the absence, and I will decide on a case-by-case basis whether I will excuse it or not.
 
-Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy here.
+Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/node/1381/#EAP).
 
 Any absence about which I do not receive an e-mail from you or which is not excused by a note from your Class Dean will be considered **unexcused**.
 
@@ -128,6 +128,8 @@ All responses on textual articles or chapters should be submitted via the [uploa
 All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [WEEK OF ASSIGNMENT]**. For example: **Libatique - Response - Podcast - Week 4.pdf**.
 
 Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or podcast to which you are responding**.
+
+The grading rubric for responses can be found [here](https://drive.google.com/open?id=1cOQTv7RUxsauLRvAaln7tabTeojwpgoh3k4w4mlVmTg).
 
 <span class="underline"><strong>3-2-1</strong></span>  
 - Write down **three (3)** things that you learned.  
