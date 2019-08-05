@@ -18,4 +18,7 @@ weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", 
 
 #get list of dates in the format: "{Day}, {Month} {Date}, {Year}"
 for d in semester_filtered:
-    print(weekdays[d.weekday()] + ', ' + d.strftime('%B %d'))
+    if d.strftime('%B %d')[-2] == '0':
+        print(weekdays[d.weekday()] + ', ' + d.strftime('%B %d')[0:-2] + d.strftime('%B %d')[-1])
+    else:
+        print(weekdays[d.weekday()] + ', ' + d.strftime('%B %d'))
