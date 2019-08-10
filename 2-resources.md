@@ -5,13 +5,15 @@ title: Resources
 
 ## <a style="color: #000000;" name="up">Upload Portal</a>
 
-<p>Drive API Quickstart</p>
-
-<button id="authorize_button" style="display: none;">Authorize</button>
-
-<button id="signout_button" style="display: none;">Sign Out</button>
-
-<pre id="content" style="white-space: pre-wrap;"></pre>
+<div id="form">
+  <form id="fileUpload">
+    <input
+      type="file"
+      accept=".doc,.docx,.pdf"
+    />
+    <button type="submit" id="submit-btn">Upload</button>
+  </form>
+</div>
 
 <hr>
 
