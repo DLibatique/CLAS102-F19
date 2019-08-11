@@ -215,19 +215,19 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>W 11/13</strong></td>
-            <td>Tacitus <a href="https://holycross.idm.oclc.org/login?auth=cas&url=http://www.loebclassics.com/view/tacitus-agricola/1914/pb_LCL035.27.xml?rskey=YfTA94&result=1"><em>Agricola</em> 1-9, 18-46</a></td>
-            <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
+            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a></td>
+            <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
         </tr>
         <tr>
             <td><strong>F 11/15</strong></td>
-            <td>Tacitus <em>Annals</em> <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/1A*.html">1.1</a> (prologue), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4C*.html">4.32-35</a> (digression and Cremutius Cordus), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">15.38-44</a> (the Great Fire and persecution of the Christians)<br><br><strong>QUIZ 9</strong></td>
+            <td>Tacitus <a href="https://holycross.idm.oclc.org/login?auth=cas&url=http://www.loebclassics.com/view/tacitus-agricola/1914/pb_LCL035.27.xml?rskey=YfTA94&result=1"><em>Agricola</em> 1-9, 18-46</a><br><br><strong>QUIZ 9</strong></td>
+            <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
         </tr>
 
         <tr> <!--Week 11 start-->
             <td rowspan="3">11</td>
             <td><strong>M 11/18</strong></td>
-            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a></td>
-            <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
+            <td>Tacitus <em>Annals</em> <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/1A*.html">1.1</a> (prologue), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4C*.html">4.32-35</a> (digression and Cremutius Cordus), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">15.38-44</a> (the Great Fire and persecution of the Christians)</td>
         </tr>
         <tr>
             <td><strong>W 11/20</strong></td>
@@ -237,7 +237,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr>
             <td><strong>F 11/22</strong></td>
             <td>Pliny <em>Letters</em> 15-16, 27-34 (Hackett, pp. 317-321, 327-331)
-              <br><br><strong>QUIZ 9</strong>
+              <br><br><strong>QUIZ 10</strong>
               <br><br>Come to class having decided whether you want to take a final exam or write a final paper!</td>
         </tr>
 
@@ -256,17 +256,17 @@ All reading assignments listed below should be completed by the date on which th
             <td rowspan="3">12.2</td>
             <td><strong>M 12/2</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 1-4 (Ruden)</td>
-            <td><strong>Apuleius 1:</strong></td>
+            <td><strong>Apuleius 1: Making an Ass of Yourself</strong></td>
         </tr>
         <tr>
             <td><strong>W 12/4</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 5-8 (Ruden)</td>
-            <td><strong>Apuleius 2:</strong></td>
+            <td><strong>Apuleius 2: Cupid, Psyche, and the Degenerate Priests</strong></td>
         </tr>
         <tr>
             <td><strong>F 12/6</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 9-11 (Ruden)<br><br><strong>QUIZ 11</strong></td>
-            <td><strong>Apuleius 3:</strong></td>
+            <td><strong>Apuleius 3: Satirical Salvation?</strong></td>
         </tr>
 
         <tr> <!--Week 13 start-->
