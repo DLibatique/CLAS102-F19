@@ -3,9 +3,11 @@ layout: page
 title: Response Readings
 ---
 
-The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
+The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module! The articles and podcasts listed under the first item are general interest pieces about Roman literature and culture that don't necessarily fit into just one module.
 
 Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here]({{ site.baseurl }}4-grading#responses).
+
+**General Interest: Gender, Sexuality, Military, Daily Life, etc.**
 
 **Introduction: Women and Men in Roman Literature and Society**
 - Martin, Thomas R. 2012. “Introduction and Background.” In *Ancient Rome: From Romulus to Justinian*, 1-19. New Haven.
@@ -15,25 +17,27 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 **Cicero, A** ***Novus Homo,*** **and the** ***Cursus Honorum***
 - Everitt, Anthony. 2001. “The Forum and the Fray.” In *Cicero: The Life and Times of Rome’s Greatest Politician*, 47-66. New York.
+- *History of Philosophy* podcast, [Episode 71 - Rhetorical Questions: Cicero](https://historyofphilosophy.net/cicero).
 
 **The Catilinarian Conspiracy: Cicero’s** ***In Catilinam*** **1 and the** ***Senatus Consultum Ultimum***
 - Everitt, Anthony. 2001. “Against Catilina: Campaign and Conspiracy: 63 BC.” In *Cicero: The Life and Times of Rome’s Greatest Politician*, 87-112. New York.
 - Kenty, Joanna. 2016. [“Alexander Hamilton’s Catiline Obsession.”](https://eidolon.pub/alexander-hamiltons-catiline-obsession-7dfbf4ca2dd1) *Eidolon*.
 
 **Elegiac and Nugatory Poetry 1:** ***novum libellum*** **and the Female Perspective**
-- Kamil, Mariam. 2019. [“‘I Shall — #$\% You And *\@$# You’: Grappling with Censorship as a Queer Classicist.”](https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33) *Eidolon.*
-<!-- Sulpicia -->
+- Kamil, Mariam. 2019. <a href="https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33">“‘I Shall — #$\% You And \*\@$# You’: Grappling with Censorship as a Queer Classicist.”</a> *Eidolon.*
+- *Emperors of Rome* podcast, [Episode 63: Women Poets](https://www.stitcher.com/podcast/matt-smith/emperors-of-rome/e/54249272).
 
 **Elegiac and Nugatory Poetry 2: Latin Love Elegy and the** ***Puella*** **as** ***Domina***
-<!-- Propertius, Tibullus, Ovid -->
+- Fulkerson, Laurel. 2013. ["<em>Seruitium amoris</em>: The interplay of dominance, gender and poetry."](#) In *The Cambridge Companion to Latin Love Elegy*, edited by Thea S. Thorsen, 180-193. Cambridge.
+- Warwick Classics in Discussion podcast, [Roman Elegy: Pain is so Close to Pleasure](https://warwick.ac.uk/fac/arts/classics/research/outreach/podcast/?podcastItem=roman_love_elegy.mp3)
+<!-- Cambridge and Blackwell companions to Latin Love Elegy - more articles? -->
 
 **Elegiac and Nugatory Poetry 3: Republican Odes and Imperial Epigrams**
 - Hall, Claire. 2015. [“I Am in Every Pocket, Every Hand: Twitter and Martial.”](https://eidolon.pub/i-am-in-every-pocket-every-hand-twitter-and-martial-ef6c3260d502) *Eidolon*.
 <!-- Horace's Odes -->
 
 **Livy 1: The Aims of Livian Historiography and the Foundation of Rome**
-- Roller, Matthew B. 2009. “The exemplary past in Roman historiography and culture.” In *The Cambridge Companion to the Roman Historians*, edited by Andrew Feldherr, 214-230. Cambridge.
-<!-- e-book, in folder) -->
+- Roller, Matthew B. 2009. [“The exemplary past in Roman historiography and culture.”](#) In *The Cambridge Companion to the Roman Historians*, edited by Andrew Feldherr, 214-230. Cambridge.
 <!-- article on Sabine women? -->
 
 **Livy 2: From Romulus to Numa**
@@ -83,25 +87,32 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - McCarter, Stephanie. 2019. [“Seneca’s ‘Lost Cause’: The Myth of the Noble Stoic / Southern Slave Owner.”](https://eidolon.pub/senecas-lost-cause-cfcbb5d15d32) *Eidolon*.
 
 **Lucan’s** ***Pharsalia:*** **A Republican Retrospective**
-<!-- ?? -->
+- Rosner-Siegel, Judith. 2010. ["The Oak and the Lightning: Lucan, <em>Bellum Civile</em> 1.135-157."](#) In *Lucan: Oxford Readings in Classical Studies*, edited by Charles Tesoriero, Frances Muecke, and Tamara Neal, 184-200. Oxford.
+<!-- see other chapters in same book? -->
 
 **Seneca and (the Loss of) Roman Tragedy**
 - Trinacty, Christopher. 2015. ["Senecan tragedy."](https://drive.google.com/file/d/18LUJjSlNTltHJF7h-NQ8dfmNQ0ltot7L/view?usp=sharing) In *The Cambridge Companion to Seneca*, edited by Shadi Bartsch and Alessandro Schiesaro, 29-40. Cambridge.
 
-Imperial Historiography: Tacitus and How to Survive a Tyrant (2 days)
-Blair, Stephen. 2017. “Erasing History? The Roman Way to Memorialize a Painful Past.” Eidolon. <https://eidolon.pub/erasing-history-fccc4c547ca8>
+**Imperial Biography: Suetonius’** ***Nero*** **and the** ***Lives of the Caesars***
 
-Imperial Biography: Suetonius’ Nero and the Lives of the Caesars
+**Imperial Historiography: Tacitus and How to Survive a Tyrant**
+- Blair, Stephen. 2017. “Erasing History? The Roman Way to Memorialize a Painful Past.” Eidolon. <https://eidolon.pub/erasing-history-fccc4c547ca8>
+- *The History of Rome* podcast, [Episode 75: The Forgotten Son](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=MWQwODM0NWI1Yjg0MTIwYzJlM2FmMzY3YWQyY2NmN2I%3D&hl=en)
 
-Imperial Epistolography: Pliny the Younger
+**Imperial Epistolography: Pliny the Younger**
+- Killgrove, Kristina. 2018. ["New Pompeii Graffiti May Rewrite History in a Major Way."](https://www.forbes.com/sites/kristinakillgrove/2018/10/16/new-pompeii-graffiti-may-rewrite-history-in-a-major-way/#5e62a4625484) *Forbes*.
+- Woolf, Greg. 2015. ["Pliny/Trajan and the Poetics of Empire."](#) *Classical Philology* 110.2: 132-151.
 
-The Epigraphic Habit: Graffiti and Epitaphs
-Hirst, K. Kris. 2019. “The Vindolanda Tablets: Letters Home from the Roman Forces in Britain.” ThoughtCo. <https://www.thoughtco.com/vindolanda-tablets-roman-forces-in-britain-173183>
+**The Epigraphic Habit: Graffiti and Epitaphs**
+- Hirst, K. Kris. 2019. [“The Vindolanda Tablets: Letters Home from the Roman Forces in Britain.”](https://www.thoughtco.com/vindolanda-tablets-roman-forces-in-britain-173183) *ThoughtCo*.
 
-Apuleius 1:
+**Apuleius 1: Making an Ass of Yourself**
+- James, Paula. 2014. ["Apuleius' <em>The Golden Ass</em>: The Nature of the Beast."](#) In *A Companion to the Ancient Novel*, edited by Edmund P. Cueva and Shannon N. Byrne, 156-170. Hoboken.
 
-Apuleius 2:
+**Apuleius 2: Cupid, Psyche, and the Degenerate Priests**
+- Parker, S. and P. Murgatroyd. 2002. ["Love Poetry and Apuleius' <em>Cupid and Psyche</em>."](#) *Classical Quarterly* 52.1: 400-404.
 
-Apuleius 3:
+**Apuleius 3: Satirical Salvation?**
+- O'Sullivan, Timothy M. 2016. ["Human and Asinine Postures in Apuleius' <em>Golden Ass</em>."](#) *Classical Journal* 112.2: 196-216.
 
-Perpetua: A Christian Martyr
+**Perpetua: A Christian Martyr**
