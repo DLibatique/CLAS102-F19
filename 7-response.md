@@ -94,9 +94,10 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - Trinacty, Christopher. 2015. ["Senecan tragedy."](https://drive.google.com/file/d/18LUJjSlNTltHJF7h-NQ8dfmNQ0ltot7L/view?usp=sharing) In *The Cambridge Companion to Seneca*, edited by Shadi Bartsch and Alessandro Schiesaro, 29-40. Cambridge.
 
 ## Imperial Biography: Suetonius’ *Nero* and the *Lives of the Caesars*
+<!-- Vout chapter? ILL incoming -->
 
 ## Imperial Historiography: Tacitus and How to Survive a Tyrant
-- Blair, Stephen. 2017. “Erasing History? The Roman Way to Memorialize a Painful Past.” Eidolon. <https://eidolon.pub/erasing-history-fccc4c547ca8>
+- Blair, Stephen. 2017. [“Erasing History? The Roman Way to Memorialize a Painful Past.”](https://eidolon.pub/erasing-history-fccc4c547ca8) *Eidolon*.
 - *The History of Rome* podcast, [Episode 75: The Forgotten Son](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=MWQwODM0NWI1Yjg0MTIwYzJlM2FmMzY3YWQyY2NmN2I%3D&hl=en)
 
 ## Imperial Epistolography: Pliny the Younger
