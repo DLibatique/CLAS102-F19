@@ -4,7 +4,7 @@ title: Final Paper
 ---
 
 
-This assignment asks you to write an argumentative essay in response to the question posed by a prompt. Your argument should be an answer to the question posed, and you will need to provide textual evidence through citations to support your answer and explain your reasoning.
+This assignment asks you to engage in the close reading of a text and write an argumentative essay in response to the question posed by a prompt. Your argument should be an answer to the question posed, and you will need to provide textual evidence through citations to support your answer and explain your reasoning. This argument should be based on the primary text(s) referenced in your chosen prompt; there should be no citations of or references to secondary scholarship in your paper.
 
 ## Due Date and Time
 The end time on the date of the final exam, to be determined by the registrar.
@@ -27,6 +27,8 @@ You can also make an appointment with the [Writer’s Workshop](https://www.holy
 
 ## Citations
 Citations of primary source material (meaning the actual text of the author, and not introductions by an editor, footnotes, etc.) are necessary to support the claim that you are making in your argument. You should not cite material that is self-evident or that doesn’t bear on your argument.
+
+You may use **the primary source(s) referenced in the prompt** as evidence. You may not use secondary sources, including but not limited to introductions or footnotes by an editor, commentaries, scholarly articles, book chapters, or websites. The goal of this assignment is to make your own argument and substantiate it with evidence from primary texts; I want to know what *you* think, not what some other scholar thinks!
 
 You are required to cite primary source material **at least three (3) times** in your paper for prompts 1-4 and 6-8. For prompt 5, you are required to cite **at least five (5) inscriptions or graffiti**. This may involve either a direct quotation or simply a paraphrase. You may cite more if your argument requires it, but keep in mind that I’m looking to see that you’re **analyzing and engaging** with the source in your citation, not simply regurgitating the information.
 
