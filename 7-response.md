@@ -3,6 +3,20 @@ layout: page
 title: Response Readings and Podcasts
 ---
 
+<!-- to find:
+- General interest
+- Cicero??
+- Horace's Odes
+- Sabine Women
+- Aeneid 5-12
+- Catullus 64 and Vergil's Eclogues
+- Ov Met 11-15
+- Lucan??
+- Suetonius
+- Perpetua
+
+-->
+
 The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module! The articles and podcasts listed under the first item are general interest pieces about Roman literature and culture that don't necessarily fit into just one module.
 
 Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here]({{ site.baseurl }}4-grading#responses).
