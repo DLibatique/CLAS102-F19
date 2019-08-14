@@ -10,7 +10,7 @@ Remember that you are allowed to submit up to 4 responses per month in September
 ## General Interest: Gender, Sexuality, Military, Daily Life, etc.
 
 ## Introduction: Women and Men in Roman Literature and Society
-- Martin, Thomas R. 2012. “Introduction and Background.” In *Ancient Rome: From Romulus to Justinian*, 1-19. New Haven.
+- Martin, Thomas R. 2012. [“Introduction and Background.”](https://drive.google.com/file/d/1Dfh8mJQ-6CksD-_eKVkWdvrjRmdRaUP0/view?usp=sharing) In *Ancient Rome: From Romulus to Justinian*, 1-19. New Haven.
 
 ## The Origins of Roman Literature and Plautus’ *Casina*
 - James, Sharon. 2016. [“Ancient Comedy, Women’s Lives: Finding Social History and Seeing the Present in Classical Comedy.”](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/) Humanities Futures: Franklin Humanities Institute, Duke University.
@@ -25,23 +25,23 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 ## Elegiac and Nugatory Poetry 1: *novum libellum* and the Female Perspective
 - Kamil, Mariam. 2019. <a href="https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33">“‘I Shall — #$\% You And \*\@$# You’: Grappling with Censorship as a Queer Classicist.”</a> *Eidolon.*
+- Hallett, Judith P. 1989. ["Women as Same and Other in Classical Roman Elite."](https://drive.google.com/file/d/10DA7C0YO5mKQMryVKT93fewu6p4uGAhT/view?usp=sharing) *Helios* 16.1: 59-78.
 - *Emperors of Rome* podcast, [Episode 63: Women Poets](https://www.stitcher.com/podcast/matt-smith/emperors-of-rome/e/54249272).
 
 ## Elegiac and Nugatory Poetry 2: Latin Love Elegy and the *Puella* as *Domina*
-- Fulkerson, Laurel. 2013. ["<em>Seruitium amoris</em>: The interplay of dominance, gender and poetry."](#) In *The Cambridge Companion to Latin Love Elegy*, edited by Thea S. Thorsen, 180-193. Cambridge.
-- Warwick Classics in Discussion podcast, [Roman Elegy: Pain is so Close to Pleasure](https://warwick.ac.uk/fac/arts/classics/research/outreach/podcast/?podcastItem=roman_love_elegy.mp3)
-<!-- Cambridge and Blackwell companions to Latin Love Elegy - more articles? -->
+- Fulkerson, Laurel. 2013. ["<em>Seruitium amoris</em>: The interplay of dominance, gender and poetry."](https://drive.google.com/file/d/1_fbr2dyNU5s7vmkdA7wYNWEuz6173jOi/view?usp=sharing) In *The Cambridge Companion to Latin Love Elegy*, edited by Thea S. Thorsen, 180-193. Cambridge.
+- Wyck, Maria. 1989. ["Mistress and Metaphor in Augustan Elegy."](https://drive.google.com/file/d/1rtlmZwp9uTb7tdroAMORYwWrLIXg4h2h/view?usp=sharing). *Helios* 16.1: 25-47.
 
 ## Elegiac and Nugatory Poetry 3: Republican Odes and Imperial Epigrams
 - Hall, Claire. 2015. [“I Am in Every Pocket, Every Hand: Twitter and Martial.”](https://eidolon.pub/i-am-in-every-pocket-every-hand-twitter-and-martial-ef6c3260d502) *Eidolon*.
 <!-- Horace's Odes -->
 
 ## Livy 1: The Aims of Livian Historiography and the Foundation of Rome
-- Roller, Matthew B. 2009. [“The exemplary past in Roman historiography and culture.”](#) In *The Cambridge Companion to the Roman Historians*, edited by Andrew Feldherr, 214-230. Cambridge.
+- Roller, Matthew B. 2009. [“The exemplary past in Roman historiography and culture.”](https://drive.google.com/file/d/1ZxnqU7G0sO79pGo5C4T4gse8q93uMxos/view?usp=sharing) In *The Cambridge Companion to the Roman Historians*, edited by Andrew Feldherr, 214-230. Cambridge.
 <!-- article on Sabine women? -->
 
 ## Livy 2: From Romulus to Numa
-- Two episodes of the History of Rome podcast: Episodes [003a (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=ZDNmZDZlNDQzMDk3MjYzYjVlZDQxMjVhYTY3NzkyNzg%3D&hl=en) and [003b (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=OWE0ODY2MTIyZGI4OThlNzYyYjU5ODM0NDg3YjNkMWI%3D&hl=en), both entitled "The Seven Kings of Rome".
+- Two episodes of the *History of Rome* podcast: Episodes [003a (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=ZDNmZDZlNDQzMDk3MjYzYjVlZDQxMjVhYTY3NzkyNzg%3D&hl=en) and [003b (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=OWE0ODY2MTIyZGI4OThlNzYyYjU5ODM0NDg3YjNkMWI%3D&hl=en), both entitled "The Seven Kings of Rome".
 
 ## Livy 3: The Tarquins, Lucretia, and the End of the Monarchy
 - Joshel, Sandra, Body Politic <!-- ADD FULL CITATION AND LINK HERE -->
@@ -66,8 +66,8 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 ## Non-Epic Hexameter 2: Satire from Lucilius to Juvenal
 - Freudenberg, Kirk. 2005. [“Introduction: Roman Satire.”](https://drive.google.com/file/d/1_AdqyzHm7eH2dA-pPWL0cz7EyFBSI0-0/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 1-30. Cambridge.
-- Gowers, Emily. 2005. “The Restless Companion: Horace, *Satires* 1 and 2.” In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 48-61. Cambridge.
-- Rimell, Victoria. 2005. “The Poor Man’s Feast: Juvenal.” In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 81-94. Cambridge.
+- Gowers, Emily. 2005. [“The Restless Companion: Horace, *Satires* 1 and 2.”](https://drive.google.com/file/d/1_BEp-51YxyCSuu4tY4gJuiHoNPqKfbFP/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 48-61. Cambridge.
+- Rimell, Victoria. 2005. [“The Poor Man’s Feast: Juvenal.”](https://drive.google.com/file/d/1_Ivm1eXeQfWcgY6VRSjeogbwieRbSpPb/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 81-94. Cambridge.
 
 ## Ovid 1: *ab origine mundi*
 - *Let's Talk about Myths, Baby* podcast, [Episode 53, Jupiter and Neptune Ruin Everything: The Stories of Caenis & Callisto](https://cms.megaphone.fm/channel/ADV9049641531?selected=ADV3209626255). **CW:** strong language, rape.
@@ -87,7 +87,7 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - McCarter, Stephanie. 2019. [“Seneca’s ‘Lost Cause’: The Myth of the Noble Stoic / Southern Slave Owner.”](https://eidolon.pub/senecas-lost-cause-cfcbb5d15d32) *Eidolon*.
 
 ## Lucan’s *Pharsalia:* A Republican Retrospective
-- Rosner-Siegel, Judith. 2010. ["The Oak and the Lightning: Lucan, <em>Bellum Civile</em> 1.135-157."](#) In *Lucan: Oxford Readings in Classical Studies*, edited by Charles Tesoriero, Frances Muecke, and Tamara Neal, 184-200. Oxford.
+- Rosner-Siegel, Judith. 2010. ["The Oak and the Lightning: Lucan, <em>Bellum Civile</em> 1.135-157."](https://drive.google.com/file/d/1_dAn783Gdrel0eeVskRFJZFHDl0dTEye/view?usp=sharing) In *Lucan: Oxford Readings in Classical Studies*, edited by Charles Tesoriero, Frances Muecke, and Tamara Neal, 184-200. Oxford.
 <!-- see other chapters in same book? -->
 
 ## Seneca and (the Loss of) Roman Tragedy
@@ -108,12 +108,12 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - Hirst, K. Kris. 2019. [“The Vindolanda Tablets: Letters Home from the Roman Forces in Britain.”](https://www.thoughtco.com/vindolanda-tablets-roman-forces-in-britain-173183) *ThoughtCo*.
 
 ## Apuleius 1: Making an Ass of Yourself
-- James, Paula. 2014. ["Apuleius' <em>The Golden Ass</em>: The Nature of the Beast."](#) In *A Companion to the Ancient Novel*, edited by Edmund P. Cueva and Shannon N. Byrne, 156-170. Hoboken.
+- James, Paula. 2014. ["Apuleius' <em>The Golden Ass</em>: The Nature of the Beast."](https://drive.google.com/file/d/1_S7ba_-l15j-o2V-hNxTtliquoMLBeJb/view?usp=sharing) In *A Companion to the Ancient Novel*, edited by Edmund P. Cueva and Shannon N. Byrne, 156-170. Hoboken.
 
 ## Apuleius 2: Cupid, Psyche, and the Degenerate Priests
-- Parker, S. and P. Murgatroyd. 2002. ["Love Poetry and Apuleius' <em>Cupid and Psyche</em>."](#) *Classical Quarterly* 52.1: 400-404.
+- Parker, S. and P. Murgatroyd. 2002. ["Love Poetry and Apuleius' <em>Cupid and Psyche</em>."](https://drive.google.com/file/d/1_N3-Eb1_9fTeyWtKEAyiWRDDsiaA3Jx4/view?usp=sharing) *Classical Quarterly* 52.1: 400-404.
 
 ## Apuleius 3: Satirical Salvation?
-- O'Sullivan, Timothy M. 2016. ["Human and Asinine Postures in Apuleius' <em>Golden Ass</em>."](#) *Classical Journal* 112.2: 196-216.
+- O'Sullivan, Timothy M. 2016. ["Human and Asinine Postures in Apuleius' <em>Golden Ass</em>."](https://drive.google.com/file/d/1_R7ToyU_QJtuo2KNfFkyzXZnMddH5zpk/view?usp=sharing) *Classical Journal* 112.2: 196-216.
 
 ## Perpetua: A Christian Martyr
