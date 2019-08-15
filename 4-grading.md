@@ -169,7 +169,7 @@ The final essay will be graded on a **letter basis**.
 - A grade of **C- to C+** keeps your grade wherever it is.
 - A grade of **D+ or lower** decreases your semester grade by one stop.
 
-This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 36 or higher on a final exam or a grade of B or higher on a final essay can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
+This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final essay can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
