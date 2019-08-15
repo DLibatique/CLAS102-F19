@@ -145,7 +145,7 @@ Answer the following questions:
 - Do you agree or disagree? Or, put differently, does the author make their case persuasively?
 
 <span class="underline"><strong>Personal Reflection</strong></span>  
-If the article speaks to you on a personal level (in terms of gender, sexual orientation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
+If the article speaks to you on a personal level (in terms of lived experience, personality traits, gender or sexual orientation, political affiliation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
