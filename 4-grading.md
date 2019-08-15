@@ -107,7 +107,7 @@ There will be **twelve (12) quizzes** administered in class throughout the semes
 
 I purposefully write the slideshow terms without much detail, and the definitions and explanations that I will provide in class cannot be found through Google searches or the like. It behooves you to take good notes, study constantly, and contact me with any questions about terms as they arise. Make sure to have a buddy in class from whom you can get notes if you are absent on a given day.
 
-If you are absent on a quiz day, I will allow you to take a make-up **ONLY** if the absence is excused. If the absence is unexcused, you will receive a 0 for that quiz.
+If you are absent or late on a quiz day, I will allow you to take a make-up **ONLY** if the absence or lateness is excused. If the absence or lateness is unexcused, you will receive a 0 for that quiz.
 
 A satisfactory quiz grade will be **7 out of 10 points**. Once you complete **ten (10)** satisfactory quizzes (the requirement for a semester grade of A), you are exempt from taking any remaining quizzes.
 
