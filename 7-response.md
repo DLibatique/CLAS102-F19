@@ -8,11 +8,9 @@ title: Response Readings and Podcasts
 - Cicero??
 - Horace's Odes
 - Sabine Women
-- Aeneid 5-12
-- Catullus 64 and Vergil's Eclogues
+- Vergil's Eclogues
 - Ov Met 11-15
 - Lucan??
-- Suetonius
 - Perpetua
 
 -->
@@ -62,6 +60,7 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - Kenty, Joanna. 2017. [“Avenging Lucretia: From Rape to Revolution.”](https://eidolon.pub/avenging-lucretia-dd14e936840c) *Eidolon*. **CW:** rape.
 
 ## Augustus: *pater patriae*
+- Milnor, Kristina. 2007. ["Augustus, History, and the Landscape of the Law."](https://drive.google.com/file/d/1_uwoSN2OoBzaKZX0sncZGpN0hg9Qo2sU/view?usp=sharing) *Arethusa* 40.1: 7-23.
 - *History of Rome* podcast, [Episode 51: Actium](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=Yjc1Mzg5YTJlY2I3ZjU3NTBlNWNjMDczNTA5MmFiYjE%3D&hl=en)
 - *History of Rome* podcast, [Episode 52: Caesar Augustus](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=ZWNlZGFlMTE1MjViZjg0NDBjNmRhM2Y1NWZhNmI1Zjc%3D&hl=en)
 
@@ -70,13 +69,16 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - Pandey, Nandini. 2018. [“Rome’s ‘Empire Without End’ and the ‘Endless’ U.S. War on Terror: Replaying the Roman Civil Wars in Reverse Since 9/11.”](https://eidolon.pub/romes-empire-without-end-and-the-endless-u-s-war-on-terror-5c39ee3d0c66) *Eidolon*.
 
 ## *Aeneid* 2: From Carthage to Italy
-<!-- James' article on Aeneas' smile? -->
+- Nugent, S. Georgia. 1992. ["Vergil's 'Voice of the Women' in *Aeneid* V."](https://drive.google.com/file/d/1_yur5eRdTc5bSVsumw7KkEoaYjvbiqMr/view?usp=sharing) *Arethusa* 25.2: 255-292.
+- Uden, James. 2014. ["The Smile of Aeneas."](https://drive.google.com/file/d/1_83slyWFrtsmYJm6Df5q4euEyarMPwEM/view?usp=sharing) *Transactions of the American Philological Association* 144: 73-98.
 
 ## *Aeneid* 3: A Roman *Iliad*
 - Dunlap, David W. 2014. [“A Memorial Inscription’s Grave Origins.”](https://www.nytimes.com/2014/04/03/nyregion/an-inscription-taken-out-of-poetic-context-and-placed-on-a-9-11-memorial.html) *The New York Times*.
+- James, Sharon L. 1995. ["Establishing Rome with the Sword: *Condere* in the *Aeneid*."](https://drive.google.com/file/d/1_nPHVvNvU8qslzW_3vsQ79zGlDr1LUPP/view?usp=sharing) *The American Journal of Philology* 116.4: 623-637.
 
 ## Non-Epic Hexameter 1: Catullan Epyllion and Vergilian Bucolics
-<!-- ?? -->
+- Wasdin, Katherine. 2017. ["Weaving Time: Ariadne and the Argo in Catullus, *C.* 64."](https://drive.google.com/file/d/1a7gBz1AALfDqy-WOvdpAbrh__3GAuUkl/view?usp=sharing) *Helios* 44.2: 181-199.
+<!-- Eclogues? -->
 
 ## Non-Epic Hexameter 2: Satire from Lucilius to Juvenal
 - Freudenberg, Kirk. 2005. [“Introduction: Roman Satire.”](https://drive.google.com/file/d/1_AdqyzHm7eH2dA-pPWL0cz7EyFBSI0-0/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 1-30. Cambridge.
@@ -108,9 +110,10 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - Trinacty, Christopher. 2015. ["Senecan tragedy."](https://drive.google.com/file/d/18LUJjSlNTltHJF7h-NQ8dfmNQ0ltot7L/view?usp=sharing) In *The Cambridge Companion to Seneca*, edited by Shadi Bartsch and Alessandro Schiesaro, 29-40. Cambridge.
 
 ## Imperial Biography: Suetonius’ *Nero* and the *Lives of the Caesars*
-<!-- Vout chapter? ILL incoming -->
+- Curry, Susan. 2014. ["Nero *Quadripes*: Animalizing the Emperor in Suetonius's *Nero*."](https://drive.google.com/file/d/1_tKSnMHmgLBGhNyVM9VPec5kg2HNzPBb/view?usp=sharing) *Arethusa* 47: 197-230.
 
 ## Imperial Historiography: Tacitus and How to Survive a Tyrant
+- Haynes, Holly. 2006. ["Survival and Memory in the *Agricola*."](https://drive.google.com/file/d/1_v1qB-ESCUiUxk758VNWlGIXmhv9X2Sg/view?usp=sharing) *Arethusa* 39.2: 149-170.
 - Blair, Stephen. 2017. [“Erasing History? The Roman Way to Memorialize a Painful Past.”](https://eidolon.pub/erasing-history-fccc4c547ca8) *Eidolon*.
 - *The History of Rome* podcast, [Episode 75: The Forgotten Son](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=MWQwODM0NWI1Yjg0MTIwYzJlM2FmMzY3YWQyY2NmN2I%3D&hl=en)
 
