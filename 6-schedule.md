@@ -32,7 +32,7 @@ All reading assignments listed below should be completed by the date on which th
             <td>
               <ul>
                 <li>Read the syllabus and grading contract front to back.</li>
-                <li>Martin 2012, pp. 20-40, "Roman Values, The Family, and Religion"</li>
+                <li>Martin, Thomas R. 2012. ["Roman Values, The Family, and Religion."]() In *Ancient Rome: From Romulus to Justinian*, 20-40. New Haven.</li>
               </ul>
             </td>
         </tr>
@@ -60,8 +60,13 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>W 9/18</strong></td>
-            <td>Cicero <a href="http://ibnotes.tripod.com/Subjects/Latin/catiline1.pdf"><em>In Catilinam</em> 1</a></td>
-            <td><strong>The Catilinarian Conspiracy: Cicero’s <em>In Catilinam</em> 1 and the <em>Senatus Consultum Ultimum</em></strong></td>
+            <td>
+              <ul>
+                <li>Cicero <a href="http://ibnotes.tripod.com/Subjects/Latin/catiline1.pdf"><em>In Catilinam</em> 1</a></li>
+                <li>Caesar <a href="http://classics.mit.edu/Caesar/civil.1.1.html"><em>Bellum Civile</em> 1</a></li>
+              </ul>
+            </td>
+            <td><strong>Conspiracy and Civil War in the 1st Century BCE</strong></td>
         </tr>
         <tr>
             <td><strong>F 9/20</strong></td>
