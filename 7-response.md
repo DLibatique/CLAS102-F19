@@ -19,9 +19,10 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - Everitt, Anthony. 2001. [“The Forum and the Fray.”](https://drive.google.com/file/d/1aDSssSvXdOft8JL_ZSGscfCuHgEG24Tr/view?usp=sharing) In *Cicero: The Life and Times of Rome’s Greatest Politician*, 47-66. New York.
 - *History of Philosophy* podcast, [Episode 71 - Rhetorical Questions: Cicero](https://historyofphilosophy.net/cicero).
 
-## The Catilinarian Conspiracy: Cicero’s *In Catilinam* 1 and the *Senatus Consultum Ultimum*
+## Conspiracy and Civil War in the 1st Century BCE
 - Everitt, Anthony. 2001. [“Against Catilina: Campaign and Conspiracy: 63 BC.”](https://drive.google.com/file/d/1aCZmS3m8juA0XiRgkTn19PeVRvnbYWR7/view?usp=sharing) In *Cicero: The Life and Times of Rome’s Greatest Politician*, 87-112. New York.
 - Kenty, Joanna. 2016. [“Alexander Hamilton’s Catiline Obsession.”](https://eidolon.pub/alexander-hamiltons-catiline-obsession-7dfbf4ca2dd1) *Eidolon*.
+- Wazer, Caroline. 2017. ["Julius Caesar's Empty Audience."](https://www.laphamsquarterly.org/roundtable/julius-caesars-empty-audience) *Lapham's Quarterly*.
 
 ## Elegiac and Nugatory Poetry 1: *novum libellum* and the Female Perspective
 - Kamil, Mariam. 2019. <a href="https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33">“‘I Shall — #$\% You And \*\@$# You’: Grappling with Censorship as a Queer Classicist.”</a> *Eidolon.*
