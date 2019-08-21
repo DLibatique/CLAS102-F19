@@ -4,7 +4,6 @@ title: Response Readings and Podcasts
 ---
 
 <!-- to find:
-- General interest
 - Cicero??
 - Horace's Odes
 - Sabine Women
@@ -15,19 +14,19 @@ title: Response Readings and Podcasts
 
 -->
 
-The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module! The articles and podcasts listed under the first item are general interest pieces about Roman literature and culture that don't necessarily fit into just one module.
+The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
 
 Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here]({{ site.baseurl }}4-grading#responses).
 
-## General Interest: Gender, Sexuality, Military, Daily Life, etc.
-
 ## Introduction: Women and Men in Roman Literature and Society
 - Martin, Thomas R. 2012. [“Introduction and Background.”](https://drive.google.com/file/d/1Dfh8mJQ-6CksD-_eKVkWdvrjRmdRaUP0/view?usp=sharing) In *Ancient Rome: From Romulus to Justinian*, 1-19. New Haven.
+- Zuckerberg, Donna. 2016. ["How to Be a Good Classicist under a Bad Emperor."](https://eidolon.pub/how-to-be-a-good-classicist-under-a-bad-emperor-6b848df6e54a) *Eidolon*.
 
 ## The Origins of Roman Literature and Plautus’ *Casina*
 - James, Sharon. 2016. [“Ancient Comedy, Women’s Lives: Finding Social History and Seeing the Present in Classical Comedy.”](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/) Humanities Futures: Franklin Humanities Institute, Duke University.
 
 ## Cicero, A *Novus Homo,* and the *Cursus Honorum*
+- Ruprecht, Daniel. 2018. ["Truthful Hyperbole, Honest Bullshit."](https://eidolon.pub/truthful-hyperbole-honest-bullshit-c1b2f0b78c46) *Eidolon*.
 - Everitt, Anthony. 2001. “The Forum and the Fray.” In *Cicero: The Life and Times of Rome’s Greatest Politician*, 47-66. New York.
 - *History of Philosophy* podcast, [Episode 71 - Rhetorical Questions: Cicero](https://historyofphilosophy.net/cicero).
 
