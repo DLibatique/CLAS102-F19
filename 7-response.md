@@ -3,17 +3,6 @@ layout: page
 title: Response Readings and Podcasts
 ---
 
-<!-- to find:
-- Cicero??
-- Horace's Odes
-- Sabine Women
-- Vergil's Eclogues
-- Ov Met 11-15
-- Lucan??
-- Perpetua
-
--->
-
 The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
 
 Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here]({{ site.baseurl }}4-grading#responses).
@@ -27,11 +16,11 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 ## Cicero, A *Novus Homo,* and the *Cursus Honorum*
 - Ruprecht, Daniel. 2018. ["Truthful Hyperbole, Honest Bullshit."](https://eidolon.pub/truthful-hyperbole-honest-bullshit-c1b2f0b78c46) *Eidolon*.
-- Everitt, Anthony. 2001. “The Forum and the Fray.” In *Cicero: The Life and Times of Rome’s Greatest Politician*, 47-66. New York.
+- Everitt, Anthony. 2001. [“The Forum and the Fray.”](https://drive.google.com/file/d/1aDSssSvXdOft8JL_ZSGscfCuHgEG24Tr/view?usp=sharing) In *Cicero: The Life and Times of Rome’s Greatest Politician*, 47-66. New York.
 - *History of Philosophy* podcast, [Episode 71 - Rhetorical Questions: Cicero](https://historyofphilosophy.net/cicero).
 
 ## The Catilinarian Conspiracy: Cicero’s *In Catilinam* 1 and the *Senatus Consultum Ultimum*
-- Everitt, Anthony. 2001. “Against Catilina: Campaign and Conspiracy: 63 BC.” In *Cicero: The Life and Times of Rome’s Greatest Politician*, 87-112. New York.
+- Everitt, Anthony. 2001. [“Against Catilina: Campaign and Conspiracy: 63 BC.”](https://drive.google.com/file/d/1aCZmS3m8juA0XiRgkTn19PeVRvnbYWR7/view?usp=sharing) In *Cicero: The Life and Times of Rome’s Greatest Politician*, 87-112. New York.
 - Kenty, Joanna. 2016. [“Alexander Hamilton’s Catiline Obsession.”](https://eidolon.pub/alexander-hamiltons-catiline-obsession-7dfbf4ca2dd1) *Eidolon*.
 
 ## Elegiac and Nugatory Poetry 1: *novum libellum* and the Female Perspective
@@ -45,17 +34,18 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 ## Elegiac and Nugatory Poetry 3: Republican Odes and Imperial Epigrams
 - Hall, Claire. 2015. [“I Am in Every Pocket, Every Hand: Twitter and Martial.”](https://eidolon.pub/i-am-in-every-pocket-every-hand-twitter-and-martial-ef6c3260d502) *Eidolon*.
-<!-- Horace's Odes -->
+- Shumate, Nancy. 2005. ["Gender and Nationalism in Horace's 'Roman' Odes (*Odes* 3.2, 3.5, 3.6)."](https://drive.google.com/file/d/1aPAh5GVQ4QyELC3RCbIbhIyIVK-31E7f/view?usp=sharing) *Helios* 32.1: 81-107.
+- Syndikus, Hans Peter. 2010. ["The Roman Odes."](https://drive.google.com/file/d/1aQdtfYSAjUpGE8z0o0-y2Ac_kaTIla7C/view?usp=sharing) In *A Companion to Horace*, edited by Gregson Davis, 193-209. Hoboken.
 
 ## Livy 1: The Aims of Livian Historiography and the Foundation of Rome
 - Roller, Matthew B. 2009. [“The exemplary past in Roman historiography and culture.”](https://drive.google.com/file/d/1ZxnqU7G0sO79pGo5C4T4gse8q93uMxos/view?usp=sharing) In *The Cambridge Companion to the Roman Historians*, edited by Andrew Feldherr, 214-230. Cambridge.
-<!-- article on Sabine women? -->
+- Brown, Robert. 1995. ["Livy's Sabine Women and the Ideal of *Concordia*."](https://drive.google.com/file/d/1aUImP929oARbfAwD3cXw1HUZ2sIUVnIz/view?usp=sharing) *Transactions of the American Philological Association* 125: 291-319.
 
 ## Livy 2: From Romulus to Numa
 - Two episodes of the *History of Rome* podcast: Episodes [003a (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=ZDNmZDZlNDQzMDk3MjYzYjVlZDQxMjVhYTY3NzkyNzg%3D&hl=en) and [003b (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=OWE0ODY2MTIyZGI4OThlNzYyYjU5ODM0NDg3YjNkMWI%3D&hl=en), both entitled "The Seven Kings of Rome".
 
 ## Livy 3: The Tarquins, Lucretia, and the End of the Monarchy
-- Joshel, Sandra, Body Politic <!-- ADD FULL CITATION AND LINK HERE -->
+- Joshel, Sandra. 2002. ["The Body Female and the Body Politic: Livy's Lucretia and Verginia."](https://drive.google.com/file/d/1a1ZBdrBwF4md2N-zXrikT8I096BMt-Jh/view?usp=sharing) In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-187. Malden (MA) and Oxford.
 - Kenty, Joanna. 2017. [“Avenging Lucretia: From Rape to Revolution.”](https://eidolon.pub/avenging-lucretia-dd14e936840c) *Eidolon*. **CW:** rape.
 
 ## Augustus: *pater patriae*
@@ -77,7 +67,7 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 ## Non-Epic Hexameter 1: Catullan Epyllion and Vergilian Bucolics
 - Wasdin, Katherine. 2017. ["Weaving Time: Ariadne and the Argo in Catullus, *C.* 64."](https://drive.google.com/file/d/1a7gBz1AALfDqy-WOvdpAbrh__3GAuUkl/view?usp=sharing) *Helios* 44.2: 181-199.
-<!-- Eclogues? -->
+- Nisbet, R.G.M. 2008. ["Virgil's Fourth Eclogue: Easterners and Westerners."](https://drive.google.com/file/d/1aQdtfYSAjUpGE8z0o0-y2Ac_kaTIla7C/view?usp=sharing) In *Vergil's Eclogues: Oxford Readings in Classical Studies*, edited by Katharina Volk, 155-188. Oxford.
 
 ## Non-Epic Hexameter 2: Satire from Lucilius to Juvenal
 - Freudenberg, Kirk. 2005. [“Introduction: Roman Satire.”](https://drive.google.com/file/d/1_AdqyzHm7eH2dA-pPWL0cz7EyFBSI0-0/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 1-30. Cambridge.
@@ -92,7 +82,7 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - McCarter, Stephanie. 2018. [“Rape, Lost in Translation.”](https://electricliterature.com/rape-lost-in-translation-7d069ce39d12) *Electric Literature*.
 
 ## Ovid 3: *ad mea tempora*
-<!-- ?? -->
+- Pavlock, Barbara. 2009. ["Ulysses' Wounds in the Contest over the Arms of Achilles."](https://drive.google.com/file/d/1aWblVqE0L6hh3KqEIEuqXeeUQx9Lrunz/view?usp=sharing) *Classical World* 102.2: 178-181.
 
 ## Ovid 4: From Amatory to Exilic Elegy
 - Zuckerberg, Donna. 2015. ["Bang Rome: Ovid and the Original Sin of Pickup Artistry."](https://eidolon.pub/bang-rome-2214f4a3d5c5) *Eidolon*. **CW:** misogyny, sexual assault
@@ -103,7 +93,6 @@ Remember that you are allowed to submit up to 4 responses per month in September
 
 ## Lucan’s *Pharsalia:* A Republican Retrospective
 - Rosner-Siegel, Judith. 2010. ["The Oak and the Lightning: Lucan, <em>Bellum Civile</em> 1.135-157."](https://drive.google.com/file/d/1_dAn783Gdrel0eeVskRFJZFHDl0dTEye/view?usp=sharing) In *Lucan: Oxford Readings in Classical Studies*, edited by Charles Tesoriero, Frances Muecke, and Tamara Neal, 184-200. Oxford.
-<!-- see other chapters in same book? -->
 
 ## Seneca and (the Loss of) Roman Tragedy
 - Trinacty, Christopher. 2015. ["Senecan tragedy."](https://drive.google.com/file/d/18LUJjSlNTltHJF7h-NQ8dfmNQ0ltot7L/view?usp=sharing) In *The Cambridge Companion to Seneca*, edited by Shadi Bartsch and Alessandro Schiesaro, 29-40. Cambridge.
@@ -133,3 +122,4 @@ Remember that you are allowed to submit up to 4 responses per month in September
 - O'Sullivan, Timothy M. 2016. ["Human and Asinine Postures in Apuleius' <em>Golden Ass</em>."](https://drive.google.com/file/d/1_R7ToyU_QJtuo2KNfFkyzXZnMddH5zpk/view?usp=sharing) *Classical Journal* 112.2: 196-216.
 
 ## Perpetua: A Christian Martyr
+- Hunink, Vincent. 2010. ["Did Perpetua Write Her Prison Account?"](https://drive.google.com/file/d/1aY94gtqupAGj-acUbrt9ayRZ6-DSycyB/view?usp=sharing) *Listy filologické / Folia philologica* 133.1-2: 147-155.
