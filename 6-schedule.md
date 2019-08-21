@@ -210,7 +210,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr> <!--Week 10 start-->
             <td rowspan="3">10</td>
             <td><strong>M 11/11</strong></td>
-            <td>Seneca <em>Thyestes</em> [SCAN NEEDED]</td>
+            <td>[Seneca <em>Thyestes</em>](https://drive.google.com/file/d/1aBYeg3CWX2Xx84_-qujpKlHU9vWjbsEo/view?usp=sharing)</td>
             <td><strong>Seneca and (the Loss of) Roman Tragedy</strong></td>
         </tr>
         <tr>
