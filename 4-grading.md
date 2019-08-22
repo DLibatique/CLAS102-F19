@@ -42,7 +42,7 @@ The following is a rubric for semester-end grades in the course.
             <td>6</td>
             <td>4</td>
             <td>2</td>
-            <td>0</td>
+            <td>1</td>
         </tr>
         <tr>
             <td class="row-start"><strong>Responses</strong></td>
@@ -189,7 +189,9 @@ For the final essay, I will provide eight (8) prompts from which you should choo
 
 [Creative Project Prompts]({{ site.baseurl }}5-creative/)
 
-I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to making a pitch to creating a playlist. If you would like to complete a creative project that isn’t listed in the possibilities here, you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
+I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to making a pitch to a journal to creating a playlist. If you would like to complete a creative project that isn’t listed in the possibilities here, you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
+
+**You are allowed to submit only one (1) of each type of creative project.** That means that you can, for example, submit a poem, an artwork, a selfie and object analysis, and a Spotify playlist as your four creative projects if you are aiming for a semester grade of A. You cannot submit, for example, four poems or two poems and two artworks.
 
 All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
@@ -197,9 +199,9 @@ All text-based creative projects should be submitted via the upload portal on th
 Libatique - Creative Project - Eidolon.pdf**  
 etc.
 
-The guidelines for submission of all media-based creative projects is listed under the appropriate heading.
+The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 
-All creative projects must be submitted to me by **5pm on Monday, December 16** (the last day of the study period). There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+All creative projects must be submitted to me by **11:59pm on Monday, December 16 (the last day of Study Period)**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
