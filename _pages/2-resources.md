@@ -1,6 +1,7 @@
 ---
 layout: portal
 title: Resources
+permalink: /resources
 ---
 
 ## Course Texts

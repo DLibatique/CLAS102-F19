@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Response Readings and Podcasts
+permalink: /responses
 ---
 
 The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!

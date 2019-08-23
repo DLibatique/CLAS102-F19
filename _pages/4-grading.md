@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Grading
+permalink: /grading
 ---
 
 <a name="top"></a>
-<a href="#gc" class="underline">Grading Contract</a> \| <a href="#ap" class="underline">Absence Policy</a> \|  
-Guidelines: <a href="#quizzes" class="underline">Quizzes</a> \| <a href="#responses" class="underline">Responses</a> \| <a href="#final" class="underline">Final Exam or Essay</a> \|    
+<a href="#gc" class="underline">Grading Contract</a> \| <a href="#ap" class="underline">Absence Policy</a> \|
+Guidelines: <a href="#quizzes" class="underline">Quizzes</a> \| <a href="#responses" class="underline">Responses</a> \| <a href="#final" class="underline">Final Exam or Essay</a> \|
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#finex" class="underline">Final Exam</a> \| <a href="#finess" class="underline">Final Essay</a> \| <a href="#cp" class="underline">Creative Projects</a>
 
 <hr>
@@ -131,20 +132,20 @@ Every response should include in the header **the type of response** (3-2-1, arg
 
 The grading rubric for responses can be found [here](https://drive.google.com/open?id=1cOQTv7RUxsauLRvAaln7tabTeojwpgoh3k4w4mlVmTg).
 
-<span class="underline"><strong>3-2-1</strong></span>  
-- Write down **three (3)** things that you learned.  
-- Write down **two (2)** things that you found interesting and want to learn more about.  
-- Write down **one (1)** thing that was unclear or one question that you still have about the material.  
+<span class="underline"><strong>3-2-1</strong></span>
+- Write down **three (3)** things that you learned.
+- Write down **two (2)** things that you found interesting and want to learn more about.
+- Write down **one (1)** thing that was unclear or one question that you still have about the material.
 
-A 3-2-1 does not need to be written in paragraph form; you can use bullet points or numbered lists.  
+A 3-2-1 does not need to be written in paragraph form; you can use bullet points or numbered lists.
 
-<span class="underline"><strong>Argument Analysis</strong></span>  
-Answer the following questions:  
+<span class="underline"><strong>Argument Analysis</strong></span>
+Answer the following questions:
 - What is the author’s main argument?
 - How do they make that argument? What evidence do they provide?
 - Do you agree or disagree? Or, put differently, does the author make their case persuasively?
 
-<span class="underline"><strong>Personal Reflection</strong></span>  
+<span class="underline"><strong>Personal Reflection</strong></span>
 If the article speaks to you on a personal level (in terms of lived experience, personality traits, gender or sexual orientation, political affiliation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
 
 <a href="#top" class="underline">Back to top.</a>
@@ -195,8 +196,8 @@ I will designate a number of possible projects for you to complete that will dra
 
 All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
-**Libatique - Creative Project - Poem.pdf  
-Libatique - Creative Project - Eidolon.pdf**  
+**Libatique - Creative Project - Poem.pdf
+Libatique - Creative Project - Eidolon.pdf**
 etc.
 
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
@@ -205,9 +206,9 @@ All creative projects must be submitted to me by **11:59pm on Monday, December 1
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
-Submit Creative Project #1: 9/27  
-Submit Creative Project #2: 10/25  
-Submit Creative Project #3: 11/22  
-Submit Creative Project #4: 12/16  
+Submit Creative Project #1: 9/27
+Submit Creative Project #2: 10/25
+Submit Creative Project #3: 11/22
+Submit Creative Project #4: 12/16
 
 <a href="#top" class="underline">Back to top.</a>
