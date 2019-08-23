@@ -182,7 +182,7 @@ The final exam format will be like an extended quiz (with multiple choice, fill 
 <hr>
 # <a name="finess">Final Essay Guidelines</a>
 
-For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here]({{ site.baseurl }}paper).
+For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
