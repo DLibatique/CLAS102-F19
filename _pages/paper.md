@@ -1,5 +1,5 @@
 ---
-layout: low_level_page
+layout: sub_page
 title: Final Paper
 permalink: /final-paper
 ---
