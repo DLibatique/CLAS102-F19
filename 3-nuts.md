@@ -5,12 +5,12 @@ title: Nuts & Bolts
 
 <a name="top"></a>
 <a href="#ac" class="underline">Academic Conduct</a> \| <a href="#oh" class="underline">Office Hours</a> \| <a href="#gender" class="underline">Gender Expression and Identity</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#cw" class="underline">Content Warnings</a> \| <a href="#disability" class="underline">Disability</a> \|  
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#cw" class="underline">Content Warnings</a> \| <a href="#accessibility" class="underline">Accessibility</a> \|  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
 
 <hr>
 ## <a name="ac">Academic Conduct</a>
-You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/node/1381/#AHP). Cheating on quizzes or exams or plagiarism on any of the written assignments (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, copying another student’s answers, or copying another writer’s ideas without proper citation or attribution) may result in penalties ranging from a failure on the specific assignment, quiz, or exam to failure for the entire course.
+You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on quizzes or exams or plagiarism on any of the written assignments (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, copying another student’s answers, or copying another writer’s ideas without proper citation or attribution) may result in penalties ranging from a failure on the specific assignment, quiz, or exam to failure for the entire course.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -22,7 +22,7 @@ Office hours are an opportunity for you to meet with me outside of class to disc
 <hr>
 
 ## <a name="gender">Gender Expression and Identity</a>
-I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. You will spend a portion of the first class meeting on 9/4 filling out a small notecard to let me know what your preferred name is, what pronouns you use, and what you hope to learn from this class. My goal is to avoid dead-naming, as your preferred name may not match the legal name on my class roster.
+I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first assignment will be to fill out a Google Form to let me know what your preferred name is, what pronouns you use, and what you hope to learn from this class. My goal is to avoid dead-naming, as your preferred name may not match the legal name on my class roster.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -34,7 +34,6 @@ Our course will encompass topics which will sometimes require us to have difficu
 
 We will also engage in discussions about the practices and norms of cultures that in many respects differ from our own, practices that may perhaps strike modern sensibilities as objectionable or crude. One of the major themes with which we will engage this semester is how our understanding of what is acceptable or unacceptable is largely constructed by cultural context. We must engage with the evidence of ancient texts and material culture in terms of the cultures in which they were created, without making value judgments according to our modern sensibilities; or, at the very least, we must interrogate why and how we are making those value judgments.
 
-
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 
@@ -43,14 +42,13 @@ At times this semester we will be discussing literature, material culture, and t
 
 If you ever wish to discuss your personal reactions to course material with the class or with me individually afterward, I welcome such discussions as an appropriate part of our course. If you ever feel the need to step outside during a class discussion, you may always do so without academic penalty, but you will be responsible for any missed material. If you leave the room for a significant amount of time, please make arrangements to get notes from another student or to see me individually to discuss the situation.
 
-
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 
-## <a name="disability">Disability</a>
-Any student who needs accommodation based on the impact of a disability should contact the Office of Disability Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Disability Services to discuss reasonable and appropriate accommodations. Contact information for the Office of Disability Services can be found [here](https://www.holycross.edu/health-wellness-and-access/office-disability-services).
+## <a name="accessibility">Accessibility</a>
+Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations. Contact information for the Office of Accessibility Services can be found [here](https://www.holycross.edu/health-wellness-and-access/office-disability-services). The office can be also reached by calling 508-793-3693 or by visiting Hogan 215A.
 
-If you are already registered with Disability Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
+If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
