@@ -62,9 +62,15 @@ In addition to my e-mail and office hours, there are resources outside myself an
 <hr>
 
 ## <a name="mr">Mandated Reporter</a>
-By college rules, I am a mandated reporter, which means that I am legally obligated to report to the College’s Title IX office any disclosures of unlawful sex discrimination or sexual harassment (including, but not limited to, sexual misconduct, sexual violence, dating and domestic violence, and stalking), or retaliation toward any member of the College community. I want to make our classroom and your assignments spaces where you can share your personal experiences and speak your minds, but please keep this disclosure in mind on assignments like personal reflection responses.
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus.  I also have a mandatory reporting responsibility related to my role as your professor. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. I will seek to keep information you share private to the greatest extent possible. However, any information that you disclose that addresses sexual misconduct or relates to a prior suicide attempt or an intention to attempt suicide requires my sharing that information with those on campus who are able to provide you with necessary resources.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Roman monument in the e-mail body by 1pm on Friday, September 6, 2019, with the subject line “Caesar and Pompey were ARCH-enemies.” If you do so, you will receive two (2) extra credit points on quiz #1 (on F 9/13).
+Following the College’s Sexual Misconduct Policy, I will share information about sexual misconduct with the College’s Office of Title IX Initiatives. If you would to talk to Title IX directly, they can be reached at 508-793-3336 or titleix [at] holycross.edu.  For more information, please visit [this website](https://www.holycross.edu/sexual-respect-and-title-ix). If you would like to discuss the matter confidentially, the following confidential resources are available to you: the Chaplains' Office, 508-793-2448; Counseling Center, 508-793-3363; Health Services, 508-793-2276.
+
+Following the College’s Suicide Protocol, if you disclose a prior suicide attempt or an intention or plan to attempt suicide, I will share that information with the Chair of our student CARE Team, who will engage in appropriate outreach.
+
+Again, I want to stress that I would like to make our classroom and your assignments spaces where you can share your personal experiences and speak your minds, but please keep these disclosures in mind on assignments like personal reflection responses.
+
+By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Roman monument in the e-mail body by 1pm on Wednesday, September 11, 2019, with the subject line “Caesar and Pompey were ARCH-enemies.” If you do so, you will receive two (2) extra credit points on quiz #1 (on F 9/13).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
