@@ -46,7 +46,7 @@ If you ever wish to discuss your personal reactions to course material with the 
 <hr>
 
 ## <a name="accessibility">Accessibility</a>
-Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations. Contact information for the Office of Accessibility Services can be found [here](https://www.holycross.edu/health-wellness-and-access/office-disability-services). The office can be also reached by calling 508-793-3693 or by visiting Hogan 215A.
+Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations. Contact information for the Office of Accessibility Services can be found [here](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services). The office can be also reached by calling 508-793-3693 or by visiting Hogan 215A.
 
 If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
 
