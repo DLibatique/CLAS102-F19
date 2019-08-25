@@ -93,7 +93,7 @@ It is possible to make up unsatisfactory assignments or requirements. At the beg
 
 **You may take up to four (4) excused absences for the semester**. If you need to be absent for any classes beyond four excused absences, I ask that you provide a reason in your e-mail notifying me about the absence, and I will decide on a case-by-case basis whether I will excuse it or not.
 
-Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/node/1381/#EAP).
+Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
 Any absence about which I do not receive an e-mail from you or which is not excused by a note from your Class Dean will be considered **unexcused**.
 
