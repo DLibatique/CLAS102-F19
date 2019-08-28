@@ -77,11 +77,11 @@ The following is a rubric for semester-end grades in the course.
 
 To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 6 quizzes; 10 responses to secondary readings; 2 creative projects; and a final essay or exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
 
-Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student wants to improve that B+ to an A-, then they can complete two more responses, and then if the final unexcused absence tally at the end of the semester works out, then the student earns an A-!
+Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student wants to improve that B+ to an A-, then they can complete two more responses, and then if the final unexcused absence tally at the end of the semester works out, the student earns an A-!
 
 \* The essay/exam requirement is the only element of the grading contract that I will grade subjectively, and its grade will contribute to a movement up or down in semester grade; see the specific guidelines below under “Final Essay or Exam Guidelines.”
 
-It is possible to make up unsatisfactory assignments. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. No late assignments will be accepted without a documented reason.
+It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. No late assignments will be accepted without a documented reason.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -94,7 +94,7 @@ It is possible to make up unsatisfactory assignments. At the beginning of the se
 
 **You may take up to four (4) excused absences for the semester**. If you need to be absent for any classes beyond four excused absences, I ask that you provide a reason in your e-mail notifying me about the absence, and I will decide on a case-by-case basis whether I will excuse it or not.
 
-Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/node/1381/#EAP).
+Any absence without a notifying e-mail or beyond the four excused absences can be considered **excused** for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event). Such an absence falls under Holy Cross’ Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
 Any absence about which I do not receive an e-mail from you or which is not excused by a note from your Class Dean will be considered **unexcused**.
 
@@ -182,7 +182,7 @@ The final exam format will be like an extended quiz (with multiple choice, fill 
 <hr>
 # <a name="finess">Final Essay Guidelines</a>
 
-For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
+For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/paper).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -196,7 +196,7 @@ I will designate a number of possible projects for you to complete that will dra
 
 All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
-**Libatique - Creative Project - Poem.pdf
+**Libatique - Creative Project - Poem.pdf  
 Libatique - Creative Project - Eidolon.pdf**
 etc.
 
@@ -206,9 +206,9 @@ All creative projects must be submitted to me by **11:59pm on Monday, December 1
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
-Submit Creative Project #1: 9/27
-Submit Creative Project #2: 10/25
-Submit Creative Project #3: 11/22
-Submit Creative Project #4: 12/16
+Submit Creative Project #1: 9/27  
+Submit Creative Project #2: 10/25  
+Submit Creative Project #3: 11/22  
+Submit Creative Project #4: 12/16  
 
 <a href="#top" class="underline">Back to top.</a>
