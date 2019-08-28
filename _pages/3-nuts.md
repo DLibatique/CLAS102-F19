@@ -12,7 +12,7 @@ permalink: /nuts-and-bolts
 ## <a name="ac">Academic Conduct</a>
 You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on quizzes or exams or plagiarism on any of the written assignments (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, copying another student’s answers, or copying another writer’s ideas without proper citation or attribution) may result in penalties ranging from a failure on the specific assignment, quiz, or exam to failure for the entire course.
 
-<a href="#top" class="underline">Back to top.</a>
+<a href="#top" target="_self" class="underline">Back to top.</a>
 <hr>
 
 ## <a name="oh">Office Hours</a>
