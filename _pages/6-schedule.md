@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+permalink: /schedule
 ---
 
 <a name="top"></a>
@@ -32,7 +33,7 @@ All reading assignments listed below should be completed by the date on which th
             <td>
               <ul>
                 <li>Read the syllabus and grading contract front to back.</li>
-                <li>Martin, Thomas R. 2012. ["Roman Values, The Family, and Religion."](https://drive.google.com/file/d/1Zie5uQEyPgWhTJYDm4to2e4dS-YaZI3w/view?usp=sharing) In *Ancient Rome: From Romulus to Justinian*, 20-40. New Haven.</li>
+                <li>Martin, Thomas R. 2012. <a href="https://drive.google.com/file/d/1Zie5uQEyPgWhTJYDm4to2e4dS-YaZI3w/view?usp=sharing">"Roman Values, The Family, and Religion."</a> In *Ancient Rome: From Romulus to Justinian*, 20-40. New Haven.</li>
               </ul>
             </td>
         </tr>
