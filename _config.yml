@@ -1,11 +1,10 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-plugins:          [jekyll-paginate]
+include:          ['_pages']
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
 
 # Setup
 title:            Women and Men in Roman Literature and Society
@@ -14,22 +13,14 @@ course_number:    'CLAS 102 01'
 semester:         'Fall 2019'
 location:         'College of the Holy Cross'
 url:              https://dlibatique.github.io/CLAS102-F19
-baseurl:          /CLAS102-F19/
+baseurl:          /
 
 author:
   name:           'Daniel Libatique'
   url:            https://dlibatique.github.io
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
+version:          2.2.0
 
 github:
   repo:           https://github.com/dlibatique/CLAS102-F19
 
-pages:
-    - resources
-    - nuts
-    - grading
-    - schedule

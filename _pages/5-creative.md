@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Creative Projects
+permalink: /creative-projects
 ---
 
 <a name="top"></a>
 
 <a href="{{ site.baseurl }}4-grading#cp" class="underline">Creative Projects: General Guidelines</a>
 
-<a href="#poem" class="underline">Write a Poem</a> \| <a href="#art" class="underline">Artistic Rendering</a> \| <a href="#eidolon" class="underline"><em>Eidolon</em> Pitch</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#oa" class="underline">Selfie and Object Analysis</a> \| <a href="#pod" class="underline">Podcast Lesson</a> \| <a href="#vid" class="underline">Video Lesson</a> \|  
+<a href="#poem" class="underline">Write a Poem</a> \| <a href="#art" class="underline">Artistic Rendering</a> \| <a href="#eidolon" class="underline"><em>Eidolon</em> Pitch</a> \|
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#oa" class="underline">Selfie and Object Analysis</a> \| <a href="#pod" class="underline">Podcast Lesson</a> \| <a href="#vid" class="underline">Video Lesson</a> \|
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#spotify" class="underline">Create a Spotify playlist</a> \| <a href="#tweet" class="underline">Livetweet a Reading</a>
 
 <hr>

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Nuts & Bolts
+permalink: /nuts-and-bolts
 ---
 
-<a name="top"></a>
 <a href="#ac" class="underline">Academic Conduct</a> \| <a href="#oh" class="underline">Office Hours</a> \| <a href="#gender" class="underline">Gender Expression and Identity</a> \|  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#cw" class="underline">Content Warnings</a> \| <a href="#accessibility" class="underline">Accessibility</a> \|  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>

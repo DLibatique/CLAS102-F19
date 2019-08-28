@@ -1,21 +1,8 @@
 ---
-layout: page
+layout: portal
 title: Resources
+permalink: /resources
 ---
-
-## <a style="color: #000000;" name="up">Upload Portal</a>
-
-<div id="form">
-  <form id="fileUpload">
-    <input
-      type="file"
-      accept=".doc,.docx,.pdf"
-    />
-    <button type="submit" id="submit-btn">Upload</button>
-  </form>
-</div>
-
-<hr>
 
 ## Course Texts
 

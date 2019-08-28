@@ -1,14 +1,16 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
 ## Course Information
+
 **Meeting Time:** MWF 1pm to 1:50pm  
 **Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
-**Office hours:** MW 3-5pm, or by appointment  
+**Office hours:** MW 2-4pm, or by appointment  
 **E-mail:** dlibatiq [at] holycross.edu  
 **Website:** [Click here.](https://dlibatique.github.io)
 

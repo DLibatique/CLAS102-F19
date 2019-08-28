@@ -1,19 +1,23 @@
 ---
-layout: low_level_page
+layout: sub_page
 title: Final Paper
+permalink: /final-paper
 ---
-
 
 This assignment asks you to engage in the close reading of a text and write an argumentative essay in response to the question posed by a prompt. Your argument should be an answer to the question posed, and you will need to provide textual evidence through citations to support your answer and explain your reasoning. This argument should be based on the primary text(s) referenced in your chosen prompt; there should be no citations of or references to secondary scholarship in your paper.
 
 ## Due Date and Time
+
 The end time on the date of the final exam, to be determined by the registrar.
 
 ## Length
+
 5-6 pages, double-spaced.
 
 ## Grading criteria
+
 When grading this assignment, I will be looking for:
+
 - a clear and specific **argument**, supported by **textual evidence** drawn from our readings;
 - a logical and coherent **structure** to your paper;
 - accurate **citations of primary texts** in the proper format;
@@ -21,11 +25,13 @@ When grading this assignment, I will be looking for:
 - for a higher grade, evidence of individual thought, and creative or sensitive insights into your chosen topic.
 
 ## Resources
+
 You are free to come to my office hours or set up an appointment to discuss your chosen prompt or how to structure your paper. I am willing to read and offer suggestions on paper drafts, but you are not required to run a draft by me before the paper’s due date. I will not accept any drafts after **5pm on Sunday, 12/15,** to ensure that I can give you back my comments in a timely fashion before the paper's due date.
 
 You can also make an appointment with the [Writer’s Workshop](https://www.holycross.edu/academics/support-and-resources/center-for-writing/writers-workshop); there, they can help you with organizing your thoughts and structuring your argument.
 
 ## Citations
+
 Citations of primary source material (meaning the actual text of the author, and not introductions by an editor, footnotes, etc.) are necessary to support the claim that you are making in your argument. You should not cite material that is self-evident or that doesn’t bear on your argument.
 
 You may use **the primary source(s) referenced in the prompt** as evidence. You may not use secondary sources, including but not limited to introductions or footnotes by an editor, commentaries, scholarly articles, book chapters, or websites. The goal of this assignment is to make your own argument and substantiate it with evidence from primary texts; I want to know what *you* think, not what some other scholar thinks!
@@ -69,7 +75,6 @@ Cite BOTH by chapter number AND the page reference in Hackett. For example:
 Cite by the inscription or graffito number in Hackett with subsection number, if applicable. For example,
 
 > In the *Praise of Turia*, the husband praises Turia’s many good qualities with an instance of *praeteritio*: “Your domestic virtues — modesty, obedience, kindness, even temper, eagerness for working wool, religious reverence free from superstition, humbleness in your use of adornment, modesty in your style of dress — why should I mention them?” (1.1)
-
 > Inscription 45 laments a young baby who died after only 9 months of life: “Here lies a pitiable infant stolen from her mother’s arms before she had lived nine full circuits of the moon. Her grieving mother and father weep for her as she lies, little body enclosed in a marble tomb.”
 
 ### 6. Katharina Volk suggests two possibilities for how we view Ovid and his poetry: “One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.” Which of these options is closer to the truth?
@@ -77,7 +82,6 @@ Cite by the inscription or graffito number in Hackett with subsection number, if
 Cite by work name, book number, and line number for Ovid’s works in Hackett; cite by work name and page number for citations from the *Metamorphoses*. Examples:
 
 > Ovid advocates for adultery by means of a metaphor: “The crop is always richer in someone else’s field, his cow’s udder seem a bit more swollen with milk” (*The Art of Love* 1.349-350).
-
 > Pygmalion sculpts a perfect woman, literally objectified as a statue: “But meanwhile / He made, with marvelous art, an ivory statue, / As white as snow, and gave it greater beauty / Than any girl could have, and fell in love / with his own workmanship" (*Metamorphoses*, p. 242).
 
 ### 7. Is Lucius’ conversion to the cult of Isis at the end of Apuleius’ *The Golden Ass* serious or satiric?
