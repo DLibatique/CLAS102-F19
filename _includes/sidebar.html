@@ -24,11 +24,11 @@
         {% if node.title != null %}
           {% if node.layout == "page" or node.layout == "portal" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" target="_self" href="{{ site.url }}{{ node.url }}">{{ node.title }}</a>
-            <br />
-            <a class="sidebar-nav-item active" target="_self" href="https://forms.gle/AQSPjMyhwTN6x8Vw8">Upload Portal</a>
           {% endif %}
         {% endif %}
       {% endfor %}
+      <br />
+      <a class="sidebar-nav-item active" target="_self" href="https://forms.gle/AQSPjMyhwTN6x8Vw8">Upload Portal</a>
 
     </nav>
 
