@@ -20,7 +20,7 @@ The criteria for a grade of satisfactory are as follows:
 1. The poem must be 30-40 lines long.
 2. Your blurb describing the process must be 4-5 sentences long.
 3. Your poem must have a title.
-4. Your poem (and the blurb explaining it) must adequately capture your chosen poem's poet's diction and style.
+4. Your poem must adequately capture your chosen poet's diction and style.
 5. Submit the poem and blurb in one file via the [Upload Portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
 
 The grading rubric for this creative project can be found [here](https://docs.google.com/document/d/1pTxoNqLbyuZRWUzDxFG5i20nq7g8n0BxnMIt1juocNg/edit?usp=sharing).
