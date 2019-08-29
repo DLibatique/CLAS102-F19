@@ -4,9 +4,9 @@ title: Response Readings and Podcasts
 permalink: /responses
 ---
 
-The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here](grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
+The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here](grading#response-guidelines). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
 
-Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here](grading#responses).
+Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here](grading#response-guidelines).
 
 All responses should be submitted via the [Upload Portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
 
