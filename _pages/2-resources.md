@@ -1,5 +1,5 @@
 ---
-layout: portal
+layout: page
 title: Resources
 permalink: /resources
 ---
