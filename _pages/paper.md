@@ -48,11 +48,11 @@ Each prompt will have a slightly different citation format; see the specifics un
 
 Cite by the *Aeneid*'s book and line number. An example:
 
-> Turnus asks Aeneas for mercy: “You've triumphed: the Italians see me asking / For mercy, and Lavinia is your wife. / Lay down your hatred” (book 12, lines 1249-1251).
+> Turnus asks Aeneas for mercy: “You've triumphed: the Italians see me asking / For mercy, and Lavinia is your wife. / Lay down your hatred” (12.1249-1251).
 
 OR
 
-> At book 12, lines 1249-1251, Turnus asks Aeneas for mercy: “You've triumphed: the Italians see me asking / For mercy, and Lavinia is your wife. / Lay down your hatred.”
+> At 12.1249-1251, Turnus asks Aeneas for mercy: “You've triumphed: the Italians see me asking / For mercy, and Lavinia is your wife. / Lay down your hatred.”
 
 ### 2. Despite the name of Plautus’ *Casina*, Casina herself never appears in the play. Who is the main character of *Casina*, then? And why?
 
@@ -79,9 +79,9 @@ Cite by the inscription or graffito number in Hackett with subsection number, if
 > In the *Praise of Turia*, the husband praises Turia’s many good qualities with an instance of *praeteritio*: “Your domestic virtues — modesty, obedience, kindness, even temper, eagerness for working wool, religious reverence free from superstition, humbleness in your use of adornment, modesty in your style of dress — why should I mention them?” (1.1)
 > Inscription 45 laments a young baby who died after only 9 months of life: “Here lies a pitiable infant stolen from her mother’s arms before she had lived nine full circuits of the moon. Her grieving mother and father weep for her as she lies, little body enclosed in a marble tomb.”
 
-### 6. Katharina Volk suggests two possibilities for how we view Ovid and his poetry: “One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.” Which of these options is closer to the truth?
+### 6. Katharina Volk suggests two possibilities for how we view Ovid and his poetry: “One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.” Which of these options is closer to the truth?  Use evidence from *The Art of Love* and the *Metamorphoses* to support your argument.
 
-Cite by work name, book number, and line number for Ovid’s works in Hackett; cite by work name and page number for citations from the *Metamorphoses*. Examples:
+Cite by work name, book number, and line number for *The Art of Love*; cite by work name and page number for citations from the *Metamorphoses*. Examples:
 
 > Ovid advocates for adultery by means of a metaphor: “The crop is always richer in someone else’s field, his cow’s udder seem a bit more swollen with milk” (*The Art of Love* 1.349-350).
 > Pygmalion sculpts a perfect woman, literally objectified as a statue: “But meanwhile / He made, with marvelous art, an ivory statue, / As white as snow, and gave it greater beauty / Than any girl could have, and fell in love / with his own workmanship" (*Metamorphoses*, p. 242).
