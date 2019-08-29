@@ -5,8 +5,8 @@ permalink: /grading
 ---
 
 [Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|  
-Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Essay](#final-exam-or-essay) \|  
-&nbsp;&nbsp;&nbsp;&nbsp;[Final Exam](#final-exam-guidelines) \| [Final Essay](#final-essay-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
+Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \|  
+&nbsp;&nbsp;&nbsp;&nbsp;[Final Exam](#final-exam-guidelines) \| [Final Paper](#final-paper-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
 
 ---
 
@@ -156,7 +156,7 @@ The grading rubric for responses can be found [here](https://drive.google.com/op
 
 ---
 
-## Final Exam or Essay
+## Final Exam or Paper
 
 As a final requirement for the course, **you will choose whether to complete an exam or an essay**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing essays.
 
@@ -171,12 +171,12 @@ The final exam will be graded out of **100 points**.
 
 Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
 
-The final essay will be graded on a **letter basis**.
+The final paper will be graded on a **letter basis**.
 - A grade of **B- or higher** improves your semester grade by one stop.
 - A grade of **C- to C+** keeps your grade wherever it is.
 - A grade of **D+ or lower** decreases your semester grade by one stop.
 
-This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final essay can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
+This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final paper can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
 
 [Back to top.](#top)
 
@@ -190,9 +190,9 @@ The final exam format will be like an extended quiz (with multiple choice, fill 
 
 ---
 
-## Final Essay Guidelines
+## Final Paper Guidelines
 
-For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
+For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
 
 [Back to top.](#top)
 
