@@ -12,7 +12,7 @@ Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| 
 
 ## Grading Contract
 
-Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the final exam/essay, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time or energy towards that grade as you desire.
+Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the final exam/essay, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time and energy towards that grade as you desire.
 
 The following is a rubric for semester-end grades in the course.
 
