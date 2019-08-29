@@ -6,6 +6,8 @@ permalink: /final-paper
 
 This assignment asks you to engage in the close reading of a text and write an argumentative essay in response to the question posed by a prompt. Your argument should be an answer to the question posed, and you will need to provide textual evidence through citations to support your answer and explain your reasoning. This argument should be based on the primary text(s) referenced in your chosen prompt; there should be no citations of or references to secondary scholarship in your paper.
 
+The impact of the final paper grade on your semester grade is explained in the [Final Paper section of the Grading page](grading#final-exam-or-paper).
+
 ## Due Date and Time
 
 The end time on the date of the final exam, to be determined by the registrar.
