@@ -4,9 +4,11 @@ title: Response Readings and Podcasts
 permalink: /responses
 ---
 
-The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here]({{ site.baseurl }}4-grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
+The following is a list of readings and podcasts to which you may respond according to the guidelines set out [here](grading#responses). The module title indicates the topic to which the reading most directly corresponds -- if you found that topic interesting in class or during your primary reading, odds are that you'll get something out of the readings in that module!
 
-Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here]({{ site.baseurl }}4-grading#responses).
+Remember that you are allowed to submit up to 4 responses per month in September, October, and November, and up to 2 responses in December. Guidelines for submitting each response can also be found [here](grading#responses).
+
+All responses should be submitted via the [Upload Portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
 
 ## Introduction: Women and Men in Roman Literature and Society
 - Martin, Thomas R. 2012. [“Introduction and Background.”](https://drive.google.com/file/d/1Dfh8mJQ-6CksD-_eKVkWdvrjRmdRaUP0/view?usp=sharing) In *Ancient Rome: From Romulus to Justinian*, 1-19. New Haven.
