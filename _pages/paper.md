@@ -48,11 +48,11 @@ Each prompt will have a slightly different citation format; see the specifics un
 
 Cite by the *Aeneid*'s book and line number. An example:
 
-> Turnus asks Aeneas for mercy: “For you have won, and the Ausonians have seen me, beaten, stretch my hands; Lavinia is yours; then do not press your hatred further” (book 12, lines 1249-1251).
+> Turnus asks Aeneas for mercy: “You've triumphed: the Italians see me asking / For mercy, and Lavinia is your wife. / Lay down your hatred” (book 12, lines 1249-1251).
 
 OR
 
-> At book 12, lines 1249-1251, Turnus asks Aeneas for mercy: “For you have won, and the Ausonians have seen me, beaten, stretch my hands; Lavinia is yours; then do not press your hatred further.”
+> At book 12, lines 1249-1251, Turnus asks Aeneas for mercy: “You've triumphed: the Italians see me asking / For mercy, and Lavinia is your wife. / Lay down your hatred.”
 
 ### 2. Despite the name of Plautus’ *Casina*, Casina herself never appears in the play. Who is the main character of *Casina*, then? And why?
 
@@ -94,6 +94,6 @@ Cite by book number and chapter number. For example:
 
 ### 8. Is Tacitus’ *Agricola* more a biography or a work of historiography, according to our modern definitions?
 
-Cite by chapter number and sentence number. For example:
+Cite by chapter number. For example:
 
-> Tacitus ends the *Agricola* with a promise of immortality for Agricola: “Agricola, whose story here is told, will outlive death, to be our children’s heritage” (46.4).
+> Tacitus ends the *Agricola* with a promise of immortality for Agricola: “Agricola will survive, his story told and transmitted to posterity” (46).
