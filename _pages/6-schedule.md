@@ -216,7 +216,7 @@ All reading assignments listed below should be completed by the date on which th
         <tr> <!--Week 10 start-->
             <td rowspan="3">10</td>
             <td><strong>M 11/11</strong></td>
-            <td>[Seneca <em>Thyestes</em>](https://drive.google.com/file/d/1aBYeg3CWX2Xx84_-qujpKlHU9vWjbsEo/view?usp=sharing)</td>
+            <td>Seneca <a href="https://drive.google.com/file/d/1aBYeg3CWX2Xx84_-qujpKlHU9vWjbsEo/view?usp=sharing"><em>Thyestes</em></a></td>
             <td><strong>Seneca and (the Loss of) Roman Tragedy</strong></td>
         </tr>
         <tr>
@@ -226,7 +226,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>F 11/15</strong></td>
-            <td>Tacitus <a href="https://holycross.idm.oclc.org/login?auth=cas&url=http://www.loebclassics.com/view/tacitus-agricola/1914/pb_LCL035.27.xml?rskey=YfTA94&result=1"><em>Agricola</em> 1-9, 18-46</a><br><br><strong>QUIZ 9</strong></td>
+            <td>Tacitus <a href="https://drive.google.com/file/d/18MCDJDxsEJcqeEBRKjh_g0CMW5cw6HLs/view?usp=sharing"><em>Agricola</em> 1-9, 18-46</a><br><br><strong>QUIZ 9</strong></td>
             <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
         </tr>
 
