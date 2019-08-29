@@ -87,7 +87,7 @@ The criteria for a grade of satisfactory are as follows:
     5. Which themes of Roman literature and society does the object tie into? How?
 4. You can use the blurb next to / under each object to help you answer the first few questions. If you can't find an answer, that's fine -- just make sure to say so.
 5. The answers may be formatted either in paragraph/essay form or in bullet points — whatever format enables you to make your points most clearly yet concisely.
-6. There is no page minimum or maximum, though a general guidelines of about 2-3pp. double spaced is good to aim for.
+6. There is no page minimum or maximum, though a general guideline of about 2-3pp. double spaced is good to aim for.
 7. Include the selfie in your write-up, and submit the one file via the [Upload Portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
 
 The grading rubric for this creative project can be found [here](https://drive.google.com/open?id=1w-QA29P8T42Go2qx9n59jdAIcaG4OnhreS3dSnQ46oQ).
