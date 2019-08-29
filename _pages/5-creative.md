@@ -49,7 +49,7 @@ The grading rubric for this creative project can be found [here](https://docs.go
 
 ## <a name="eidolon">Creative Project 3: *Eidolon* Pitch.</a>
 
-You’ll notice that many of the articles that I chose for your response essays are mostly drawn from the online Classics publication [*Eidolon*](https://eidolon.pub), whose mission is to publish articles by any level of Classics student or teacher (from high school to graduate-level) that explore topics in Classics in various ways: personal and emotional responses to ancient literature and art; the relationship of modern art, music, and literature to ancient Greek and Roman precedents; and so on.
+You’ll notice that many of the articles that I chose for your response essays are  drawn from the online Classics publication [*Eidolon*](https://eidolon.pub), whose mission is to publish articles by any level of Classics student or teacher (from high school to graduate-level) that explore topics in Classics in various ways: personal and emotional responses to ancient literature and art; the relationship of modern art, music, and literature to ancient Greek and Roman precedents; and so on.
 
 The goal of this creative project is to **draft a pitch for an *Eidolon* article that deals with one of the themes of Roman literature and society that we’re investigating this semester**. The topic can be as broad or as specific as you’d like.
 
