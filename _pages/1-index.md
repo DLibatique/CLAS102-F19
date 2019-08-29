@@ -7,7 +7,7 @@ permalink: /
 ## Course Information
 
 **Meeting Time:** MWF 1pm to 1:50pm  
-**Meeting Place:** TBD  
+**Meeting Place:** Beaven 118  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
 **Office hours:** MW 2-4pm, or by appointment  
