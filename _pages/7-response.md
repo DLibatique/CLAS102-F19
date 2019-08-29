@@ -111,7 +111,7 @@ All responses should be submitted via the [Upload Portal](https://forms.gle/AQSP
 
 ## Imperial Epistolography: Pliny the Younger
 - Killgrove, Kristina. 2018. ["New Pompeii Graffiti May Rewrite History in a Major Way."](https://www.forbes.com/sites/kristinakillgrove/2018/10/16/new-pompeii-graffiti-may-rewrite-history-in-a-major-way/#5e62a4625484) *Forbes*.
-- Woolf, Greg. 2015. ["Pliny/Trajan and the Poetics of Empire."](#) *Classical Philology* 110.2: 132-151.
+- Woolf, Greg. 2015. ["Pliny/Trajan and the Poetics of Empire."](https://drive.google.com/file/d/1__7inI6OpJX3412T3Z_X1IXRSxpdCCMk/view?usp=sharing) *Classical Philology* 110.2: 132-151.
 
 ## The Epigraphic Habit: Graffiti and Epitaphs
 - Hirst, K. Kris. 2019. [“The Vindolanda Tablets: Letters Home from the Roman Forces in Britain.”](https://www.thoughtco.com/vindolanda-tablets-roman-forces-in-britain-173183) *ThoughtCo*.
