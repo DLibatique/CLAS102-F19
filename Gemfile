@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" below and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
-gem "jekyll", "~> 3.3.0"
+gem "jekyll", "~> 3.6.3"
 gem "jekyll-theme-hyde", "~> 2.0"
 
 # Jekyll Plugins Group
