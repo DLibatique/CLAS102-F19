@@ -49,7 +49,7 @@ All responses should be submitted via the [Upload Portal](https://forms.gle/AQSP
 - Two episodes of the *History of Rome* podcast: Episodes [003a (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=ZDNmZDZlNDQzMDk3MjYzYjVlZDQxMjVhYTY3NzkyNzg%3D&hl=en) and [003b (click for link)](https://podcasts.google.com/?feed=aHR0cDovL2hpc3RvcnlvZnJvbWUubGlic3luLmNvbS9yc3M%3D&episode=OWE0ODY2MTIyZGI4OThlNzYyYjU5ODM0NDg3YjNkMWI%3D&hl=en), both entitled "The Seven Kings of Rome".
 
 ## Livy 3: The Tarquins, Lucretia, and the End of the Monarchy
-- Joshel, Sandra. 2002. ["The Body Female and the Body Politic: Livy's Lucretia and Verginia."](https://drive.google.com/file/d/1a1ZBdrBwF4md2N-zXrikT8I096BMt-Jh/view?usp=sharing) In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-187. Malden (MA) and Oxford.
+- Joshel, Sandra. 2002. ["The Body Female and the Body Politic: Livy's Lucretia and Verginia."](https://drive.google.com/file/d/1a1ZBdrBwF4md2N-zXrikT8I096BMt-Jh/view?usp=sharing) In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-187. Malden (MA) and Oxford. **CW:** rape.
 - Kenty, Joanna. 2017. [“Avenging Lucretia: From Rape to Revolution.”](https://eidolon.pub/avenging-lucretia-dd14e936840c) *Eidolon*. **CW:** rape.
 
 ## Augustus: *pater patriae*
