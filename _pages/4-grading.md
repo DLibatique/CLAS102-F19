@@ -4,13 +4,13 @@ title: Grading
 permalink: /grading
 ---
 
-<a name="top"></a>
-<a href="#gc" class="underline">Grading Contract</a> \| <a href="#ap" class="underline">Absence Policy</a> \|
-Guidelines: <a href="#quizzes" class="underline">Quizzes</a> \| <a href="#responses" class="underline">Responses</a> \| <a href="#final" class="underline">Final Exam or Essay</a> \|
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#finex" class="underline">Final Exam</a> \| <a href="#finess" class="underline">Final Essay</a> \| <a href="#cp" class="underline">Creative Projects</a>
+[Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|  
+Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Essay](#final-exam-or-essay) \|  
+&nbsp;&nbsp;&nbsp;&nbsp;[Final Exam](#final-exam-guidelines) \| [Final Essay](#final-essay-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
 
-<hr>
-# <a name="gc">Grading Contract</a>
+---
+
+## Grading Contract
 
 Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the final exam/essay, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time or energy towards that grade as you desire.
 
@@ -83,9 +83,11 @@ Once you have reached either the C- or B- range, you can improve within that let
 
 It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. No late assignments will be accepted without a documented reason.
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="ap">Absence Policy</a>
+[Back to top.](#top)
+
+---
+
+## Absence Policy
 **You must attend each meeting of the course to attain a good grade.** I will be explaining many terms and concepts in class in ways that are not readily available through any other course materials, and your participation in the class’ discussion of the course’s readings and ideas is vital to building a strong classroom and your own foundation of knowledge.
 
 **Attendance will be taken via a sign-in sheet at every class meeting. The sign-in sheet is the** ***only*** **way to verify that you were in attendance at class that day.**
@@ -100,9 +102,11 @@ Any absence about which I do not receive an e-mail from you or which is not excu
 
 The semester grading contract takes into account only **unexcused** absences, though I reserve the right to take **excused** absences into account if the student’s number of excused absences become excessive.
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="quizzes">Quiz Guidelines</a>
+[Back to top.](#top)
+
+---
+
+## Quiz Guidelines
 
 There will be **twelve (12) quizzes** administered in class throughout the semester every Friday (except for September 6). Each quiz will take up the first **5 minutes** of the class period in which it’s administered. The format for each quiz can be any combination of the following formats: multiple choice, fill-in answers, or matching (e.g., authors to names of works, events and dates, etc.). **All quiz-able material will be drawn from the underlined terms on the slideshows**.
 
@@ -112,45 +116,47 @@ If you are absent or late on a quiz day, I will allow you to take a make-up **ON
 
 A satisfactory quiz grade will be **7 out of 10 points**. Once you complete **ten (10)** satisfactory quizzes (the requirement for a semester grade of A), you are exempt from taking any remaining quizzes.
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="responses">Response Guidelines</a>
+[Back to top.](#top)
 
-This requirement asks you to respond to secondary articles, chapters, or podcasts that treat themes of Roman literature and society. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles, chapters, or podcasts that deal with a topic in which you are interested. So, you may choose to write ________ — it’s up to you!
+---
+
+## Response Guidelines
+
+This requirement asks you to respond to secondary articles, chapters, or podcasts that treat themes of Roman literature and society. All articles and chapters to whch you may respond are located on the [Reading Responses and Podcasts page](responses). You do not have to choose an article, chapter, or podcast from every module; in fact, you are encouraged to read and respond to the articles, chapters, or podcasts that deal with a module or topic in which you are interested. So, you can, for example, read and respond to one, two, or even all three pieces in the "Conspiracy and Civil War in the 1st Century BCE" module, but then read and respond to nothing in the "Elegiac and Nugatory Poetry 3: Republican Odes and Imperial Epigrams" module. It's totally up to you!
 
 For **each full month** of the semester (September, October, and November), you may submit **up to four (4) responses and no more**. For **December up to 5pm on Friday, December 11** (the last day of class), you may submit **up to two (2) responses and no more**. If you keep to this schedule, you are on track for the full **fourteen (14) responses** needed for a semester grade of A.
 
-I highly encourage you to plan out your response writing at the beginning of the semester; if you fall short of a month’s quota of responses, you will not be allowed to submit more than four in the following months to make up for it. The responses for a given month do not need to respond to articles assigned to classes within that month; for example, you can submit a response to --, assigned for September --, in October. The main point to keep in mind is that you can submit a maximum of four responses per full month and two in December.
+I highly encourage you to plan out your response writing at the beginning of the semester. If you fall short of a month’s quota of responses, you will not be allowed to submit more than four in the following months to make up for it. The responses for a given month do not need to respond to articles assigned to classes within that month; for example, you can submit in December a response to Mariam Kamil's *Eidolon* piece, “‘I Shall — #$\% You And \*\@$# You’: Grappling with Censorship as a Queer Classicist,” assigned for the "Elegiac and Nugatory Poetry 1: *novum libellum* and the Female Perspective" module, even though we will have discussed it way back on Friday, September 20. The main point to keep in mind is that you can submit a maximum of four responses each in September, October, and November, and two in December.
 
 Your response should be written in one of three formats: **3-2-1**, **argument analysis**, or **personal reflection**. All three formats should be **1-2pp. double-spaced**. If you go beyond 2 pp., that’s fine too; 1-2pp. is just a general guideline. **The response will be graded “satisfactory” if it answers each prompt or question under the appropriate heading below.**
 
-All responses on textual articles or chapters should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE OF PUBLICATION]**. For example: **Libatique - Response - Zuckerberg 2015.pdf**.
+Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or chapter or the podcast name and episode number/name of the podcast to which you are responding**. Feel free to copy and paste the author/title or podcast and episode name from the [Response Readings and Podcasts page](responses).
 
-All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [WEEK OF ASSIGNMENT]**. For example: **Libatique - Response - Podcast - Week 4.pdf**.
-
-Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or podcast to which you are responding**.
-
-The grading rubric for responses can be found [here](https://drive.google.com/open?id=1cOQTv7RUxsauLRvAaln7tabTeojwpgoh3k4w4mlVmTg).
-
-<span class="underline"><strong>3-2-1</strong></span>
+### 3-2-1
 - Write down **three (3)** things that you learned.
 - Write down **two (2)** things that you found interesting and want to learn more about.
 - Write down **one (1)** thing that was unclear or one question that you still have about the material.
 
 A 3-2-1 does not need to be written in paragraph form; you can use bullet points or numbered lists.
 
-<span class="underline"><strong>Argument Analysis</strong></span>
+### Argument Analysis
 Answer the following questions:
 - What is the author’s main argument?
 - How do they make that argument? What evidence do they provide?
 - Do you agree or disagree? Or, put differently, does the author make their case persuasively?
 
-<span class="underline"><strong>Personal Reflection</strong></span>
+### Personal Reflection
 If the article speaks to you on a personal level (in terms of lived experience, personality traits, gender or sexual orientation, political affiliation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="final">Final Exam or Essay</a>
+All responses should be submitted via the [upload portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
+
+The grading rubric for responses can be found [here](https://drive.google.com/open?id=1cOQTv7RUxsauLRvAaln7tabTeojwpgoh3k4w4mlVmTg).
+
+[Back to top.](#top)
+
+---
+
+## Final Exam or Essay
 
 As a final requirement for the course, **you will choose whether to complete an exam or an essay**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing essays.
 
@@ -172,33 +178,35 @@ The final essay will be graded on a **letter basis**.
 
 This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final essay can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="finex">Final Exam Guidelines</a>
+[Back to top.](#top)
+
+---
+
+## Final Exam Guidelines
 
 The final exam format will be like an extended quiz (with multiple choice, fill in the blank, and matching questions) with additional short answer questions. The short answers may ask you to compare two passages that we’ve read during the semester, to describe social conditions or institutions in Rome, etc. The final exam will be cumulative, and it should take about 1.5 hours.
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="finess">Final Essay Guidelines</a>
+[Back to top.](#top)
 
-For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/paper).
+---
 
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-# <a name="cp">Creative Projects: General Guidelines</a>
+## Final Essay Guidelines
 
-[Creative Project Prompts]({{ site.baseurl }}5-creative/)
+For the final essay, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
+
+[Back to top.](#top)
+
+---
+
+## Creative Projects: General Guidelines
+
+[Creative Project Prompts](creative-projects)
 
 I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to making a pitch to a journal to creating a playlist. If you would like to complete a creative project that isn’t listed in the possibilities here, you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
 
 **You are allowed to submit only one (1) of each type of creative project.** That means that you can, for example, submit a poem, an artwork, a selfie and object analysis, and a Spotify playlist as your four creative projects if you are aiming for a semester grade of A. You cannot submit, for example, four poems or two poems and two artworks.
 
-All text-based creative projects should be submitted via the upload portal on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
-
-**Libatique - Creative Project - Poem.pdf  
-Libatique - Creative Project - Eidolon.pdf**
-etc.
+All text-based creative projects should be submitted via the [upload portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
 
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 
@@ -211,4 +219,4 @@ Submit Creative Project #2: 10/25
 Submit Creative Project #3: 11/22  
 Submit Creative Project #4: 12/16  
 
-<a href="#top" class="underline">Back to top.</a>
+[Back to top.](#top)
