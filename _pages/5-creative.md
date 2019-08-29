@@ -166,7 +166,11 @@ The criteria for a grade of satisfactory are as follows:
 
 ## <a name="tweet">Creative Project 8: Livetweet a Reading.</a>
 
-This creative project challenges you to concisely summarize and react to any of the readings assigned in the course schedule via a livetweet thread on Twitter. Twitter's 280-character tweet limits and threading capabilities allow you to react to a reading, podcast, etc., in real time while exercising your capacities for brevity and comprehension. Check out an example of a livetweet reaction to a reading from Dr. Amy Pistone of Notre Dame University:
+This creative project challenges you to concisely summarize and react to any of the readings in the [Response Readings and Podcasts list] via a livetweet thread on Twitter. Twitter's 280-character tweet limits and threading capabilities allow you to react to a reading, podcast, etc., in real time while exercising your capacities for brevity and comprehension.
+
+Please note that the article, chapter, or podcast that you livetweet must NOT be one that you wrote or will write a response to. Double dipping will result in an automatic grade of unsatisfactory for whichever is submitted second.
+
+Check out an example of a livetweet reaction to a reading from Dr. Amy Pistone of Gonzaga University:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reading &quot;Criteria of Negro Art&quot; by W.E.B. Du Bois instead of writing.  Thread to record my fave bits, possibly for later use or also just because this work is wonderful and y&#39;all should read the whole thing (it&#39;s not long) or else just these highlights! 👇<a href="https://t.co/U9Vz1o29wT">https://t.co/U9Vz1o29wT</a></p>&mdash; Amy Pistone (@apistone) <a href="https://twitter.com/apistone/status/1024761042872807425?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
