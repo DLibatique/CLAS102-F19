@@ -158,11 +158,11 @@ The grading rubric for responses can be found [here](https://drive.google.com/op
 
 ## Final Exam or Paper
 
-As a final requirement for the course, **you will choose whether to complete an exam or an essay**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing essays.
+As a final requirement for the course, **you will choose whether to complete an exam or a paper**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing papers.
 
-In class on **Friday, November 22**, I will circulate a sign-up sheet where you will write down your preference for either an exam or essay. The date and time of the final exam and the due date and time for the final essay will be dictated by the registrar; I will update once that information is published.
+In class on **Friday, November 22**, I will circulate a sign-up sheet where you will write down your preference for either an exam or a paper. The date and time of the final exam and the due date and time for the final paper will be dictated by the registrar; I will update once that information is published.
 
-The essay/exam, due to its singular nature and timing at the end of the semester, is the only element of the grading contract that I will grade subjectively. As a result, the grade ranges for each will impact movement for your semester grade as follows:
+The exam/paper, due to its singular nature and timing at the end of the semester, is the only element of the grading contract that I will grade subjectively. As a result, the grade ranges for each will impact movement for your semester grade as follows:
 
 The final exam will be graded out of **100 points**.
 - A grade of **80 or higher** improves your semester grade by one stop (e.g., from a - to a letter, from a letter to a +, from a + to the - in the next range, etc.).
@@ -176,7 +176,7 @@ The final paper will be graded on a **letter basis**.
 - A grade of **C- to C+** keeps your grade wherever it is.
 - A grade of **D+ or lower** decreases your semester grade by one stop.
 
-This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final paper can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
+This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (2 or fewer unexcused absences, 8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final paper can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
 
 [Back to top.](#top)
 
@@ -184,7 +184,7 @@ This movement of grade can override a lack of satisfactories in other elements o
 
 ## Final Exam Guidelines
 
-The final exam format will be like an extended quiz (with multiple choice, fill in the blank, and matching questions) with additional short answer questions. The short answers may ask you to compare two passages that we’ve read during the semester, to describe social conditions or institutions in Rome, etc. The final exam will be cumulative, and it should take about 1.5 hours.
+The final exam format will be like an extended quiz (with multiple choice, fill in the blank, and matching questions) with additional short answer questions. The short answers may ask you to compare two passages that we’ve read during the semester, to describe social conditions or institutions in Rome, etc. The final exam will be cumulative.
 
 [Back to top.](#top)
 
@@ -192,7 +192,7 @@ The final exam format will be like an extended quiz (with multiple choice, fill 
 
 ## Final Paper Guidelines
 
-For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative essay to answer it. If you would like to write an argumentative essay on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
+For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
 
 [Back to top.](#top)
 
@@ -202,7 +202,7 @@ For the final paper, I will provide eight (8) prompts from which you should choo
 
 [Creative Project Prompts](creative-projects)
 
-I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to making a pitch to a journal to creating a playlist. If you would like to complete a creative project that isn’t listed in the possibilities here, you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
+I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to making a pitch to a journal to creating a playlist. If you would like to complete a creative project that isn’t listed in the possibilities [here](creative-projects), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
 
 **You are allowed to submit only one (1) of each type of creative project.** That means that you can, for example, submit a poem, an artwork, a selfie and object analysis, and a Spotify playlist as your four creative projects if you are aiming for a semester grade of A. You cannot submit, for example, four poems or two poems and two artworks.
 
@@ -210,7 +210,7 @@ All text-based creative projects should be submitted via the [upload portal](htt
 
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 
-All creative projects must be submitted to me by **11:59pm on Monday, December 16 (the last day of Study Period)**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+All creative projects must be submitted to me by **5pm on Monday, December 16 (the last day of Study Period)**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
