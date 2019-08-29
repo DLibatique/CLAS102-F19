@@ -71,7 +71,7 @@ All responses should be submitted via the [Upload Portal](https://forms.gle/AQSP
 
 ## Non-Epic Hexameter 1: Catullan Epyllion and Vergilian Bucolics
 - Wasdin, Katherine. 2017. ["Weaving Time: Ariadne and the Argo in Catullus, *C.* 64."](https://drive.google.com/file/d/1a7gBz1AALfDqy-WOvdpAbrh__3GAuUkl/view?usp=sharing) *Helios* 44.2: 181-199.
-- Nisbet, R.G.M. 2008. ["Virgil's Fourth Eclogue: Easterners and Westerners."](https://drive.google.com/file/d/1aQdtfYSAjUpGE8z0o0-y2Ac_kaTIla7C/view?usp=sharing) In *Vergil's Eclogues: Oxford Readings in Classical Studies*, edited by Katharina Volk, 155-188. Oxford.
+- Nisbet, R.G.M. 2008. ["Virgil's Fourth Eclogue: Easterners and Westerners."](https://drive.google.com/file/d/1aQn7VlwjQ1x48slF18wvXXhp4bYrfGAy/view?usp=sharing) In *Vergil's Eclogues: Oxford Readings in Classical Studies*, edited by Katharina Volk, 155-188. Oxford.
 
 ## Non-Epic Hexameter 2: Satire from Lucilius to Juvenal
 - Freudenberg, Kirk. 2005. [“Introduction: Roman Satire.”](https://drive.google.com/file/d/1_AdqyzHm7eH2dA-pPWL0cz7EyFBSI0-0/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 1-30. Cambridge.
