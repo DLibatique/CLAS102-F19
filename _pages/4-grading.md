@@ -64,7 +64,7 @@ The following is a rubric for semester-end grades in the course.
             <td>0</td>
         </tr>
         <tr>
-            <td class="row-start"><strong>Final Exam/Essay*</strong></td>
+            <td class="row-start"><strong>Final Exam/Paper*</strong></td>
             <td>X</td>
             <td>X</td>
             <td>X</td>
@@ -79,7 +79,7 @@ To achieve a certain grade level, you must complete the listed number of satisfa
 
 Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student wants to improve that B+ to an A-, then they can complete two more responses, and then if the final unexcused absence tally at the end of the semester works out, the student earns an A-!
 
-\* The essay/exam requirement is the only element of the grading contract that I will grade subjectively, and its grade will contribute to a movement up or down in semester grade; see the specific guidelines below under [Final Exam or Paper Guidelines](#final-exam-or-paper).
+\* The exam/paper requirement is the only element of the grading contract that I will grade subjectively, and its grade will contribute to a movement up or down in semester grade; see the specific guidelines below under [Final Exam or Paper Guidelines](#final-exam-or-paper).
 
 It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. No late assignments will be accepted without a documented reason.
 
