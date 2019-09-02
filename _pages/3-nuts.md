@@ -4,7 +4,7 @@ title: Nuts & Bolts
 permalink: /nuts-and-bolts
 ---
 
-[Academic Conduct](#academic-conduct) \| [Office Hours](#office-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \|  
+[Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \|  
 &nbsp;&nbsp;&nbsp;&nbsp;[Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Content Warnings](#content-warnings) \| [Accessibility](#accessibility) \|  
 &nbsp;&nbsp;&nbsp;&nbsp;[External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
 
@@ -17,8 +17,8 @@ You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [he
 
 ---
 
-## Office Hours
-Office hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about the readings, clarifications about lectures or assignments, even simply shooting the breeze. My office hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular office hours if they conflict with your availability; simply shoot me an e-mail with what times and dates work for you.
+## Student Hours
+Student hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about the readings, clarifications about lectures or assignments, even simply shooting the breeze. My office hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular office hours if they conflict with your availability; simply shoot me an e-mail with what times and dates work for you.
 
 [Back to top.](#top)
 
