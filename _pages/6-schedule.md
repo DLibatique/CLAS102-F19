@@ -221,7 +221,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>W 11/13</strong></td>
-            <td>Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"><em>Nero</em></a></td>
+            <td>Suetonius <a href="https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo016.perseus-eng2:1-57"><em>Nero</em></a></td>
             <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
         </tr>
         <tr>
