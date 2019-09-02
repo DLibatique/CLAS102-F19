@@ -6,9 +6,9 @@ permalink: /schedule
 
 <a name="top"></a>
 
-All reading assignments listed below should be completed by the date on which they’re listed. So, for example, you should come to class on Monday, 9/9, having read lines 1-514 of Plautus’ *Casina*.
+All assignments listed below should be completed by the date on which they’re listed. So, for example, you should come to class on Monday, 9/9, having read lines 1-514 of Plautus’ *Casina*.
 
-“Hackett” means our primary textbook (Francese and Smith, eds., *Ancient Rome: An Anthology of Sources*, Hackett 2014). Other physical texts will be referenced by the author’s last name. Some reading assignments will be found online – a link will be provided.
+“Hackett” means our primary textbook (Francese and Smith, eds., *Ancient Rome: An Anthology of Sources*, Hackett 2014). Other physical texts will be referenced by the author’s (/authors') last name(s). Some reading assignments will be found online – a link will be provided.
 
 <table>
     <thead>
