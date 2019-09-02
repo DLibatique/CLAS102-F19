@@ -76,6 +76,10 @@ The grading rubric for this creative project can be found [here](https://drive.g
 
 This creative project challenges you to **choose an object in the Roman room at the Worcester Art Museum and relate it to the themes of Roman literature and society that we are discussing in the course**. You get free admission to the WAM with your Holy Cross ID. If you would like to complete an object analysis for an ancient Roman artifact from another museum (e.g., the Museum of Fine Art in Boston or the Metropolitan Museum of Art in New York), that works too! Simply let me know that you’d like to visit one of those institutions, and I can help you locate an appropriate object.
 
+Check out my Tweet thread on viable objects for analysis in the Roman room here:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve completed my semesterly trip to <a href="https://twitter.com/WorcesterArt?ref_src=twsrc%5Etfw">@WorcesterArt</a> to scour some objects for <a href="https://twitter.com/hashtag/CLAS102?src=hash&amp;ref_src=twsrc%5Etfw">#CLAS102</a> this semester, and I found some great objects, all in the Roman room, ready for student analysis! (Project description, selfies, and titles in thread) <a href="https://t.co/aYlyHO5RfE">https://t.co/aYlyHO5RfE</a> 1/10 <a href="https://t.co/ATm0HxCz6R">pic.twitter.com/ATm0HxCz6R</a></p>&mdash; Daniel Libatique 🏳️‍🌈 (@DLibatique10) <a href="https://twitter.com/DLibatique10/status/1168659654643240970?ref_src=twsrc%5Etfw">September 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The criteria for a grade of satisfactory are as follows:
 1. Enter the WAM on Salisbury St. and come to face the magnificent Worcester Hunt mosaic; then, go to the Roman room, which is to the back left as you're facing the mosaic.
 2. Choose an object in that room and take a selfie with it.
