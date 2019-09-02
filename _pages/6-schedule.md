@@ -210,7 +210,7 @@ All reading assignments listed below should be completed by the date on which th
         </tr>
         <tr>
             <td><strong>F 11/8</strong></td>
-            <td>TBD<br><br><strong>QUIZ 8</strong></td>
+            <td>Lucan <em>Pharsalia</em> <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaVImaster.php">Book 6</a> and <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaVIImaster.php">Book 7</a>.<br><br><strong>QUIZ 8</strong></td>
         </tr>
 
         <tr> <!--Week 10 start-->
