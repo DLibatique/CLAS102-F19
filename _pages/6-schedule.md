@@ -33,6 +33,7 @@ All reading assignments listed below should be completed by the date on which th
             <td>
               <ul>
                 <li>Read the syllabus and grading contract front to back.</li>
+                <li>Complete this <a href="https://forms.gle/v1YQGEqD8dEbQB828">Student Information Form</a>.</li>
                 <li>Martin, Thomas R. 2012. <a href="https://drive.google.com/file/d/1Zie5uQEyPgWhTJYDm4to2e4dS-YaZI3w/view?usp=sharing">"Roman Values, The Family, and Religion."</a> In <em>Ancient Rome: From Romulus to Justinian</em>, 20-40. New Haven.</li>
               </ul>
             </td>
