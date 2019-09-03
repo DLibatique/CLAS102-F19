@@ -27,7 +27,7 @@ Please note that three of the four texts are available to you for free as an e-b
 
 The cost of books should never be a deterrent to participation in a class that you want to take. If you have trouble affording our course books, please let me know, and I will work to get you affordable copies through the resources of the College.
 
-<hr>
+***
 
 ## Electronic Resources
 
