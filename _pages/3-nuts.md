@@ -4,6 +4,10 @@ title: Nuts & Bolts
 permalink: /nuts-and-bolts
 ---
 
+Click [here](https://docs.google.com/document/d/1AuGp2NOFNbnVPHA5k6Eo-zWYBZRV3OghqmlCu7Kstzw/edit?usp=sharing) to access the syllabus as a Google Doc.
+
+---
+
 [Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \| [Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Content Warnings](#content-warnings) \| [Accessibility](#accessibility) \| [External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
 
 ---
