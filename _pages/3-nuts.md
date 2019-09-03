@@ -4,9 +4,7 @@ title: Nuts & Bolts
 permalink: /nuts-and-bolts
 ---
 
-[Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \|  
-&nbsp;&nbsp;&nbsp;&nbsp;[Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Content Warnings](#content-warnings) \| [Accessibility](#accessibility) \|  
-&nbsp;&nbsp;&nbsp;&nbsp;[External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
+[Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \| [Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Content Warnings](#content-warnings) \| [Accessibility](#accessibility) \| [External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
 
 ---
 
