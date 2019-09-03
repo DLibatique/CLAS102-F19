@@ -24,8 +24,8 @@ The following is a rubric for semester-end grades in the course.
             <th><strong>A-</strong></th>
             <th><strong>B-</strong></th>
             <th><strong>C-</strong></th>
+            <th><strong>D+</strong></th>
             <th><strong>D</strong></th>
-            <th><strong>D-</strong></th>
         </tr>
         <tr>
             <td class="row-start"><strong>Unexcused Absences</strong></td>
