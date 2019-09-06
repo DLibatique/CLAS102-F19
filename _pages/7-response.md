@@ -79,6 +79,7 @@ All responses should be submitted via the [Upload Portal](https://forms.gle/AQSP
 - Rimell, Victoria. 2005. [“The Poor Man’s Feast: Juvenal.”](https://drive.google.com/file/d/1_Ivm1eXeQfWcgY6VRSjeogbwieRbSpPb/view?usp=sharing) In *The Cambridge Companion to Roman Satire*, edited by Kirk Freudenberg, 81-94. Cambridge.
 
 ## Ovid 1: *ab origine mundi*
+- Heran, Elena. 2019. ["Narcissus and the Drawbacks of Being a Hot Teenage Boy."](https://pursuit.unimelb.edu.au/articles/narcissus-and-the-drawbacks-of-being-a-hot-teenage-boy) *Pursuit*, University of Melbourne.
 - *Let's Talk about Myths, Baby* podcast, [Episode 53, Jupiter and Neptune Ruin Everything: The Stories of Caenis & Callisto](https://cms.megaphone.fm/channel/ADV9049641531?selected=ADV3209626255). **CW:** strong language, rape.
 
 ## Ovid 2: From Divine Punishment to Human Horrors
