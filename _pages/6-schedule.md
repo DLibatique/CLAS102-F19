@@ -26,7 +26,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="2">1</td>
             <td><strong>W 9/4</strong></td>
             <td>Come to class!</td>
-            <td rowspan="2"><strong>Introduction: Women and Men in Roman Literature and Society</strong></td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1UhQdzrE4_58eskEDBYSg-iQsxy5T0AY7xhES3AEsMzE/edit?usp=sharing"><strong>Introduction: Women and Men in Roman Literature and Society</strong></a></td>
         </tr>
         <tr>
             <td><strong>F 9/6</strong></td>
