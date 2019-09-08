@@ -43,7 +43,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3">2</td>
             <td><strong>M 9/9</strong></td>
             <td>Plautus <a href="https://drive.google.com/open?id=1rU6nqT5Us7cQ-gDqS-dQf86k3PnCwFDZ"><em>Casina</em> 1-514</a></td>
-            <td rowspan="2"><strong>The Origins of Roman Literature and Plautus' <em>Casina</em></strong></td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/11IW5ABr4sb5WmteK34-9mfXXahgOJVOcDsyAH3nYoLo/edit?usp=sharing"><strong>The Origins of Roman Literature and Plautus' <em>Casina</em></strong></a></td>
         </tr>
         <tr>
             <td><strong>W 9/11</strong></td>
