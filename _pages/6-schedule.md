@@ -52,7 +52,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>F 9/13</strong></td>
             <td>Cicero <em>In Defense of Archias</em> (Hackett, pp. 34-43)<br><br><strong>QUIZ 1</strong></td>
-            <td rowspan="2"><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1X4_ChsH8WcnQDKyvxp_dx4MYsAxPMBTK8wmhdPSrBsM/edit?usp=sharing"><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></a></td>
         </tr>
 
         <tr> <!--Week 3 start-->
