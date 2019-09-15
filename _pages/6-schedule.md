@@ -52,7 +52,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>F 9/13</strong></td>
             <td>Cicero <em>In Defense of Archias</em> (Hackett, pp. 34-43)<br><br><strong>QUIZ 1</strong></td>
-            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1X4_ChsH8WcnQDKyvxp_dx4MYsAxPMBTK8wmhdPSrBsM/edit?usp=sharing"><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></a></td>
+            <td rowspan="3"><a href="https://docs.google.com/presentation/d/1X4_ChsH8WcnQDKyvxp_dx4MYsAxPMBTK8wmhdPSrBsM/edit?usp=sharing"><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></a></td>
         </tr>
 
         <tr> <!--Week 3 start-->
@@ -65,10 +65,8 @@ All assignments listed below should be completed by the date on which they’re 
             <td>
               <ul>
                 <li>Cicero <a href="http://ibnotes.tripod.com/Subjects/Latin/catiline1.pdf"><em>In Catilinam</em> 1</a></li>
-                <li>Caesar <a href="http://classics.mit.edu/Caesar/civil.1.1.html"><em>Bellum Civile</em> 1</a></li>
               </ul>
             </td>
-            <td><strong>Conspiracy and Civil War in the 1st Century BCE</strong></td>
         </tr>
         <tr>
             <td><strong>F 9/20</strong></td>
