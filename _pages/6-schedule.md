@@ -63,9 +63,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>W 9/18</strong></td>
             <td>
-              <ul>
-                <li>Cicero <a href="http://ibnotes.tripod.com/Subjects/Latin/catiline1.pdf"><em>In Catilinam</em> 1</a></li>
-              </ul>
+              Cicero <a href="http://ibnotes.tripod.com/Subjects/Latin/catiline1.pdf"><em>In Catilinam</em> 1</a>
             </td>
         </tr>
         <tr>
