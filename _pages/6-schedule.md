@@ -75,7 +75,7 @@ All assignments listed below should be completed by the date on which they’re 
               </ul>
               <br><strong>QUIZ 2</strong>
             </td>
-            <td><strong>Elegiac and Nugatory Poetry 1: <em>novum libellum</em> and the Female Perspective</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1leVR-E3griFNFIOmMPXksehctjzVVJ0pixAJzPMu6EA/edit?usp=sharing"><strong>Elegiac and Nugatory Poetry 1: <em>novum libellum</em> and the Female Perspective</strong></a></td>
         </tr>
 
         <tr> <!--Week 4 start-->
@@ -88,7 +88,7 @@ All assignments listed below should be completed by the date on which they’re 
                 <li>Ovid <em>Amores</em> <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535256">1.1</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535260">1.5</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535261">1.6</a>, <a href="https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535264">1.9</a></li>
               </ul>
             </td>
-            <td><strong>Elegiac and Nugatory Poetry 2: Latin Love Elegy and the <em>Puella</em> as <em>Domina</em></strong></td>
+            <td><a href="https://docs.google.com/presentation/d/13ciddvfpGd1m--5_QtXmnWoW9ZW1l7ffwadeEqTF8DY/edit?usp=sharing"><strong>Elegiac and Nugatory Poetry 2: Latin Love Elegy and the <em>Puella</em> as <em>Domina</em></strong></a></td>
         </tr>
         <tr>
             <td><strong>W 9/25</strong></td>
