@@ -102,20 +102,20 @@ All assignments listed below should be completed by the date on which they’re 
         </tr>
         <tr>
             <td><strong>F 9/27</strong></td>
-            <td>Livy preface, 1.1-7 (Hackett, pp. 143-150)<br><br><strong>QUIZ 3</strong></td>
-            <td><strong>Livy 1: The Aims of Livian Historiography and the Foundation of Rome</strong></td>
+            <td>Catch Up<br><br><strong>QUIZ 3</strong></td>
+            <td>n/a</td>
         </tr>
 
         <tr> <!--Week 5 start-->
             <td rowspan="3">5</td>
             <td><strong>M 9/30</strong></td>
-            <td>Livy 1.8-19, 21 (Hackett, pp. 150-161)</td>
-            <td><strong>Livy 2: From Romulus to Numa</strong></td>
+            <td>Livy preface, 1.1-9 (Hackett, pp. 143-152)</td>
+            <td><strong>Livy 1: The Aims of Livian Historiography and the Foundation of Rome</strong></td>
         </tr>
         <tr>
             <td><strong>W 10/2</strong></td>
             <td>Livy 1.34-35, 39-41, 46-49, 55-60 (Hackett, pp. 162-163, 165-167, 171-174, 178-183)</td>
-            <td><strong>Livy 3: The Tarquins, Lucretia, and the End of the Monarchy</strong></td>
+            <td><strong>Livy 2: The Tarquins, Lucretia, and the End of the Monarchy</strong></td>
         </tr>
         <tr>
             <td><strong>F 10/4</strong></td>
