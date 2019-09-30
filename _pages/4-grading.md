@@ -160,7 +160,7 @@ The grading rubric for responses can be found [here](https://drive.google.com/op
 
 As a final requirement for the course, **you will choose whether to complete an exam or a paper**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing papers.
 
-In class on **Friday, November 22**, I will circulate a sign-up sheet where you will write down your preference for either an exam or a paper. The date and time of the final exam and the due date and time for the final paper will be dictated by the registrar; I will update once that information is published.
+In class on **Friday, November 22**, I will circulate a sign-up sheet where you will write down your preference for either an exam or a paper. The final exam will be on **Thursday, December 19, from 11:30am to 2pm**. The final paper will be due either via upload portal or physical copy in my office on **Thursday, December 19, at 2pm**.
 
 The exam/paper, due to its singular nature and timing at the end of the semester, is the only element of the grading contract that I will grade subjectively. As a result, the grade ranges for each will impact movement for your semester grade as follows:
 
@@ -186,6 +186,8 @@ This movement of grade can override a lack of satisfactories in other elements o
 
 The final exam format will be like an extended quiz (with multiple choice, fill in the blank, and matching questions) with additional short answer questions. The short answers may ask you to compare two passages that we’ve read during the semester, to describe social conditions or institutions in Rome, etc. The final exam will be cumulative.
 
+The final exam will be administered on **Thursday, December 19, from 11:30am to 2pm** in our normal classroom (Beaven 118).
+
 [Back to top.](#top)
 
 ---
@@ -193,6 +195,8 @@ The final exam format will be like an extended quiz (with multiple choice, fill 
 ## Final Paper Guidelines
 
 For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
+
+The final paper will be due either via upload portal or physical copy in my office on **Thursday, December 19, at 2pm**.
 
 [Back to top.](#top)
 
