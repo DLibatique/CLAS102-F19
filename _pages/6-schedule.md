@@ -115,7 +115,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>W 10/2</strong></td>
             <td>Livy 1.34-35, 39-41, 46-49, 55-60 (Hackett, pp. 162-163, 165-167, 171-174, 178-183)</td>
-            <td><strong>Livy 2: The Tarquins, Lucretia, and the End of the Monarchy</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1SuSgppOewEgKaWFmvIrG703-NUl2AfKZI69EJsNGEOs/edit?usp=sharing"><strong>Livy 2: The Tarquins, Lucretia, and the End of the Monarchy</strong></a></td>
         </tr>
         <tr>
             <td><strong>F 10/4</strong></td>
