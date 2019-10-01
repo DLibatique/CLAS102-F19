@@ -110,7 +110,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3">5</td>
             <td><strong>M 9/30</strong></td>
             <td>Livy preface, 1.1-9 (Hackett, pp. 143-152)</td>
-            <td><strong>Livy 1: The Aims of Livian Historiography and the Foundation of Rome</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1YO4xXJTuMUt-mTLsrtmuvSJJoM5gPa_8xNM9XIDgIj8/edit?usp=sharing"><strong>Livy 1: The Aims of Livian Historiography and the Foundation of Rome</strong></a></td>
         </tr>
         <tr>
             <td><strong>W 10/2</strong></td>
