@@ -294,7 +294,7 @@ All assignments listed below should be completed by the date on which they’re 
 
         <tr> <!--exam period-->
           <td colspan="4"><strong>EXAM PERIOD</strong><br><br>
-          <strong>FINAL EXAM:</strong> Thursday, December 19 - 11:30am to 2:00pm</td>
+          <strong>FINAL EXAM:</strong> Thursday, December 19 - 11:30am to 2pm</td>
         </tr>
     </tbody>
 </table>
