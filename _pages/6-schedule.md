@@ -127,7 +127,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3">6</td>
             <td><strong>M 10/7</strong></td>
             <td>Vergil <em>Aeneid</em> Books 1-4 (Ruden)</td>
-            <td><strong><em>Aeneid</em> 1: The Exile and the Queen</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1PydnwiRoEQKBsNfURHYGhESqMx-59BRo2WTfbBf04nE/edit?usp=sharing"><strong><em>Aeneid</em> 1: The Exile and the Queen</strong></a></td>
         </tr>
         <tr>
             <td><strong>W 10/9</strong></td>
