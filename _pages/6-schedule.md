@@ -147,6 +147,9 @@ All assignments listed below should be completed by the date on which they’re 
         <tr> <!--Week 7 start-->
             <td rowspan="3">7</td>
             <td><strong>M 10/21</strong></td>
+            <td>Aeneid catch-up</td>
+            <td>Aeneid</td>
+            <!-- old
             <td>
               <ul>
                 <li><a href="https://www.poetryintranslation.com/PITBR/Latin/Catullus.php#anchor_Toc531846789">Catullus 64</a></li>
@@ -154,14 +157,17 @@ All assignments listed below should be completed by the date on which they’re 
               </ul>
             </td>
             <td><strong>Non-Epic Hexameter 1: Catullan Epyllion and Vergilian Bucolics</strong></td>
+            -->
         </tr>
         <tr>
             <td><strong>W 10/23</strong></td>
-
+            <td>Aeneid catch-up</td>
+            <td>Aeneid</td>
         </tr>
         <tr>
             <td><strong>F 10/25</strong></td>
-
+            <td>Aeneid catch-up</td>
+            <td>Aeneid</td>
         </tr>
 
         <tr> <!--Week 8 start-->
