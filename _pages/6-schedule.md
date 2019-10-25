@@ -166,14 +166,14 @@ All assignments listed below should be completed by the date on which they’re 
         </tr>
         <tr>
             <td><strong>F 10/25</strong></td>
-            <td>Aeneid catch-up</td>
+            <td>Aeneid catch-up<br><br><strong>QUIZ 6</strong></td>
             <td>Aeneid</td>
         </tr>
 
         <tr> <!--Week 8 start-->
             <td rowspan="3">8</td>
             <td><strong>M 10/28</strong></td>
-            <td>Augustus, <em>The Accomplishments of the Deified Augustus</em> (Hackett, pp. 14-22)<br><br><strong>QUIZ 4</strong></td>
+            <td>Augustus, <em>The Accomplishments of the Deified Augustus</em> (Hackett, pp. 14-22)</td>
             <td><strong>Augustus: <em>pater patriae</em></strong></td>
             <!-- old
             <td>Ovid <em>Metamorphoses</em> Books 6-10 (Humphries/Reed)</td>
@@ -197,7 +197,7 @@ All assignments listed below should be completed by the date on which they’re 
         </tr>
         <tr>
             <td><strong>F 11/1</strong></td>
-            <td>Ovid <em>Metamorphoses</em> Books 1-5 (Humphries/Reed)<br><br><strong>QUIZ 6</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 1-5 (Humphries/Reed)<br><br><strong>QUIZ 7</strong></td>
             <td><strong>Ovid 1: <em>ab origine mundi</em></strong></td>
             <!-- old
             <td>Ovid, <em>The Art of Love</em> 1.1-176, 229-398, 437-642; <em>Fasti</em> 4.721-862; <em>Tristia</em> 4.10 (Hackett, pp. 227-245, 248-256)<br><br><strong>QUIZ 7</strong></td>
