@@ -174,7 +174,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3">8</td>
             <td><strong>M 10/28</strong></td>
             <td>Augustus, <em>The Accomplishments of the Deified Augustus</em> (Hackett, pp. 14-22)</td>
-            <td><strong>Augustus: <em>pater patriae</em></strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1JoavhHgW08C2ApFI67ypfVOm02CkuvOR8mIr6prONHI/edit?usp=sharing"><strong>Augustus: <em>pater patriae</em></strong></a></td>
             <!-- old
             <td>Ovid <em>Metamorphoses</em> Books 6-10 (Humphries/Reed)</td>
             <td><strong>Ovid 2: From Divine Punishments to Human Horrors</strong></td>
