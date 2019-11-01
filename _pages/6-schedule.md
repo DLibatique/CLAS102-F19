@@ -189,7 +189,7 @@ All assignments listed below should be completed by the date on which they’re 
                 <li>Juvenal <em>Satires</em> 1 (Hackett, pp. 127-133)</li>
               </ul>
             </td>
-            <td><strong>Non-Epic Hexameter: Satire from Lucilius to Juvenal</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1tBSA_Zisgdi4_BWzHHfHgebzYij_d2Myxl4yZXw0Shg/edit?usp=sharing"><strong>Non-Epic Hexameter: Satire from Lucilius to Juvenal</strong></a></td>
             <!-- old
             <td>Ovid <em>Metamorphoses</em> Books 11-15 (Humphries/Reed)</td>
             <td><strong>Ovid 3: <em>ad mea tempora</em></strong></td>
@@ -198,7 +198,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>F 11/1</strong></td>
             <td>Ovid <em>Metamorphoses</em> Books 1-5 (Humphries/Reed)<br><br><strong>QUIZ 7</strong></td>
-            <td><strong>Ovid 1: <em>ab origine mundi</em></strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1tmHt-KP_OLZiDSL9B2AXbjan0c05YYzkjiOy4CZO8MU/edit?usp=sharing"><strong>Ovid 1: <em>ab origine mundi</em></strong></a></td>
             <!-- old
             <td>Ovid, <em>The Art of Love</em> 1.1-176, 229-398, 437-642; <em>Fasti</em> 4.721-862; <em>Tristia</em> 4.10 (Hackett, pp. 227-245, 248-256)<br><br><strong>QUIZ 7</strong></td>
             <td><strong>Ovid 4: From Amatory to Exilic Elegy</strong></td>
