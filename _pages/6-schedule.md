@@ -226,7 +226,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3">10</td>
             <td><strong>M 11/11</strong></td>
             <td>Ovid <em>Met.</em> 6-9 continued</td>
-        <tr>
+        </tr>
 
         <tr>
             <td><strong>W 11/13</strong></td>
