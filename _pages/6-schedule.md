@@ -177,7 +177,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td><a href="https://docs.google.com/presentation/d/1JoavhHgW08C2ApFI67ypfVOm02CkuvOR8mIr6prONHI/edit?usp=sharing"><strong>Augustus: <em>pater patriae</em></strong></a></td>
             <!-- old
             <td>Ovid <em>Metamorphoses</em> Books 6-10 (Humphries/Reed)</td>
-            <td><strong>Ovid 2: From Divine Punishments to Human Horrors</strong></td>
+
             -->
         </tr>
         <tr>
@@ -189,7 +189,7 @@ All assignments listed below should be completed by the date on which they’re 
                 <li>Juvenal <em>Satires</em> 1 (Hackett, pp. 127-133)</li>
               </ul>
             </td>
-            <td><a href="https://docs.google.com/presentation/d/1tBSA_Zisgdi4_BWzHHfHgebzYij_d2Myxl4yZXw0Shg/edit?usp=sharing"><strong>Non-Epic Hexameter: Satire from Lucilius to Juvenal</strong></a></td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1tBSA_Zisgdi4_BWzHHfHgebzYij_d2Myxl4yZXw0Shg/edit?usp=sharing"><strong>Non-Epic Hexameter: Satire from Lucilius to Juvenal</strong></a></td>
             <!-- old
             <td>Ovid <em>Metamorphoses</em> Books 11-15 (Humphries/Reed)</td>
             <td><strong>Ovid 3: <em>ad mea tempora</em></strong></td>
@@ -197,15 +197,54 @@ All assignments listed below should be completed by the date on which they’re 
         </tr>
         <tr>
             <td><strong>F 11/1</strong></td>
-            <td>Ovid <em>Metamorphoses</em> Books 1-5 (Humphries/Reed)<br><br><strong>QUIZ 7</strong></td>
-            <td><a href="https://docs.google.com/presentation/d/1tmHt-KP_OLZiDSL9B2AXbjan0c05YYzkjiOy4CZO8MU/edit?usp=sharing"><strong>Ovid 1: <em>ab origine mundi</em></strong></a></td>
+            <td>Satire catch-up<br><br><strong>QUIZ 7</strong></td>
             <!-- old
             <td>Ovid, <em>The Art of Love</em> 1.1-176, 229-398, 437-642; <em>Fasti</em> 4.721-862; <em>Tristia</em> 4.10 (Hackett, pp. 227-245, 248-256)<br><br><strong>QUIZ 7</strong></td>
             <td><strong>Ovid 4: From Amatory to Exilic Elegy</strong></td>
             -->
         </tr>
 
-        <tr> <!--Week 9 start-->
+        <tr> <!-- Week 9 -->
+            <td rowspan="3">9</td>
+            <td><strong>M 11/4</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 1-5 (Humphries/Reed)</td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1tmHt-KP_OLZiDSL9B2AXbjan0c05YYzkjiOy4CZO8MU/edit?usp=sharing"><strong>Ovid 1: <em>ab origine mundi</em></strong></a></td>
+        </tr>
+
+        <tr>
+            <td><strong>W 11/6</strong></td>
+            <td>Ovid <em>Met.</em> 1-5 continued</td>
+        </tr>
+
+        <tr>
+            <td><strong>F 11/8</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 6-9 (Humphries/Reed)</td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1FHFvU5mdOP7N9OQaHYqC-BnfB89keoVkGlccUDPfQSw/edit?usp=sharing"><strong>Ovid 2: From Divine Punishments to Human Horrors</strong></a></td>
+        </tr>
+
+        <tr> <!-- Week 10 -->
+            <td rowspan="3">10</td>
+            <td><strong>M 11/11</strong></td>
+            <td>Ovid <em>Met.</em> 6-9 continued</td>
+        <tr>
+
+        <tr>
+            <td><strong>W 11/13</strong></td>
+            <td>Ovid <em>Metamorphoses</em> Books 10-15 (Humphries/Reed)</td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1cqcM3H2aoe1me003hAIeAUR6vmh-BKft1bXK5Vnz9lc/edit?usp=sharing"><strong>Ovid 3: <em>ad mea tempora</em></strong></a></td>
+        </tr>
+
+        <tr>
+            <td><strong>F 11/15</strong></td>
+            <td>Ovid <em>Met.</em> 10-15 continued</td>
+        </tr>
+
+        <tr>
+            <td colspan="4"><strong>Weeks 11-13 TBD</strong></td>
+        </tr>
+<!--
+
+        <tr>
             <td rowspan="3">9</td>
             <td><strong>M 11/4</strong></td>
             <td>
@@ -226,7 +265,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td>Lucan <em>Pharsalia</em> <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaVImaster.php">Book 6</a> and <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaVIImaster.php">Book 7</a>.<br><br><strong>QUIZ 8</strong></td>
         </tr>
 
-        <tr> <!--Week 10 start-->
+        <tr>
             <td rowspan="3">10</td>
             <td><strong>M 11/11</strong></td>
             <td>Seneca <a href="https://drive.google.com/file/d/1aBYeg3CWX2Xx84_-qujpKlHU9vWjbsEo/view?usp=sharing"><em>Thyestes</em></a></td>
@@ -243,7 +282,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
         </tr>
 
-        <tr> <!--Week 11 start-->
+        <tr>
             <td rowspan="3">11</td>
             <td><strong>M 11/18</strong></td>
             <td>Tacitus <em>Annals</em> <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/1A*.html">1.1</a> (prologue), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4C*.html">4.32-35</a> (digression and Cremutius Cordus), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">15.38-44</a> (the Great Fire and persecution of the Christians)</td>
@@ -260,18 +299,18 @@ All assignments listed below should be completed by the date on which they’re 
               <br><br>Come to class having decided whether you want to take a final exam or write a final paper!</td>
         </tr>
 
-        <tr> <!--Week 12.1-->
+        <tr>
           <td>12.1</td>
           <td><strong>M 11/25</strong></td>
           <td>Inscriptions, all (Hackett, pp. 451-502)</td>
           <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
         </tr>
 
-        <tr> <!--Thanksgiving break-->
+        <tr>
           <td colspan="4"><strong>THANKSGIVING BREAK</strong></td>
         </tr>
 
-        <tr> <!--Week 12.2 start-->
+        <tr>
             <td rowspan="3">12.2</td>
             <td><strong>M 12/2</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 1-4 (Ruden)</td>
@@ -288,7 +327,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td><strong>Apuleius 3: Satirical Salvation?</strong></td>
         </tr>
 
-        <tr> <!--Week 13 start-->
+        <tr>
             <td rowspan="3">13</td>
             <td><strong>M 12/9</strong></td>
             <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
@@ -303,6 +342,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td><strong>F 12/13</strong></td>
             <td>TBD<br><br><strong>QUIZ 12</strong></td>
         </tr>
+-->
 
         <tr> <!--study period-->
           <td colspan="4"><strong>STUDY PERIOD</strong></td>
