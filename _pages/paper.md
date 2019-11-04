@@ -76,14 +76,13 @@ Cite BOTH by chapter number AND the page reference in Hackett. For example:
 
 Cite by the inscription or graffito number in Hackett with subsection number, if applicable. For example,
 
-> In the *Praise of Turia*, the husband praises Turia’s many good qualities with an instance of *praeteritio*: “Your domestic virtues — modesty, obedience, kindness, even temper, eagerness for working wool, religious reverence free from superstition, humbleness in your use of adornment, modesty in your style of dress — why should I mention them?” (1.1)
+> In the *Praise of Turia*, the husband praises Turia’s many good qualities with an instance of *praeteritio*: “Your domestic virtues — modesty, obedience, kindness, even temper, eagerness for working wool, religious reverence free from superstition, humbleness in your use of adornment, modesty in your style of dress — why should I mention them?” (1.1)  
 > Inscription 45 laments a young baby who died after only 9 months of life: “Here lies a pitiable infant stolen from her mother’s arms before she had lived nine full circuits of the moon. Her grieving mother and father weep for her as she lies, little body enclosed in a marble tomb.”
 
-### 6. Katharina Volk suggests two possibilities for how we view Ovid and his poetry: “One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.” Which of these options is closer to the truth?  Use evidence from *The Art of Love* and the *Metamorphoses* to support your argument.
+### 6. Katharina Volk suggests two possibilities for how we view Ovid and his poetry: “One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.” Which of these options is closer to the truth?  Use evidence from the *Metamorphoses* to support your argument.
 
-Cite by work name, book number, and line number for *The Art of Love*; cite by work name and page number for citations from the *Metamorphoses*. Examples:
+Cite by work name and page number. Examples:
 
-> Ovid advocates for adultery by means of a metaphor: “The crop is always richer in someone else’s field, his cow’s udder seem a bit more swollen with milk” (*The Art of Love* 1.349-350).
 > Pygmalion sculpts a perfect woman, literally objectified as a statue: “But meanwhile / He made, with marvelous art, an ivory statue, / As white as snow, and gave it greater beauty / Than any girl could have, and fell in love / with his own workmanship" (*Metamorphoses*, p. 242).
 
 ### 7. Is Lucius’ conversion to the cult of Isis at the end of Apuleius’ *The Golden Ass* serious or satiric?
