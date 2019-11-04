@@ -4,7 +4,7 @@ title: Grading
 permalink: /grading
 ---
 
-[Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|
+[Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|  
 Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \|
 &nbsp;&nbsp;&nbsp;&nbsp;[Final Exam](#final-exam-guidelines) \| [Final Paper](#final-paper-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
 
