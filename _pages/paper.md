@@ -10,7 +10,7 @@ The impact of the final paper grade on your semester grade is explained in the [
 
 ## Due Date and Time
 
-Thursday, December 19, at 2pm, via e-mail or hard copy in the box on my office door (Fenwick 426).
+Thursday, December 19, at 2pm, via [upload portal](https://forms.gle/AQSPjMyhwTN6x8Vw8) or hard copy in the box on my office door (Fenwick 426).
 
 ## Length
 
