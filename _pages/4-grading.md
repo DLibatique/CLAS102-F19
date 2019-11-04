@@ -4,8 +4,8 @@ title: Grading
 permalink: /grading
 ---
 
-[Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|  
-Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \|  
+[Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|
+Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \|
 &nbsp;&nbsp;&nbsp;&nbsp;[Final Exam](#final-exam-guidelines) \| [Final Paper](#final-paper-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
 
 ---
@@ -194,7 +194,7 @@ The final exam will be administered on **Thursday, December 19, from 11:30am to 
 
 ## Final Paper Guidelines
 
-For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/final-paper).
+For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/paper).
 
 The final paper will be due either via upload portal or physical copy in my office on **Thursday, December 19, at 2pm**.
 
@@ -218,9 +218,9 @@ All creative projects must be submitted to me by **5pm on Monday, December 16 (t
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
-Submit Creative Project #1: 9/27  
-Submit Creative Project #2: 10/25  
-Submit Creative Project #3: 11/22  
-Submit Creative Project #4: 12/16  
+Submit Creative Project #1: 9/27
+Submit Creative Project #2: 10/25
+Submit Creative Project #3: 11/22
+Submit Creative Project #4: 12/16
 
 [Back to top.](#top)
