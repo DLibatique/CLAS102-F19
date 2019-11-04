@@ -194,7 +194,7 @@ The final exam will be administered on **Thursday, December 19, from 11:30am to 
 
 ## Final Paper Guidelines
 
-For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here](/paper).
+For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here]({{ site.baseurl }}/final-paper).
 
 The final paper will be due either via upload portal or physical copy in my office on **Thursday, December 19, at 2pm**.
 
