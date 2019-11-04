@@ -10,7 +10,7 @@ The impact of the final paper grade on your semester grade is explained in the [
 
 ## Due Date and Time
 
-The end time on the date of the final exam, to be determined by the registrar.
+Thursday, December 19, at 2pm, via e-mail or hard copy in the box on my office door (Fenwick 426).
 
 ## Length
 
@@ -77,7 +77,7 @@ Cite BOTH by chapter number AND the page reference in Hackett. For example:
 Cite by the inscription or graffito number in Hackett with subsection number, if applicable. For example,
 
 > In the *Praise of Turia*, the husband praises Turia’s many good qualities with an instance of *praeteritio*: “Your domestic virtues — modesty, obedience, kindness, even temper, eagerness for working wool, religious reverence free from superstition, humbleness in your use of adornment, modesty in your style of dress — why should I mention them?” (1.1)
->  
+>
 > Inscription 45 laments a young baby who died after only 9 months of life: “Here lies a pitiable infant stolen from her mother’s arms before she had lived nine full circuits of the moon. Her grieving mother and father weep for her as she lies, little body enclosed in a marble tomb.”
 
 ### 6. Katharina Volk suggests two possibilities for how we view Ovid and his poetry: “One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.” Which of these options is closer to the truth?  Use evidence from the *Metamorphoses* to support your argument.
