@@ -218,7 +218,14 @@ All assignments listed below should be completed by the date on which they’re 
 
         <tr>
             <td><strong>F 11/8</strong></td>
-            <td>Ovid <em>Metamorphoses</em> Books 6-9 (Humphries/Reed)<br><br><a href="https://forms.gle/QymWqe9G5svBvry88">COMPLETE QUIZ #8 HERE</a></td>
+            <td>Ovid <em>Metamorphoses</em> Books 6-9 (Humphries/Reed)
+            <br><br>
+            Watch the following two parts of the lecture:
+            <ul>
+              <li><a href="https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27081dc1-ddb0-444b-a19c-aafd001ff6a3">Part 1</a></li>
+              <li><a href="https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d432e69-686c-4a55-b1d3-aafd0029ff6a">Part 2</a></li>
+            </ul>
+            <br><br><a href="https://forms.gle/QymWqe9G5svBvry88"><strong>COMPLETE QUIZ #8 HERE</strong></a></td>
             <td rowspan="2"><a href="https://docs.google.com/presentation/d/1FHFvU5mdOP7N9OQaHYqC-BnfB89keoVkGlccUDPfQSw/edit?usp=sharing"><strong>Ovid 2: From Divine Punishments to Human Horrors</strong></a></td>
         </tr>
 
