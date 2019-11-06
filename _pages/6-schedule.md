@@ -218,7 +218,7 @@ All assignments listed below should be completed by the date on which they’re 
 
         <tr>
             <td><strong>F 11/8</strong></td>
-            <td>Ovid <em>Metamorphoses</em> Books 6-9 (Humphries/Reed)</td>
+            <td>Ovid <em>Metamorphoses</em> Books 6-9 (Humphries/Reed)<br><br><a href="https://forms.gle/QymWqe9G5svBvry88">COMPLETE QUIZ #8 HERE</a></td>
             <td rowspan="2"><a href="https://docs.google.com/presentation/d/1FHFvU5mdOP7N9OQaHYqC-BnfB89keoVkGlccUDPfQSw/edit?usp=sharing"><strong>Ovid 2: From Divine Punishments to Human Horrors</strong></a></td>
         </tr>
 
@@ -236,7 +236,7 @@ All assignments listed below should be completed by the date on which they’re 
 
         <tr>
             <td><strong>F 11/15</strong></td>
-            <td>Ovid <em>Met.</em> 10-15 continued</td>
+            <td>Ovid <em>Met.</em> 10-15 continued<br><br><strong>QUIZ #9</strong></td>
         </tr>
 
         <tr>
