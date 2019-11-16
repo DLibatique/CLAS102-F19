@@ -248,14 +248,9 @@ All assignments listed below should be completed by the date on which they’re 
             <td>Ovid <em>Met.</em> 10-15 continued<br><br><strong>QUIZ #9</strong></td>
         </tr>
 
-        <tr>
-            <td colspan="4"><strong>Weeks 11-13 TBD</strong></td>
-        </tr>
-<!--
-
-        <tr>
-            <td rowspan="3">9</td>
-            <td><strong>M 11/4</strong></td>
+        <tr> <!-- Week 11 -->
+            <td rowspan="3">11</td>
+            <td><strong>M 11/18</strong></td>
             <td>
               <ul>
                 <li>Lucretius, <em>On the Nature of Things</em> (all in Hackett, pp. 184-200)</li>
@@ -264,6 +259,24 @@ All assignments listed below should be completed by the date on which they’re 
             </td>
             <td><strong>Roman Philosophy: Epicureanism, Stoicism, Cynicism</strong></td>
         </tr>
+        <tr>
+            <td><strong>W 11/20</strong></td>
+            <td>Tacitus <a href="https://drive.google.com/file/d/18MCDJDxsEJcqeEBRKjh_g0CMW5cw6HLs/view?usp=sharing"><em>Agricola</em> 1-9, 18-46</a></td>
+            <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
+        </tr>
+        <tr>
+            <td><strong>F 11/22</strong></td>
+            <td>Tacitus <em>Annals</em> <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/1A*.html">1.1</a> (prologue), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4C*.html">4.32-35</a> (digression and Cremutius Cordus), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">15.38-44</a> (the Great Fire and persecution of the Christians)<br><br><strong>QUIZ 10</strong></td>
+        </tr>
+
+        <tr> <!-- Week 12.1 -->
+          <td>12.1</td>
+          <td><strong>M 11/25</strong></td>
+          <td>Inscriptions, all (Hackett, pp. 451-502)</td>
+          <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
+        </tr>
+
+<!--
         <tr>
             <td><strong>W 11/6</strong></td>
             <td>Lucan <a href="https://www.poetryintranslation.com/PITBR/Latin/PharsaliaImaster.php"><em>Pharsalia</em> Book 1</a><br><br><strong>Guest lecturer: Prof. Tim Joseph</strong></td>
@@ -285,17 +298,9 @@ All assignments listed below should be completed by the date on which they’re 
             <td>Suetonius <a href="https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo016.perseus-eng2:1-57"><em>Nero</em></a></td>
             <td><strong>Imperial Biography: Suetonius’ <em>Nero</em> and the <em>Lives of the Caesars</em></strong></td>
         </tr>
-        <tr>
-            <td><strong>F 11/15</strong></td>
-            <td>Tacitus <a href="https://drive.google.com/file/d/18MCDJDxsEJcqeEBRKjh_g0CMW5cw6HLs/view?usp=sharing"><em>Agricola</em> 1-9, 18-46</a><br><br><strong>QUIZ 9</strong></td>
-            <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
-        </tr>
 
-        <tr>
-            <td rowspan="3">11</td>
-            <td><strong>M 11/18</strong></td>
-            <td>Tacitus <em>Annals</em> <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/1A*.html">1.1</a> (prologue), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4C*.html">4.32-35</a> (digression and Cremutius Cordus), <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">15.38-44</a> (the Great Fire and persecution of the Christians)</td>
-        </tr>
+
+
         <tr>
             <td><strong>W 11/20</strong></td>
             <td>Pliny <em>Letters</em> 2-3, 5, 8, 12-14, 18, 20-21, 23-24 (Hackett, pp. 299-307, 309-312, 315-317, 322-326)</td>
@@ -308,16 +313,16 @@ All assignments listed below should be completed by the date on which they’re 
               <br><br>Come to class having decided whether you want to take a final exam or write a final paper!</td>
         </tr>
 
-        <tr>
-          <td>12.1</td>
-          <td><strong>M 11/25</strong></td>
-          <td>Inscriptions, all (Hackett, pp. 451-502)</td>
-          <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
-        </tr>
+-->
 
         <tr>
           <td colspan="4"><strong>THANKSGIVING BREAK</strong></td>
         </tr>
+        <tr>
+          <td colspan="4"><strong>Week 12.2 and 13 TBD</strong></td>
+        </tr>
+
+<!--
 
         <tr>
             <td rowspan="3">12.2</td>
