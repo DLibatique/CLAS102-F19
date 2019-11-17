@@ -257,7 +257,7 @@ All assignments listed below should be completed by the date on which they’re 
                 <li>Seneca, <em>Philosophical Letters</em> (all in Hackett, pp. 394-418)</li>
               </ul>
             </td>
-            <td><strong>Roman Philosophy: Epicureanism, Stoicism, Cynicism</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1smwhd0uIrRGeSZAErqsUDyTZR9VsXvEFLYWv1RSeAtw/edit?usp=sharing"><strong>Roman Philosophy: Epicureanism, Stoicism, Cynicism</strong></a></td>
         </tr>
         <tr>
             <td><strong>W 11/20</strong></td>
