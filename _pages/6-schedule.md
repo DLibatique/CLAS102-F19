@@ -262,7 +262,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>W 11/20</strong></td>
             <td>Tacitus <a href="https://drive.google.com/file/d/18MCDJDxsEJcqeEBRKjh_g0CMW5cw6HLs/view?usp=sharing"><em>Agricola</em> 1-9, 18-46</a></td>
-            <td rowspan="2"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1EVpoCSGlA32xYDgLd5VvHfNaNGLmr6JE7R15JPkJDBQ/edit?usp=sharing"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></a></td>
         </tr>
         <tr>
             <td><strong>F 11/22</strong></td>
