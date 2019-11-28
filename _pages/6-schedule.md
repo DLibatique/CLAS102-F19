@@ -342,7 +342,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3">13</td>
             <td><strong>M 12/9</strong></td>
             <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
-            <td><strong>Perpetua: A Christian Martyr</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1fEKH2MB11ccz_PKliGkcTBKRXfp9GlXFYRlssmdBJEA/edit?usp=sharing"><strong>Perpetua: A Christian Martyr</strong></a></td>
         </tr>
         <tr>
             <td><strong>W 12/11</strong></td>
