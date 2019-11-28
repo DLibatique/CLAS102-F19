@@ -347,7 +347,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>W 12/11</strong></td>
             <td>TBD</td>
-            <td rowspan="2"><strong>In Conclusion and Next Steps</strong></td>
+            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1GHlq5ZqWr0zErA-ufkbUfNoXE8ei-mcfYt0HihvRkEU/edit?usp=sharing"><strong>In Conclusion and Next Steps</strong></a></td>
         </tr>
         <tr>
             <td><strong>F 12/13</strong></td>
