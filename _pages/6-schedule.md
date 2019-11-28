@@ -262,7 +262,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>W 11/20</strong></td>
             <td>Tacitus <a href="https://drive.google.com/file/d/18MCDJDxsEJcqeEBRKjh_g0CMW5cw6HLs/view?usp=sharing"><em>Agricola</em> 1-9, 18-46</a></td>
-            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1EVpoCSGlA32xYDgLd5VvHfNaNGLmr6JE7R15JPkJDBQ/edit?usp=sharing"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></a></td>
+            <td rowspan="3"><a href="https://docs.google.com/presentation/d/1EVpoCSGlA32xYDgLd5VvHfNaNGLmr6JE7R15JPkJDBQ/edit?usp=sharing"><strong>Imperial Historiography: Tacitus and How to Survive a Tyrant</strong></a></td>
         </tr>
         <tr>
             <td><strong>F 11/22</strong></td>
@@ -272,8 +272,7 @@ All assignments listed below should be completed by the date on which they’re 
         <tr> <!-- Week 12.1 -->
           <td>12.1</td>
           <td><strong>M 11/25</strong></td>
-          <td>Inscriptions, all (Hackett, pp. 451-502)</td>
-          <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
+          <td>Tacitus catch-up</td>
         </tr>
 
 <!--
@@ -318,30 +317,28 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
           <td colspan="4"><strong>THANKSGIVING BREAK</strong></td>
         </tr>
-        <tr>
-          <td colspan="4"><strong>Week 12.2 and 13 TBD</strong></td>
+
+        <tr> <!-- Week 12.2 -->
+          <td rowspan="3">12.2</td>
+          <td><strong>M 12/2</strong></td>
+          <td>Inscriptions, all (Hackett, pp. 451-502)</td>
+          <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
         </tr>
 
-<!--
-
-        <tr>
-            <td rowspan="3">12.2</td>
-            <td><strong>M 12/2</strong></td>
-            <td>Apuleius <em>The Golden Ass</em> Books 1-4 (Ruden)</td>
-            <td><strong>Apuleius 1: Making an Ass of Yourself</strong></td>
-        </tr>
         <tr>
             <td><strong>W 12/4</strong></td>
-            <td>Apuleius <em>The Golden Ass</em> Books 5-8 (Ruden)</td>
-            <td><strong>Apuleius 2: Cupid, Psyche, and the Degenerate Priests</strong></td>
-        </tr>
-        <tr>
-            <td><strong>F 12/6</strong></td>
-            <td>Apuleius <em>The Golden Ass</em> Books 9-11 (Ruden)<br><br><strong>QUIZ 11</strong></td>
-            <td><strong>Apuleius 3: Satirical Salvation?</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 1-6 (Ruden)</td>
+            <td><strong>Apuleius 1: Making an Ass of Yourself, and Cupid and Psyche</strong></td>
         </tr>
 
         <tr>
+            <td><strong>F 12/6</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 7-11 (Ruden)<br><br><strong>QUIZ 11</strong></td>
+            <td><strong>Apuleius 2: Satirical Salvation?</strong></td>
+        </tr>
+
+
+        <tr> <!-- Week 13 -->
             <td rowspan="3">13</td>
             <td><strong>M 12/9</strong></td>
             <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
