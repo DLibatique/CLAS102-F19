@@ -5,8 +5,7 @@ permalink: /grading
 ---
 
 [Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|
-Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \|  
-&nbsp;&nbsp;&nbsp;&nbsp;[Final Exam](#final-exam-guidelines) \| [Final Paper](#final-paper-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
+Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \| [Final Exam](#final-exam-guidelines) \| [Final Paper](#final-paper-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
 
 ---
 
@@ -218,9 +217,9 @@ All creative projects must be submitted to me by **5pm on Monday, December 16 (t
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 
-Submit Creative Project #1: 9/27
-Submit Creative Project #2: 10/25
-Submit Creative Project #3: 11/22
-Submit Creative Project #4: 12/16
+Submit Creative Project #1: 9/27  
+Submit Creative Project #2: 10/25  
+Submit Creative Project #3: 11/22  
+Submit Creative Project #4: 12/16  
 
 [Back to top.](#top)
