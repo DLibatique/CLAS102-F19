@@ -322,19 +322,19 @@ All assignments listed below should be completed by the date on which they’re 
           <td rowspan="3">12.2</td>
           <td><strong>M 12/2</strong></td>
           <td>Inscriptions, all (Hackett, pp. 451-502)</td>
-          <td><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></td>
+          <td><a href="https://docs.google.com/presentation/d/1U3AyuW6pj6ZJbXmHZ381UtUPk9hVDmmxtFijtpsR0oY/edit?usp=sharing"><strong>The Epigraphic Habit: Graffiti and Epitaphs</strong></a></td>
         </tr>
 
         <tr>
             <td><strong>W 12/4</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 1-6 (Ruden)</td>
-            <td><strong>Apuleius 1: Making an Ass of Yourself, and Cupid and Psyche</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 1: Making an Ass of Yourself, and Cupid and Psyche</strong></a></td>
         </tr>
 
         <tr>
             <td><strong>F 12/6</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 7-11 (Ruden)<br><br><strong>QUIZ 11</strong></td>
-            <td><strong>Apuleius 2: Satirical Salvation?</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 2: Satirical Salvation?</strong></a></td>
         </tr>
 
 
