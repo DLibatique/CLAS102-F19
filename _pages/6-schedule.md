@@ -343,7 +343,7 @@ All assignments listed below should be completed by the date on which they’re 
             <ul>
               <li>Focus on Book 11.</li>
             </ul>
-            <br><br><strong>QUIZ 11</strong></td>
+            <br><strong>QUIZ 11</strong></td>
             <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 2: Satirical Salvation?</strong></a></td>
         </tr>
 
