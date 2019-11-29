@@ -327,13 +327,14 @@ All assignments listed below should be completed by the date on which they’re 
 
         <tr>
             <td><strong>W 12/4</strong></td>
-            <td>Apuleius <em>The Golden Ass</em> Books 1-6 (Ruden)</td>
+            <td>Apuleius <em>The Golden Ass</em> Books 1-6 (Ruden)
+            <br><ul><li>Focus on the introduction (1.1-1.20) and Cupid and Psyche (4.28-6.24).</li></ul></td>
             <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 1: Making an Ass of Yourself, and Cupid and Psyche</strong></a></td>
         </tr>
 
         <tr>
             <td><strong>F 12/6</strong></td>
-            <td>Apuleius <em>The Golden Ass</em> Books 7-11 (Ruden)<br><br><strong>QUIZ 11</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 7-11 (Ruden)<br><ul><li>Focus on Book 11.</li></ul><br><br><strong>QUIZ 11</strong></td>
             <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 2: Satirical Salvation?</strong></a></td>
         </tr>
 
