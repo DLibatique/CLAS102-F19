@@ -22,7 +22,7 @@ All assignments listed below should be completed by the date on which they’re 
 
     <tbody>
 
-        <tr> <!--Week 1 start-->
+        <tr> <!-- Week 1 start -->
             <td rowspan="2">1</td>
             <td><strong>W 9/4</strong></td>
             <td>Come to class!</td>
@@ -39,7 +39,7 @@ All assignments listed below should be completed by the date on which they’re 
             </td>
         </tr>
 
-        <tr> <!--Week 2 start-->
+        <tr> <!-- Week 2 start -->
             <td rowspan="3">2</td>
             <td><strong>M 9/9</strong></td>
             <td>Plautus <a href="https://drive.google.com/open?id=1rU6nqT5Us7cQ-gDqS-dQf86k3PnCwFDZ"><em>Casina</em> 1-514</a></td>
@@ -55,7 +55,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td rowspan="3"><a href="https://docs.google.com/presentation/d/1X4_ChsH8WcnQDKyvxp_dx4MYsAxPMBTK8wmhdPSrBsM/edit?usp=sharing"><strong>Cicero, A <em>Novus Homo</em>, and the <em>Cursus Honorum</em></strong></a></td>
         </tr>
 
-        <tr> <!--Week 3 start-->
+        <tr> <!-- Week 3 start -->
             <td rowspan="3">3</td>
             <td><strong>M 9/16</strong></td>
             <td>Cicero <em>Letters</em> 5-8, 10, 12-14, 16, 18 (Hackett, pp. 43-44, 53-57, 59-65, 67-69)</td>
@@ -78,7 +78,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td><a href="https://docs.google.com/presentation/d/1leVR-E3griFNFIOmMPXksehctjzVVJ0pixAJzPMu6EA/edit?usp=sharing"><strong>Elegiac and Nugatory Poetry 1: <em>novum libellum</em> and the Female Perspective</strong></a></td>
         </tr>
 
-        <tr> <!--Week 4 start-->
+        <tr> <!-- Week 4 start -->
             <td rowspan="3">4</td>
             <td><strong>M 9/23</strong></td>
             <td>
@@ -106,7 +106,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td>n/a</td>
         </tr>
 
-        <tr> <!--Week 5 start-->
+        <tr> <!-- Week 5 start -->
             <td rowspan="3">5</td>
             <td><strong>M 9/30</strong></td>
             <td>Livy preface, 1.1-9 (Hackett, pp. 143-152)</td>
@@ -123,7 +123,7 @@ All assignments listed below should be completed by the date on which they’re 
             <td><strong>Augustus: <em>pater patriae</em></strong></td>
         </tr>
 
-        <tr> <!--Week 6 start-->
+        <tr> <!-- Week 6 start -->
             <td rowspan="3">6</td>
             <td><strong>M 10/7</strong></td>
             <td>Vergil <em>Aeneid</em> Books 1-4 (Ruden)</td>
@@ -328,13 +328,22 @@ All assignments listed below should be completed by the date on which they’re 
         <tr>
             <td><strong>W 12/4</strong></td>
             <td>Apuleius <em>The Golden Ass</em> Books 1-6 (Ruden)
-            <br><ul><li>Focus on the introduction (1.1-1.20) and Cupid and Psyche (4.28-6.24).</li></ul></td>
+              <br>
+              <ul>
+                <li>Focus on the introduction (1.1-1.20) and Cupid and Psyche (4.28-6.24).</li>
+              </ul>
+            </td>
             <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 1: Making an Ass of Yourself, and Cupid and Psyche</strong></a></td>
         </tr>
 
         <tr>
             <td><strong>F 12/6</strong></td>
-            <td>Apuleius <em>The Golden Ass</em> Books 7-11 (Ruden)<br><ul><li>Focus on Book 11.</li></ul><br><br><strong>QUIZ 11</strong></td>
+            <td>Apuleius <em>The Golden Ass</em> Books 7-11 (Ruden)
+            <br>
+            <ul>
+              <li>Focus on Book 11.</li>
+            </ul>
+            <br><br><strong>QUIZ 11</strong></td>
             <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 2: Satirical Salvation?</strong></a></td>
         </tr>
 
