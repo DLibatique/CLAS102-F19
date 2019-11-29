@@ -363,7 +363,6 @@ All assignments listed below should be completed by the date on which they’re 
             <td><strong>F 12/13</strong></td>
             <td>TBD<br><br><strong>QUIZ 12</strong></td>
         </tr>
--->
 
         <tr> <!--study period-->
           <td colspan="4"><strong>STUDY PERIOD</strong></td>
