@@ -344,24 +344,24 @@ All assignments listed below should be completed by the date on which they’re 
               <li>Focus on Book 11.</li>
             </ul>
             <br><strong>QUIZ 11</strong></td>
-            <td><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 2: Satirical Salvation?</strong></a></td>
+            <td rowspan="3"><a href="https://docs.google.com/presentation/d/1sto2os63xp8uDxBxvcsF8MRm341ozsUFwbXbs--gLHs/edit?usp=sharing"><strong>Apuleius 2: Satirical Salvation?</strong></a></td>
         </tr>
 
 
         <tr> <!-- Week 13 -->
             <td rowspan="3">13</td>
             <td><strong>M 12/9</strong></td>
-            <td>Perpetua, <em>The Passion of Perpetua and Felicitas</em> (Hackett, pp. 257-266)</td>
-            <td><a href="https://docs.google.com/presentation/d/1fEKH2MB11ccz_PKliGkcTBKRXfp9GlXFYRlssmdBJEA/edit?usp=sharing"><strong>Perpetua: A Christian Martyr</strong></a></td>
+            <td>Apuleius continued</td>
         </tr>
         <tr>
             <td><strong>W 12/11</strong></td>
-            <td>TBD</td>
-            <td rowspan="2"><a href="https://docs.google.com/presentation/d/1GHlq5ZqWr0zErA-ufkbUfNoXE8ei-mcfYt0HihvRkEU/edit?usp=sharing"><strong>In Conclusion and Next Steps</strong></a></td>
+            <td>Apuleius Continued</td>
+
         </tr>
         <tr>
             <td><strong>F 12/13</strong></td>
-            <td>TBD<br><br><strong>QUIZ 12</strong></td>
+            <td>In Conclusion<br><br><strong>QUIZ 12</strong></td>
+            <td><a href="https://docs.google.com/presentation/d/1GHlq5ZqWr0zErA-ufkbUfNoXE8ei-mcfYt0HihvRkEU/edit?usp=sharing"><strong>In Conclusion and Next Steps</strong></a></td>
         </tr>
 
         <tr> <!--study period-->
